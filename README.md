@@ -4,7 +4,7 @@
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 ## List of contributors (alphabetical order):
-Abhijit Chakraborty, Alexandr Ten, Amelie Desvars-Larrive, Andrea Pacheco, Anna Di Natale, Diana Lederhilger, 
+Abhijit Chakraborty, Alexandr Ten, Amelie Desvars-Larrive, Andrea Pacheco, Anna Di Natale, David Garcia, Diana Lederhilger, 
 Diana S. Gliga, Elise Chen, Elma Dervic, Erwin Flores Tames, Huda Takriti, Jad Amro, Jan Korbel, Jana Lasser, Jenny Reddish, 
 Johannes Stangl, Lamija Hadziavdic, Laura Stoeger, Leana Gooriah, Marcia R. Ferreira, Nils Haug, Rainer Vierlinger, Samantha Holder, 
 Samuel Álvarez, Simon Lindner, Simon Haberfellner, Thomas Niederkrotenthaler, Verena Ahne, Viktoria Reisch, Xiao Chen
