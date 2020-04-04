@@ -74,9 +74,11 @@ Resource allocation,Crisis management plans,Develop all-of-society and business 
 Resource allocation,Crisis management plans,Implement repurpose government plans,
 Resource allocation,Crisis management plans,Implement repurpose community services plans,
 Resource allocation,Crisis management plans,Research,
+Resource allocation,The government provides food assistance,,
 Resource allocation,Receive international help,,
 Resource allocation,Provide international help,,
 Resource allocation,Rationing PPE for population,Masks,
+Resource allocation,Fixing maximum price for specific protective products,,
 Resource allocation,Setting  price for specific protective products,"Precide: masks, hand sanitizers...",
 Risk communication,Actively communicate with healthcare professionals,"Sensitization of hospital establishments, medico-social establishments and liberal health professionals","e.g. guidelines, documentation"
 Risk communication,Actively communicate with healthcare professionals,Health agencies and emergency healthcare,
@@ -113,10 +115,6 @@ Social distancing,Closure of educational institutions,Partial closure of educati
 Social distancing,Closure of educational institutions,Complete closure of educational institutions,Complete closure of kindergardens
 Social distancing,Closure of educational institutions,Complete closure of educational institutions,Complete closure of primary and secondary schools
 Social distancing,Closure of educational institutions,Complete closure of educational institutions,"Complete closure of universities, research institutions"
-Social distancing,Cordon sanitaire/mandatory quarantine,One city,
-Social distancing,Cordon sanitaire/mandatory quarantine of a building or residential area(s),More than one city,
-Social distancing,Cordon sanitaire/mandatory quarantine of a building or residential area(s),One region,
-Social distancing,Cordon sanitaire/mandatory quarantine of a building or residential area(s),More than one region,
 Social distancing,Curfew,,
 Social distancing,Mass gathering cancellation,(unspecified),
 Social distancing,Mass gathering cancellation,"Cultural events (theatres, cinemas, concerts, etc.)",
@@ -147,8 +145,9 @@ Social distancing,Return operation of nationals living in Hubei,Quarantine,
 Social distancing,Return operation of nationals living in regions at risk,(precise country),
 Social distancing,Small gathering cancellation,"(e-g-  sick leave process is simplifed even more, no doctor's certificate necessary for home stay due to illness)",
 Social distancing,Small gathering cancellation,Police and army control and sanctions,
-Social distancing,Small gathering cancellation,Closure of restaurants/bars/cafes,Partial or total
+Social distancing,Small gathering cancellation,Closure of restaurants/bars/cafes/discoteques,Partial or total
 Social distancing,Small gathering cancellation,Closure of non-essential shops,
+Social distancing,Small gathering cancellation,Closure of hotels/tourist accomodations,
 Social distancing,Small gathering cancellation,Increase delivery capacity for food products,
 Social distancing,Small gathering cancellation,Implement part-time work,
 Social distancing,Small gathering cancellation,Mandatory home office,
@@ -156,7 +155,12 @@ Social distancing,Small gathering cancellation,Closure of non-essential public p
 Social distancing,Small gathering cancellation,Closure of non-essential working places,
 Social distancing,Special measures for certain establishments,Food services,
 Social distancing,Work safety protocols,,
+Social distancing,Individual movement restrictions,Segmenting of population ,
 Stage 4,Support for the return to normal life,Lift quarantine,
+Travel restriction,Cordon sanitaire,One city,
+Travel restriction,Cordon sanitaire,More than one city,
+Travel restriction,Cordon sanitaire,One region,
+Travel restriction,Cordon sanitaire,More than one region,
 Travel restriction,Airport restriction,Denial entry of travellers from Wuhan,
 Travel restriction,Airport restriction,Denial entry of travellers from China,
 Travel restriction,Airport restriction,"Denial entry of travellers from ""high-risk"" countries other than China",Precise
@@ -169,6 +173,7 @@ Travel restriction,Border restriction,Borders closed for people from high-risk a
 Travel restriction,Border restriction,Borders closed to all non-citizens,
 Travel restriction,Border restriction,Borders closed to refugees,
 Travel restriction,Border restriction,Border control,
+Travel restriction,Deportation of Chinese nationals,,
 Travel restriction,Cancellation of international flights,Partial or total,
 Travel restriction,Denial entry to boats with more than 100 passengers,With suspected cases or from China,
 Travel restriction,Denial entry to boats with more than 100 passengers,All,
