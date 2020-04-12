@@ -15,6 +15,8 @@ The list of non-pharmaceutical interventions used to describe the intervention s
 Intervention measures are organised in categories; level L1 is the broadest description of the measure while L4 provide the smallest level of detail. 
 The column "comment" provides a fine description of the implemented measure.
 
+The CCCSL is an ongoing collaborative project, built in a time limited by the emergency of the situation. The CCCSL will be continuously updated and new countries will added.
+
 ## Contact information
 Amélie Desvars-Larrive, [Complexity Science Hub Vienna](https://www.csh.ac.at)
 desvars@csh.ac.at
