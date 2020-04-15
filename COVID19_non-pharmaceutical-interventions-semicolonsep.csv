@@ -1,4 +1,4 @@
-"";"Country";"iso3c";"Region";"Date";"Measure_L1";"Measure_L2";"Measure_L3";"Measure_L4";"Comment";"Source"
+"";"Country";"iso3";"Region";"Date";"Measure_L1";"Measure_L2";"Measure_L3";"Measure_L4";"Comment";"Source"
 "1";"Albania";"ALB";"Albania";"15/03/2020";"Travel restriction";"Border restriction";"Borders closed for travellers but open for food supply";"";"""On 15 March, Albania closed all of its land borders until further notice, making all travel from Montenegro, Kosovo, North Macedonia, and Greece prohibited.""";"https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Albania"
 "2";"Albania";"ALB";"Albania";"10/03/2020";"Travel restriction";"Cancellation of international flights";"To and from Italy";"";"";"https://www.tiranatimes.com/?p=144535"
 "3";"Albania";"ALB";"Albania";"08/03/2020";"Travel restriction";"Cancellation of international flights";"Northern Italy";"Government stopped all flights with quarantines areas of Northern Italy until 3rd April.";"";"https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Albania"
