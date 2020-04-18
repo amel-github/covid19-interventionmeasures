@@ -8,19 +8,27 @@ Desvars-Larrive A., Ahne V., Álvarez S., Amro J., Berishaj D., Chakraborty A., 
 
 ## Data
 This data set contains data that have been collected from public sources.
-The column "Date" corresponds to date of application (if not found, date of announcement is provided).
-This data set will be completed and cleaned within the next weeks.
-
-The list of non-pharmaceutical interventions used to describe the intervention strategy in the different countries is provided.
-Intervention measures are organised in categories; level L1 is the broadest description of the measure while L4 provide the smallest level of detail. 
+The column "Date" corresponds to the date of application (if not found, date of announcement is provided).
+The column "Region" specifies if measures were implemented at sub-national level and precise the region.
+Intervention measures are classified following a four-level coding strategy. Level 1 (L1) shows the top-level categories of intervention measures in our classification scheme, including
+(1) Case identification, contact tracing and related measures,
+(2) Environmental measures,
+(3) Healthcare and public health capacity,
+(4) Resource allocation,
+(5) Risk communication,
+(6) Social distancing,
+(7) Travel restriction,
+(8) Returning to normal life.
+Level 2 (L2) presents subcategories of measures for each L1 category. Level 3 (L3) presents subcategories of measures for each L2-category measure or specific detail about the corresponding L2-category measure. Level 4 (L4) presents the most detailed description of the measure. We developed a standardized list of measures through the process of data collection (provided in this repository).  
 The column "comment" provides a fine description of the implemented measure.
 
-The CCCSL is an ongoing collaborative project, built in a time limited by the emergency of the situation. The CCCSL will be continuously updated and new countries will added.
+## Note
+The CCCSL is an ongoing collaborative project, built in a time limited by the emergency of the situation. Version 1 of the CCCSL has not undergone systematic validation and is currently subjected to an extensive data validation process. Our objective is to validate and develop the dataset within the next three months.
 
 ## Contact information
 Amélie Desvars-Larrive, [Complexity Science Hub Vienna](https://www.csh.ac.at)
 desvars@csh.ac.at
 
 ## Acknowledgements
-This work was coordinated by the Complexity Science Hub Vienna.
+This work was coordinated by the Complexity Science Hub Vienna, Austria.
 
