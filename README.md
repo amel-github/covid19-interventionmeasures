@@ -26,8 +26,8 @@ The column "comment" provides a fine description of the implemented measure.
 The CCCSL is an ongoing collaborative project, built in a time limited by the emergency of the situation. Version 1 of the CCCSL has not undergone systematic validation and is currently subjected to an extensive data validation process. Our objective is to validate and develop the dataset within the next three months.
 
 ## Contact information
-Amélie Desvars-Larrive, [Complexity Science Hub Vienna](https://www.csh.ac.at)
-desvars@csh.ac.at
+Amélie Desvars-Larrive, [Complexity Science Hub Vienna] (https://www.csh.ac.at)
+Email: desvars@csh.ac.at
 
 ## Acknowledgements
 This work was coordinated by the Complexity Science Hub Vienna, Austria.
