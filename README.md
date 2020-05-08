@@ -9,7 +9,7 @@ Desvars-Larrive A., Ahne V., Álvarez S., Berishaj D., Chakraborty A., Chen E., 
 ## Data
 A wide range of different public sources were used to populate, update and curate our dataset, including official government sources, peer-reviewed and non-peer-reviewed scientific papers, webpages of public health institutions (WHO, CDC, and ECDC), press releases, newspaper articles, and government communication through social media. 
 
-**ID –** Unique identifier for the implemented measure. ID is also used in the Google Form to report erroneous entries.<br>
+**id –** Unique identifier for the implemented measure. ID is also used in the Google Form to report erroneous entries.<br>
 **Country –** The country where the NPI measure was implemented.<br>
 **ISO3** – Three-letter country code as published by the International Organization for Standardization.<br>
 **Region** – Subnational geographic area (e.g. region, department, municipality, city) where the NPI measure has been locally implemented (i.e. the measure was not implemented nationwide as of the mentioned date). The country name otherwise (i.e. measure implemented nationwide).<br>
