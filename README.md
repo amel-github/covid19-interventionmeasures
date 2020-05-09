@@ -33,7 +33,7 @@ An open library is available (work in progress), that contains all sources used 
 ## Note
 The CCCSL is an ongoing collaborative project, built in a time limited by the emergency of the situation. *Version 1* of the CCCSL has not undergone systematic validation and is currently subjected to an extensive data validation process. Our objective is to validate and develop the dataset within the next three months.<br>
 We have released *Version 2* of the CCCSL which presents stabilized coding for levels 1 and 2 of the coding scheme.<br>
-We are currently developping the labels of the categories/subcategories/codes for the theme "Returning to normal life".
+We are currently developing the labels of the categories/subcategories/codes for the theme "Returning to normal life".
 
 ## Contact information
 Amélie Desvars-Larrive, [Complexity Science Hub Vienna] (https://www.csh.ac.at)
