@@ -6,7 +6,7 @@
 ## Cite as:
 Desvars-Larrive A., Ahne V., Álvarez S., Berishaj D., Chakraborty A., Chen E., Chen X., Cserjan D., Dervic A., Dervic E., Di Natale A., Ferreira M.R., Flores Tames E., Garcia D., Gliga D.S., Gooriah L., Haberfellner S., Hadziavdic L., Haug N., Holder S., Korbel J., Lasser J., Lederhilger D., Niederkrotenthaler T., Pacheco A., Pocasangre-Orellana X.M., Reddish J., Reisch V., Stangl J., Stoeger L., Takriti H., Ten A., Vierlinger R., Thurner S. CCCSL: Complexity Science Hub Covid-19 Control Strategies List (2020). Version 2.0. https://github.com/amel-github/covid19-interventionmeasures
 
-## Our preprint 10.1101/2020.05.04.20090498 has been posted on medRxiv
+## Our preprint has been posted on medRxiv
 https://medrxiv.org/cgi/content/short/2020.05.04.20090498v1
 
 ## Data
@@ -45,5 +45,6 @@ Amélie Desvars-Larrive, [Complexity Science Hub Vienna] (https://www.csh.ac.at)
 Email: desvars@csh.ac.at
 
 ## Acknowledgements
-This work was coordinated by the Complexity Science Hub Vienna, Austria.
+This work is coordinated by the Complexity Science Hub Vienna, Austria.
+This work is supported by the University of Veterinary Medicine Vienna, Austria.
 
