@@ -45,6 +45,6 @@ Amélie Desvars-Larrive, [Complexity Science Hub Vienna] (https://www.csh.ac.at)
 Email: desvars@csh.ac.at
 
 ## Acknowledgements
-This work is coordinated by the Complexity Science Hub Vienna, Austria.
+This work is coordinated by the Complexity Science Hub Vienna, Austria.<br>
 This work is supported by the University of Veterinary Medicine Vienna, Austria.
 
