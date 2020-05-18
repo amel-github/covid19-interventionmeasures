@@ -92,11 +92,14 @@ Measure_L1,Measure_L2,Measure_L3,Measure_L4
 "Case identification, contact tracing and related measures",Enhance detection system,Broaden definition / special definition,Broaden definition of cases: Includes also suspected illness
 "Case identification, contact tracing and related measures",Enhance detection system,Broaden definition / special definition,Broaden definition of suspected cases
 "Case identification, contact tracing and related measures",Enhance detection system,Broaden definition / special definition,Interim national case definition
+"Case identification, contact tracing and related measures",Enhance detection system,Extended testing,Caregivers for vulnerable groups
 "Case identification, contact tracing and related measures",Enhance detection system,Extended testing,Include all pneumonia cases
 "Case identification, contact tracing and related measures",Enhance detection system,Extended testing,Not only those with a history of travel to high risk areas
+"Case identification, contact tracing and related measures",Enhance detection system,Extended testing,Staff in education and child care sector
 "Case identification, contact tracing and related measures",Enhance detection system,Extended testing,Test those who travelled to high-risk areas with or without symptoms
 "Case identification, contact tracing and related measures",Enhance detection system,Extended testing,Testing all passengers
 "Case identification, contact tracing and related measures",Enhance detection system,Extended testing,To people with severe pneumonia
+"Case identification, contact tracing and related measures",Enhance detection system,Extended testing,Youth trainers
 "Case identification, contact tracing and related measures",Enhance detection system,Health checks for healthcare professionals,To prevent spread of Covid-19 in healthcare facilities
 "Case identification, contact tracing and related measures",Enhance detection system,Health evauluation of visitors in social institutions,Care facilities
 "Case identification, contact tracing and related measures",Enhance detection system,Health evauluation of visitors in social institutions,Juvenile justice facilities
@@ -111,6 +114,7 @@ Measure_L1,Measure_L2,Measure_L3,Measure_L4
 "Case identification, contact tracing and related measures",Enhance detection system,Speed notification,
 "Case identification, contact tracing and related measures",Enhance detection system,Targeted testing,All essential frontline workers
 "Case identification, contact tracing and related measures",Enhance detection system,Targeted testing,All essential workers and members of their household
+"Case identification, contact tracing and related measures",Enhance detection system,Targeted testing,Healthcare workers
 "Case identification, contact tracing and related measures",Enhance detection system,Targeted testing,Incomings Japanese nationals and visiting foreigners
 "Case identification, contact tracing and related measures",Enhance detection system,Targeted testing,passengers  >80 and chronic diseases
 "Case identification, contact tracing and related measures",Enhance detection system,Targeted testing,Persons who were deemed to be at high risk for SARS-CoV-2 infection
@@ -254,11 +258,13 @@ Measure_L1,Measure_L2,Measure_L3,Measure_L4
 "Case identification, contact tracing and related measures",Tracing and tracking,Case tracking,Via mobile phone
 "Case identification, contact tracing and related measures",Tracing and tracking,Case tracking,Via mobile phone: Mandatory
 "Case identification, contact tracing and related measures",Tracing and tracking,Case tracking,
+"Case identification, contact tracing and related measures",Tracing and tracking,Contact tracing,All passengers from Westerdam
 "Case identification, contact tracing and related measures",Tracing and tracking,Contact tracing,Close contacts are isolated
 "Case identification, contact tracing and related measures",Tracing and tracking,Contact tracing,Close contacts are monitored
 "Case identification, contact tracing and related measures",Tracing and tracking,Contact tracing,Directions how to investigate cluster occurrence
 "Case identification, contact tracing and related measures",Tracing and tracking,Contact tracing,Extended tracing
 "Case identification, contact tracing and related measures",Tracing and tracking,Contact tracing,First case
+"Case identification, contact tracing and related measures",Tracing and tracking,Contact tracing,Monitoring and isolating contacts
 "Case identification, contact tracing and related measures",Tracing and tracking,Contact tracing,Monitoring contacts
 "Case identification, contact tracing and related measures",Tracing and tracking,Contact tracing,Nationals who travelled to at risk areas
 "Case identification, contact tracing and related measures",Tracing and tracking,Contact tracing,Questions from the doctor
@@ -332,6 +338,8 @@ Healthcare and public health capacity,Enhance laboratory testing capacity,Increa
 Healthcare and public health capacity,Enhance laboratory testing capacity,Increase laboratory facilities,Certification of laboratory
 Healthcare and public health capacity,Enhance laboratory testing capacity,Increase laboratory facilities,Drive-in testing facilities
 Healthcare and public health capacity,Enhance laboratory testing capacity,Increase laboratory facilities,Mobile testing facilities
+Healthcare and public health capacity,Enhance laboratory testing capacity,Increase laboratory facilities,More laboratory dedicated
+Healthcare and public health capacity,Enhance laboratory testing capacity,Increase laboratory facilities,New laboratory
 Healthcare and public health capacity,Enhance laboratory testing capacity,Increase laboratory facilities,One laboratory
 Healthcare and public health capacity,Enhance laboratory testing capacity,Increase laboratory facilities,Private labs can do the test
 Healthcare and public health capacity,Enhance laboratory testing capacity,Increase laboratory facilities,Suspension of some laboratory requirements to speed the process of coronavirus testing
@@ -342,8 +350,6 @@ Healthcare and public health capacity,Enhance laboratory testing capacity,Increa
 Healthcare and public health capacity,Enhance laboratory testing capacity,Increase testing capacity (number tests),Electronic ordering for GPs and enhanced capacity.
 Healthcare and public health capacity,Enhance laboratory testing capacity,Increase testing capacity (number tests),Import
 Healthcare and public health capacity,Enhance laboratory testing capacity,Increase testing capacity (number tests),Increase laboratory workforce
-Healthcare and public health capacity,Enhance laboratory testing capacity,Increase testing capacity (number tests),More laboratory dedicated
-Healthcare and public health capacity,Enhance laboratory testing capacity,Increase testing capacity (number tests),New laboratory
 Healthcare and public health capacity,Enhance laboratory testing capacity,Increase testing capacity (number tests),PCR machines outsourcing from universities and private labs
 Healthcare and public health capacity,Enhance laboratory testing capacity,Increase testing capacity (number tests),Private company
 Healthcare and public health capacity,Enhance laboratory testing capacity,Increase testing capacity (number tests),Purchase
@@ -401,6 +407,7 @@ Healthcare and public health capacity,Increase availability of PPE,"Masks, prote
 Healthcare and public health capacity,Increase availability of PPE,"N95 masks, surgical masks, face shields, surgical gowns, coveralls, gloves",
 Healthcare and public health capacity,Increase availability of PPE,"N-95 Masks, surgical masks, glovesn gowns, face shields",
 Healthcare and public health capacity,Increase availability of PPE,Population can order online face masks through a rationing system,
+Healthcare and public health capacity,Increase availability of PPE,PPE,Charter flight
 Healthcare and public health capacity,Increase availability of PPE,PPE,Donation by China
 Healthcare and public health capacity,Increase availability of PPE,PPE,Import from China
 Healthcare and public health capacity,Increase availability of PPE,PPE,Imported from China
@@ -457,6 +464,8 @@ Healthcare and public health capacity,Increase healthcare workforce,Mobilization
 Healthcare and public health capacity,Increase healthcare workforce,Mobilization of domestic resources for health,Extension of licenses for pharmacist
 Healthcare and public health capacity,Increase healthcare workforce,Mobilization of domestic resources for health,Extension of licenses for pharmacists
 Healthcare and public health capacity,Increase healthcare workforce,Mobilization of domestic resources for health,Facilitate recruitment of healthcare professionals via online portal
+Healthcare and public health capacity,Increase healthcare workforce,Mobilization of domestic resources for health,Healthcare professionals
+Healthcare and public health capacity,Increase healthcare workforce,Mobilization of domestic resources for health,Hire medical personnel
 Healthcare and public health capacity,Increase healthcare workforce,Mobilization of domestic resources for health,Inactive or retired doctors or physician assistants can be fully engaged as part of the medical team
 Healthcare and public health capacity,Increase healthcare workforce,Mobilization of domestic resources for health,Measures to provide licenses to health workers
 Healthcare and public health capacity,Increase healthcare workforce,Mobilization of domestic resources for health,"Medical professionals and workers, social workers, and counselors with good and valid professional licenses issued by states other than the State of Florida may render such services in Florida"
@@ -468,6 +477,7 @@ Healthcare and public health capacity,Increase healthcare workforce,Mobilization
 Healthcare and public health capacity,Increase healthcare workforce,Mobilization of domestic resources for health,Nurse can obtain a license quicker
 Healthcare and public health capacity,Increase healthcare workforce,Mobilization of domestic resources for health,Nurse inactive on the Health Care Worker Registry can now be hired
 Healthcare and public health capacity,Increase healthcare workforce,Mobilization of domestic resources for health,Nurse students can practice nursing
+Healthcare and public health capacity,Increase healthcare workforce,Mobilization of domestic resources for health,Nurses
 Healthcare and public health capacity,Increase healthcare workforce,Mobilization of domestic resources for health,Nurses can obtain a license quicker
 Healthcare and public health capacity,Increase healthcare workforce,Mobilization of domestic resources for health,Nurses exempted from supervision by a physician to be certified
 Healthcare and public health capacity,Increase healthcare workforce,Mobilization of domestic resources for health,"Out-of-state physicians, osteopathic physicians, nurses, and physician assistants with a current and active license, or those previously licensed but who are no longer current and active can practice in Hawaii without a license"
@@ -498,6 +508,7 @@ Healthcare and public health capacity,Increase in medical supplies and equipment
 Healthcare and public health capacity,Increase in medical supplies and equipment,Ban on exportation of medical equipment and drugs,antibiotics and narcotic analgesics and hypnotics
 Healthcare and public health capacity,Increase in medical supplies and equipment,Ban on exportation of medical equipment and drugs,Drug hydroxychloroquine sulfate
 Healthcare and public health capacity,Increase in medical supplies and equipment,Ban on exportation of medical equipment and drugs,
+Healthcare and public health capacity,Increase in medical supplies and equipment,Delivery of medical supplies and equipment,Charter flight
 Healthcare and public health capacity,Increase in medical supplies and equipment,Devices for ventilators,
 Healthcare and public health capacity,Increase in medical supplies and equipment,Ease access to drugs,Drugs to conduct medical trials can be mailed
 Healthcare and public health capacity,Increase in medical supplies and equipment,Equipment,
@@ -512,6 +523,7 @@ Healthcare and public health capacity,Increase in medical supplies and equipment
 Healthcare and public health capacity,Increase in medical supplies and equipment,"Medical equipment, laboratory equipment",
 Healthcare and public health capacity,Increase in medical supplies and equipment,Respirators,1000 emergency respirators
 Healthcare and public health capacity,Increase in medical supplies and equipment,Respirators,
+Healthcare and public health capacity,Increase in medical supplies and equipment,"Respirators, medicines and protective equipment for intensive care",
 Healthcare and public health capacity,Increase in medical supplies and equipment,"Respirators, phlegm suctioning devices",For treatment of cases
 Healthcare and public health capacity,Increase in medical supplies and equipment,Support businesses producing medical equipment,"Loans, provisions and commitments to purchase"
 Healthcare and public health capacity,Increase in medical supplies and equipment,themal scanners,contract signed for purchase of themal scanners and diagnostic equipment
@@ -521,6 +533,7 @@ Healthcare and public health capacity,Increase in medical supplies and equipment
 Healthcare and public health capacity,Increase in medical supplies and equipment,Ventilators,Ventilator stocks
 Healthcare and public health capacity,Increase in medical supplies and equipment,Ventilators,
 Healthcare and public health capacity,Increase in medical supplies and equipment,Ventilators and IV fusion pumps,
+Healthcare and public health capacity,Increase in medical supplies and equipment,"Ventilators, IC medication,",Charter flight
 Healthcare and public health capacity,Increase in medical supplies and equipment,,
 Healthcare and public health capacity,Increase isolation and quarantine facilities,Enable shelters as containment centers for people who come from countries with potential risk,
 Healthcare and public health capacity,Increase isolation and quarantine facilities,For nationals incoming,
@@ -546,6 +559,7 @@ Healthcare and public health capacity,Increase patient capacity,Beds,Reception c
 Healthcare and public health capacity,Increase patient capacity,Beds,"Suspend regulations to allow existing hospitals to increase space and capacity, goal 9000 beds"
 Healthcare and public health capacity,Increase patient capacity,Beds,
 Healthcare and public health capacity,Increase patient capacity,Emergency hospitals,"1,000-Bed Temporary Hospital at Jacob K. Javits Convention Center"
+Healthcare and public health capacity,Increase patient capacity,Emergency hospitals,Charter flight
 Healthcare and public health capacity,Increase patient capacity,Emergency hospitals,"Convert state fairgrounds into a 2,000-bed makeshift hospital"
 Healthcare and public health capacity,Increase patient capacity,Emergency hospitals,COVID-19 emergency hospital in Jakarta
 Healthcare and public health capacity,Increase patient capacity,Emergency hospitals,Exceptional medical center set up
@@ -558,6 +572,7 @@ Healthcare and public health capacity,Increase patient capacity,Increase ICU cap
 Healthcare and public health capacity,Increase patient capacity,Increase ICU capacity,
 Healthcare and public health capacity,Increase patient capacity,Increase medical consultation capacity,
 Healthcare and public health capacity,Increase patient capacity,Increase number of medical institutions,536 counseling centers
+Healthcare and public health capacity,Increase patient capacity,Increase number of medical institutions,Construction of an extra care unit (not IC)
 Healthcare and public health capacity,Increase patient capacity,Increase number of medical institutions,For high-risk communities
 Healthcare and public health capacity,Increase patient capacity,Increase number of medical institutions,Health follow-up center
 Healthcare and public health capacity,Increase patient capacity,Increase number of medical institutions,More hospitals ready to receive patients
@@ -592,6 +607,7 @@ Healthcare and public health capacity,Personal protective measures,Mandatory use
 Healthcare and public health capacity,Personal protective measures,Mandatory use of masks,"All transports (air, rail, ferry, busses)"
 Healthcare and public health capacity,Personal protective measures,Mandatory use of masks,Exams
 Healthcare and public health capacity,Personal protective measures,Mandatory use of masks,In public spaces
+Healthcare and public health capacity,Personal protective measures,Mandatory use of masks,In public transport
 Healthcare and public health capacity,Personal protective measures,Mandatory use of masks,In public transports
 Healthcare and public health capacity,Personal protective measures,Mandatory use of masks,In supermarkets
 Healthcare and public health capacity,Personal protective measures,Mandatory use of masks,Indoors
@@ -642,12 +658,14 @@ Healthcare and public health capacity,Research,Health research,
 Healthcare and public health capacity,Research,Open call 50 millions euros,
 Healthcare and public health capacity,Research,"simple diagnostic kits, antiviral drugs, vaccines,",
 Healthcare and public health capacity,Research,Simplify clinical trials regulations,Any emergency medical treatment protocol development or modification can occur solely with the approval of the Commissioner of Health
+Healthcare and public health capacity,Research,Simplify clinical trials regulations,Faster licensing procedure
 Healthcare and public health capacity,Research,Vaccine,
 Healthcare and public health capacity,Research,Vaccine and antiviral development,working team is set up
 Healthcare and public health capacity,Research,Vaccine and antiviral development,
 Healthcare and public health capacity,Research,Vaccine trials on COVID-19,
 Healthcare and public health capacity,Research,,
 Resource allocation,Crisis management plans,Administrative procedures facilitated,Administrative hearing may be conducted by telephone or video conference without the parties being physically present
+Resource allocation,Crisis management plans,Administrative procedures facilitated,Allow digital decision-making for administrations
 Resource allocation,Crisis management plans,Administrative procedures facilitated,Allow remote notarization
 Resource allocation,Crisis management plans,Administrative procedures facilitated,Allow remote witnessing and electronic signing of certain documents
 Resource allocation,Crisis management plans,Administrative procedures facilitated,Digital driver's license
@@ -661,6 +679,7 @@ Resource allocation,Crisis management plans,Administrative procedures facilitate
 Resource allocation,Crisis management plans,Administrative procedures facilitated,Suspension of some rules in the tourist industry
 Resource allocation,Crisis management plans,Administrative procedures facilitated,Suspension of timelines established by the Department of Safety and Professional Services
 Resource allocation,Crisis management plans,Administrative procedures facilitated,Vehicle registrations extended
+Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Agricultural and horticultural sectors
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Agri-food sector 
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Arizona Together Initiative
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,"Benefits for self-employed, students, pensioners"
@@ -676,6 +695,7 @@ Resource allocation,Crisis management plans,Develop all-of-society and business 
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Economic aid package
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Economic Stabilization Plan released
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Emergency funds
+Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Emergency plan
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Employment Adjustment Subsidies
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Enterprises
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Extended Insurance-paying Deadline
@@ -686,6 +706,7 @@ Resource allocation,Crisis management plans,Develop all-of-society and business 
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Financial aid for parents on leave
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Financial aid for small and medium-sized businesses
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Financial aid to municipalities
+Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Financial aid to sport associations
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Financial compensation for pre- and afterschool care and daycare
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,financial package
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Financial support to small and medium enterprises
@@ -705,6 +726,8 @@ Resource allocation,Crisis management plans,Develop all-of-society and business 
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Health-insurance extension
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Households
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Increased funding for food stamps
+Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Loans for business owners
+Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Loans for entrepreneurs
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Louisiana Economic Development help desk that provides email and hotline support for Louisiana businesses impacted by COVID-19
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Lower electricity bills for household customers and small business customers
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Maintenance of essential services
@@ -727,8 +750,10 @@ Resource allocation,Crisis management plans,Develop all-of-society and business 
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Support companies to avoid massive lay-offs
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Support economy
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Support for businesses
+Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Support for education
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Support for small and medium enterprises
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Support fort renters quarantined that cannot pay they rent
+Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Support museums
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Support suspension of employment
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Support to families
 Resource allocation,Crisis management plans,Develop all-of-society and business continuity plans,Suspend evictions
@@ -770,50 +795,59 @@ Resource allocation,Crisis management plans,Repurpose government plans,
 Resource allocation,Crisis management plans,Risk management plan,COVID-19 Economic Response Task Force
 Resource allocation,Crisis management plans,Risk management plan,Create a situation handling committee
 Resource allocation,Crisis management plans,Risk management plan,Develop contingency plans for school closures
+Resource allocation,Crisis management plans,Risk management plan,First Outbreak Management Team advice
 Resource allocation,Crisis management plans,Risk management plan,Interministerial Coordination Committee
 Resource allocation,Crisis management plans,Risk management plan,Scientific Technical Committee COVID-19
+Resource allocation,Crisis management plans,Risk management plan,Second Outbreak Management Team advice
 Resource allocation,Crisis management plans,Risk management plan,Special Commission for the Prevention of Corona Virus COVID InfectionCommission spéciale pour la prévention de l'infection par le virus Corona COVID
 Resource allocation,Crisis management plans,Risk management plan,
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Against domestic violence on children and young during confinement
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Delay evictions of tenants suffering financial loss due to covid
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Delaying TV licence fees for the >75 yo
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Ease access to financial aid for veterans
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Ease child care regulations
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Expand child care access
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Social security extension
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Against domestic violence on children and young during confinement
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Delay evictions of tenants suffering financial loss due to covid
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Delaying TV licence fees for the >75 yo
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Ease access to financial aid for veterans
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Ease child care regulations
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Expand child care access
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Expand child care access for essential persons
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Extended enrollement period for insurance
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Extended Insurance-paying Deadline
+Resource allocation,Crisis management plans,"State aid, taxation and social security",financial compensation for parents who stay home for childcare
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Financial support to GDP
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Flexibility of rent payments
+Resource allocation,Crisis management plans,"State aid, taxation and social security",For vulnerable populations
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Free parking
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Government support the obtention of unemployment benefits
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Guarantee loans
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Increase access to loans for students
+Resource allocation,Crisis management plans,"State aid, taxation and social security","Insure access to gas, electricity, water and telecommunications"
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Lower interest rates
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Prison sentences were or will be suspended in the course of March and these prisoners will be released little by little in order to reduce the risk of infection and to concentrate medical resources in the prison system
+Resource allocation,Crisis management plans,"State aid, taxation and social security",prisoners in Hamburg released to make room for isolation of infected inmates
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Protection of women against domestic violence
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Social security extension
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Social services and seniors
+Resource allocation,Crisis management plans,"State aid, taxation and social security","state supports childcare if parents are doing essential work (medical staff, essential administrative staff)"
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Support skills development for unemployed and laid-off persons
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Suspend eviction from rented accommodations
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Suspension energy payment for vulnerable customers self-isolating
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Suspension energy payments
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Suspension of banking fees
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Suspension of parents' pay for  daycare centres during the period they are closed
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Tax relief measures
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Tax relief on PPE for certain establishment
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Temporary benefit scheme for persons outside the EU/EEA area staying in Svalbard
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Train service for economic continuity
+Resource allocation,Crisis management plans,"State aid, taxation and social security",
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Emergency shelters for asylum seekers
 Resource allocation,Crisis management plans,"State aid, taxation and social security",Expand child care access for essential persons
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Extended enrollement period for insurance
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Extended Insurance-paying Deadline
-Resource allocation,Crisis management plans,"State aid, taxation and social security",financial compensation for parents who stay home for childcare
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Financial support to GDP
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Flexibility of rent payments
 Resource allocation,Crisis management plans,"State aid, taxation and social security",For vulnerable populations
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Free parking
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Government support the obtention of unemployment benefits
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Guarantee loans
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Increase access to loans for students
-Resource allocation,Crisis management plans,"State aid, taxation and social security","Insure access to gas, electricity, water and telecommunications"
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Lower interest rates
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Prison sentences were or will be suspended in the course of March and these prisoners will be released little by little in order to reduce the risk of infection and to concentrate medical resources in the prison system
-Resource allocation,Crisis management plans,"State aid, taxation and social security",prisoners in Hamburg released to make room for isolation of infected inmates
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Protection of women against domestic violence
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Social security extension
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Social services and seniors
-Resource allocation,Crisis management plans,"State aid, taxation and social security","state supports childcare if parents are doing essential work (medical staff, essential administrative staff)"
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Support skills development for unemployed and laid-off persons
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Humanitarian measures
+Resource allocation,Crisis management plans,"State aid, taxation and social security",Support for healthcare providers
 Resource allocation,Crisis management plans,"State aid, taxation and social security",Suspend eviction from rented accommodations
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Suspension energy payment for vulnerable customers self-isolating
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Suspension energy payments
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Suspension of banking fees
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Suspension of parents' pay for  daycare centres during the period they are closed
 Resource allocation,Crisis management plans,"State aid, taxation and social security",Tax relief measures
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Tax relief on PPE for certain establishment
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Temporary benefit scheme for persons outside the EU/EEA area staying in Svalbard
-Resource allocation,Crisis management plans,"State aid, taxation and social security",Train service for economic continuity
-Resource allocation,Crisis management plans,"State aid, taxation and social security",
 Resource allocation,Crisis management plans,The government changed the whole board of directors of the main hospital,
 Resource allocation,Crisis management plans,The government provides food assistance,For children
 Resource allocation,Crisis management plans,The government provides food assistance,For vulnerable population
-Resource allocation,Crisis management plans,The government provides food assistance,Most vulnerable
 Resource allocation,Crisis management plans,The government provides food assistance,Provide meals for older adults
 Resource allocation,Crisis management plans,The government provides food assistance,Provide meals for older who are home-bound
 Resource allocation,Crisis management plans,The government provides food assistance,
@@ -830,6 +864,7 @@ Resource allocation,Emergency laws,Define sanctions if lockdown measures are not
 Resource allocation,Emergency laws,Ease restrictions for child labor,
 Resource allocation,Emergency laws,Enacting compulsory quarantine for suspected cases and cases,
 Resource allocation,Emergency laws,Enacting restrictions and requirements in the context of covid-19,
+Resource allocation,Emergency laws,Greater prerogative for mayors,
 Resource allocation,Emergency laws,Law on health,Health Bill 2020
 Resource allocation,Emergency laws,Law to ease the passing of laws,Coronavirus Act
 Resource allocation,Emergency laws,Law to ease the passing of laws,Emergency Powers Act
@@ -958,7 +993,9 @@ Resource allocation,Police and army interventions,To enforce social distancing,S
 Resource allocation,Police and army interventions,To enforce social distancing,
 Resource allocation,Police and army interventions,To enforce travel restriction,Enforce lockdown
 Resource allocation,Police and army interventions,To support law enforcement,Mobilize army and police to support application of laws related to covid-19 control
+Resource allocation,Police and army interventions,To support law enforcement,Support local authorities
 Resource allocation,Police and army interventions,To support law enforcement,
+Resource allocation,Police and army interventions,To support the population,Construction of emergency accommodation
 Resource allocation,Police and army interventions,To support the population,Ensure public services
 Resource allocation,Police and army interventions,To support the population,Humanitarian missions
 Resource allocation,Police and army interventions,To support the population,In affected areas
@@ -1009,9 +1046,11 @@ Returning to normal life,Conditional re-opening of certain shops,With adaptive m
 Returning to normal life,Conditional re-opening of certain shops,With adaptive measures,Social distancing will need to be respected.
 Returning to normal life,Conditional re-opening of educational institutions,Examinations for certain universities,If social distancing is respected
 Returning to normal life,Conditional re-opening of educational institutions,Partial,Matura class and final classes of the vocational middle schools
+Returning to normal life,Conditional re-opening of educational institutions,Primary schools and child care,
 Returning to normal life,Conditional re-opening of educational institutions,Universities,Exams allowed for senior students
 Returning to normal life,Conditional re-opening of educational institutions,,
 Returning to normal life,Conditional re-opening of indoor activities,Gyms and fitness without facilities,Specified hygienic conditions
+Returning to normal life,Conditional re-opening of long-term facilities,Nursing homes,Specified hygienic conditions
 Returning to normal life,Conditional re-opening of places of worship,With respect to social distancing and hand hygiene,
 Returning to normal life,Conditional re-opening of restaurants,Outdoor gardens in restaurants,Respect of sanitary conditions and social distance
 Returning to normal life,Conditional re-opening of restaurants,Outdoor gardens in restaurants,Specified hygienic conditions
@@ -1022,6 +1061,7 @@ Returning to normal life,Conditional re-opening of services,Taxi service,Respect
 Returning to normal life,Conditional re-opening of services,Theoritical training for car driving schools,If social distancing measures are respected
 Returning to normal life,Conditional re-opening of services,Those for which social distancing can be respected,"Tailors, key cutters, cobblers, tourist agencies"
 Returning to normal life,Conditional re-opening of services,Those that have a close contact with humans,"Hairdressers, masseurs, tattoo artists, car driving schools"
+Returning to normal life,Conditional re-opening of services,When social distancing is possible,"Contact professions: driving instructors, para medical professions, employees in external care and alternative medicine"
 Returning to normal life,Conditional re-opening of services,,
 Returning to normal life,Conditional re-opening of shopping centers,,Specified hygienic conditions
 Returning to normal life,Conditional re-opening of short-term accommodations,,
@@ -1062,7 +1102,10 @@ Returning to normal life,Special relief for movements,Familial gathering,Small w
 Returning to normal life,Special relief for movements,In areas with a low risk of transmission,Green areas are defined
 Returning to normal life,Special relief for movements,In areas with a low risk of transmission,
 Returning to normal life,Special relief for movements,Measure for visiting residents of long-term facilities,One pre-defined person. Without symptoms.
+Returning to normal life,Special relief for movements,Outdoor activities,Scouting and other outdoor activities
 Returning to normal life,Special relief for movements,Outdoor sport allowed, Outdoor contactless sports
+Returning to normal life,Special relief for movements,Outdoor sport allowed,Outdoor contactless sports
+Returning to normal life,Special relief for movements,Outdoor sport allowed,
 Returning to normal life,Special relief for movements,Segmentation of the population,Special hours for going out for the elderly
 Returning to normal life,Special relief for movements,With adaptive measures,Private transports
 Returning to normal life,Special relief for movements,,
@@ -1119,6 +1162,8 @@ Risk communication,Actively communicate with stakeholders,Guidelines,For industr
 Risk communication,Actively communicate with stakeholders,Guidelines,For long-term facilities
 Risk communication,Actively communicate with stakeholders,Guidelines,For measuring temperature at industrial plants
 Risk communication,Actively communicate with stakeholders,Guidelines,For prisons
+Risk communication,Actively communicate with stakeholders,Guidelines,For responsible shopping
+Risk communication,Actively communicate with stakeholders,Guidelines,For the reception of homeless people
 Risk communication,Actively communicate with stakeholders,Guidelines,"To implement social distancing (schools, events)"
 Risk communication,Actively communicate with stakeholders,Guidelines,Use of PPE for health and elder care professionals
 Risk communication,Actively communicate with stakeholders,Guidelines for grocery and retail stores,
@@ -1174,6 +1219,7 @@ Risk communication,Educate and actively communicate with the public,Advice for s
 Risk communication,Educate and actively communicate with the public,Advice for special populations,Webpage and App to support those suffering from mental illness
 Risk communication,Educate and actively communicate with the public,Answer to questions,Communication with nationales living in China
 Risk communication,Educate and actively communicate with the public,Answer to questions,Educational video by cantonal doctor
+Risk communication,Educate and actively communicate with the public,Answer to questions,Hotline for special assistance abroad
 Risk communication,Educate and actively communicate with the public,Answer to questions,Mobile application on Covid-19 called beSafeMoris
 Risk communication,Educate and actively communicate with the public,Answer to questions,Official webpage
 Risk communication,Educate and actively communicate with the public,Answer to questions,Official webpage with COVID-19 information
@@ -1196,11 +1242,13 @@ Risk communication,Educate and actively communicate with the public,Avoid indoor
 Risk communication,Educate and actively communicate with the public,Call for return of nationals living abroad,
 Risk communication,Educate and actively communicate with the public,Call for volunteers to food banks,
 Risk communication,Educate and actively communicate with the public,Communicate about the state of the country,Coronavirus action plan
+Risk communication,Educate and actively communicate with the public,Communication targets protection of special populations,Campaign for mental health during covid-19 crisis
 Risk communication,Educate and actively communicate with the public,Communication targets protection of special populations,Campaign for protecting the elderly
 Risk communication,Educate and actively communicate with the public,Communication targets protection of special populations,Infection prevention/control manager
 Risk communication,Educate and actively communicate with the public,Communication targets protection of special populations,Measures to limit contact to the elderly
 Risk communication,Educate and actively communicate with the public,Communication targets protection of special populations,"Protection of the elderly: social media, telephone calls, posters, voice message on the phone from the mayor "
 Risk communication,Educate and actively communicate with the public,Communication targets protection of special populations,Protection of women and children against domestic violence
+Risk communication,Educate and actively communicate with the public,Communication targets protection of special populations,Recommend not to visit vulnerable persons
 Risk communication,Educate and actively communicate with the public,Communication targets protection of special populations,Recommendation to reduce contact to hospital patients
 Risk communication,Educate and actively communicate with the public,Communication via government official site,
 Risk communication,Educate and actively communicate with the public,Communication via social media,
@@ -1225,6 +1273,7 @@ Risk communication,Educate and actively communicate with the public,Discourage e
 Risk communication,Educate and actively communicate with the public,Discourage gathering,Encourage to avoid crowd
 Risk communication,Educate and actively communicate with the public,Discourage gathering,
 Risk communication,Educate and actively communicate with the public,Discourage non-essential travels,Extended
+Risk communication,Educate and actively communicate with the public,Discourage non-essential travels,Stop travelling abroad unless necessary
 Risk communication,Educate and actively communicate with the public,Discourage non-essential travels,To China
 Risk communication,Educate and actively communicate with the public,Discourage non-essential travels,
 Risk communication,Educate and actively communicate with the public,Encourage disinfection of the environment,Disinfection of frequently used surfaces or objects
@@ -1347,10 +1396,12 @@ Risk communication,Educate and actively communicate with the public,Information 
 Risk communication,Educate and actively communicate with the public,Information campaign,Information campaign about Covid-19 prevention
 Risk communication,Educate and actively communicate with the public,Information campaign,Information in airplanes that land in Spain
 Risk communication,Educate and actively communicate with the public,Information campaign,"Launching of a cooperative team with the governement, media and social media influencers to ensure official communication about COVD-19 is reaching all population groups."
+Risk communication,Educate and actively communicate with the public,Information campaign,Map of the positive results per municipality
 Risk communication,Educate and actively communicate with the public,Information campaign,Mobile message to inform public about gathering ban
 Risk communication,Educate and actively communicate with the public,Information campaign,"national -tv, press"
 Risk communication,Educate and actively communicate with the public,Information campaign,On hand hygiene and social distancing
 Risk communication,Educate and actively communicate with the public,Information campaign,On the official website of the Ministry for Internal Affairs
+Risk communication,Educate and actively communicate with the public,Information campaign,Phone alert sent by the government
 Risk communication,Educate and actively communicate with the public,Information campaign,Phone and media
 Risk communication,Educate and actively communicate with the public,Information campaign,Posters at railway stations
 Risk communication,Educate and actively communicate with the public,Information campaign,Press Conference
@@ -1506,6 +1557,7 @@ Risk communication,Travel alert and warning,Warning against travel to and return
 Risk communication,Travel alert and warning,Warning against travel to and return from risk areas,"Italy, France, Spain, Germany"
 Risk communication,Travel alert and warning,Warning against travel to and return from risk areas,Most of the developed coutries in the world
 Risk communication,Travel alert and warning,Warning against travel to and return from risk areas,North Italy
+Risk communication,Travel alert and warning,Warning against travel to and return from risk areas,Northern Italy
 Risk communication,Travel alert and warning,Warning against travel to and return from risk areas,Poland
 Risk communication,Travel alert and warning,Warning against travel to and return from risk areas,Region of Lombardia and Venezia
 Risk communication,Travel alert and warning,Warning against travel to and return from risk areas,Spain
@@ -1556,10 +1608,10 @@ Social distancing,Closure of educational institutions,"Reduction of excursions, 
 Social distancing,Closure of educational institutions,"Reduction of excursions, out-of-house events",schools will suspend inter-school and external activities
 Social distancing,Closure of educational institutions,"Reduction of excursions, out-of-house events",trips abroad suspended
 Social distancing,Closure of educational institutions,"Reduction of excursions, out-of-house events",
+Social distancing,Closure of educational institutions,Rules for exams,Adapt school exams
 Social distancing,Closure of educational institutions,Rules for exams,
 Social distancing,Closure of educational institutions,school class suspended due to one positive pupil,
 Social distancing,Closure of educational institutions,Schools closed,All
-Social distancing,Closure of educational institutions,,All
 Social distancing,Closure of educational institutions,,
 Social distancing,Mass gathering cancellation,All public and private events,
 Social distancing,Mass gathering cancellation,Closure maquila industry and call centers,
@@ -1640,6 +1692,7 @@ Social distancing,Mass gathering cancellation,"Festivals, faith-based events","p
 Social distancing,Mass gathering cancellation,"Festivals, faith-based events",St Patrick's Day events and parades are cancelled
 Social distancing,Mass gathering cancellation,"Festivals, faith-based events",
 Social distancing,Mass gathering cancellation,Implement e-learning,Methodology for school digitalization
+Social distancing,Mass gathering cancellation,Implement e-learning,Online platform to help schools organize distance education: Kennisnet
 Social distancing,Mass gathering cancellation,Implement e-learning,Youtube platform
 Social distancing,Mass gathering cancellation,Indoor activities,All
 Social distancing,Mass gathering cancellation,Indoor activities,"All sports facilities or gyms, where all kinds of gatherings and events can be held."
@@ -1689,6 +1742,7 @@ Social distancing,Mass gathering cancellation,Limit up to 100 persons,Indoor act
 Social distancing,Mass gathering cancellation,Limit up to 100 persons,indoors
 Social distancing,Mass gathering cancellation,Limit up to 100 persons,Must be postponed
 Social distancing,Mass gathering cancellation,Limit up to 100 persons,Outdoor 1m distance required between persons
+Social distancing,Mass gathering cancellation,Limit up to 100 persons,Partial: exception for funerals and church weddings
 Social distancing,Mass gathering cancellation,Limit up to 100 persons,partial: non-essential mass gatherings
 Social distancing,Mass gathering cancellation,Limit up to 100 persons,
 Social distancing,Mass gathering cancellation,Limit up to 1000 persons,
@@ -1711,6 +1765,7 @@ Social distancing,Mass gathering cancellation,Limit up to 5000 persons,
 Social distancing,Mass gathering cancellation,Limit up to 75 persons,The government of the state asks the communities to implement this measure
 Social distancing,Mass gathering cancellation,Limit up to 75 persons,
 Social distancing,Mass gathering cancellation,Markets,Open-air markets closed
+Social distancing,Mass gathering cancellation,Markets,Partial: when sufficient distance is not respected
 Social distancing,Mass gathering cancellation,Markets,
 Social distancing,Mass gathering cancellation,Meetings of the parliament,
 Social distancing,Mass gathering cancellation,Outdoor activities,"Boxing stadiums, sport stadiums, sport arenas, playgrounds, horse racetrack"
@@ -1720,6 +1775,7 @@ Social distancing,Mass gathering cancellation,Outdoor activities,closure of pool
 Social distancing,Mass gathering cancellation,Outdoor activities,Closure of ski resorts
 Social distancing,Mass gathering cancellation,Outdoor activities,Closure of ski resorts and organized beaches
 Social distancing,Mass gathering cancellation,Outdoor activities,Leisure outdoor activities
+Social distancing,Mass gathering cancellation,Outdoor activities,"Partial: holiday parks, camping sites, parks, natural reserves, beaches"
 Social distancing,Mass gathering cancellation,Outdoor activities,"Places of public amusement: amusement rides, carnivals, amusement parks, water parks"
 Social distancing,Mass gathering cancellation,Outdoor activities,
 Social distancing,Mass gathering cancellation,Place of worship,Albanian Evangelical Church - All services tramitted services online
@@ -1740,6 +1796,7 @@ Social distancing,Mass gathering cancellation,Sport events,Ban rallies at three 
 Social distancing,Mass gathering cancellation,Sport events,Eishockey
 Social distancing,Mass gathering cancellation,Sport events,"football, indoor and outdoor athletic games, marathon runs etc."
 Social distancing,Mass gathering cancellation,Sport events,Indoor cancelled
+Social distancing,Mass gathering cancellation,Sport events,Judo Olympic qualifying
 Social distancing,Mass gathering cancellation,Sport events,one marathon cancelled
 Social distancing,Mass gathering cancellation,Sport events,outdoor races
 Social distancing,Mass gathering cancellation,Sport events,Postponement of the 2020 Olympic
@@ -1763,6 +1820,8 @@ Social distancing,Measures for special populations,Mandatory home office,for vul
 Social distancing,Measures for special populations,Measures to limit contact to children,Quarantine
 Social distancing,Measures for special populations,Measures to limit contact to high risk populations,Essential businesses and operations shall implement separate operating hours for high risk customers
 Social distancing,Measures for special populations,Measures to limit contact to high risk populations,Grocery stores and pharmacies must provide at least one hour every day in the early morning for adults 60 years and older in order to limit their potential exposure
+Social distancing,Measures for special populations,Measures to limit contact to hospital patients,1 hospital closed to visitors
+Social distancing,Measures for special populations,Measures to limit contact to hospital patients,1 IC partially closed admission of new patients
 Social distancing,Measures for special populations,Measures to limit contact to hospital patients,By law
 Social distancing,Measures for special populations,Measures to limit contact to hospital patients,Close hospitals for visitors
 Social distancing,Measures for special populations,Measures to limit contact to hospital patients,Recommendation to reduce contact to hospital patients
@@ -1787,7 +1846,6 @@ Social distancing,Measures for special populations,Measures to limit contact to 
 Social distancing,Measures for special populations,Measures to limit contact to the elderly,flyers
 Social distancing,Measures for special populations,Measures to limit contact to the elderly,Provide assistance to the elderly who stay at home
 Social distancing,Measures for special populations,Measures to limit contact to the elderly,Quarantine
-Social distancing,Measures for special populations,Measures to limit contact to the elderly,Recommend not to visit vulnerable persons
 Social distancing,Measures for special populations,Measures to limit contact to the elderly,Recommend the elderly to stay at home
 Social distancing,Measures for special populations,Measures to limit contact to the elderly,Recommendation to reduce contact to long-term care facilities
 Social distancing,Measures for special populations,Measures to limit contact to the elderly,reduce or suspend activities with the elderly
@@ -1821,6 +1879,7 @@ Social distancing,Measures for special populations,Prisons,Restriction of visiti
 Social distancing,Measures for special populations,Prisons,screening protocols for all visitors of juvenile detention centers
 Social distancing,Measures for special populations,Prisons,
 Social distancing,Measures for special populations,Prisons and juvenile facilities,Moratorium on admissions to mitigate the spread of Covid-19
+Social distancing,Measures for special populations,Prisons and juvenile facilities,Non-essential visits suspended
 Social distancing,Measures for special populations,Psychiatric facilities,Visits limited to necessary cases
 Social distancing,Measures for special populations,Social institutions,Ban visit
 Social distancing,Measures for special populations,Traditional peoples and communities,"Quilombolas, gypsies and indigenous people"
@@ -1838,6 +1897,7 @@ Social distancing,Return operation of nationals,Return operation of national tou
 Social distancing,Return operation of nationals,Return operation of nationals in Bangladesh,4 charter flights from 21 to 26 April
 Social distancing,Return operation of nationals,Return operation of nationals in Brazil,Special measure: Quarantine
 Social distancing,Return operation of nationals,Return operation of nationals in China,Special measure: Quarantine
+Social distancing,Return operation of nationals,Return operation of nationals in China,Special measure: quarantine
 Social distancing,Return operation of nationals,"Return operation of nationals in China , South Korea, Japan, Singapore, Iran and northern Italy (Lombardy, Veneto, Piedmont, Emilia Romagna)",Special measure: Quarantine
 Social distancing,Return operation of nationals,"Return operation of nationals in China, Italy, Japan, Iran, South Korea",State University of New York abroad students
 Social distancing,Return operation of nationals,Return operation of nationals in Costa Rica,Special measure: Quarantine
@@ -1860,6 +1920,7 @@ Social distancing,Return operation of nationals,"Return operation of nationals i
 Social distancing,Return operation of nationals,Return operation of nationals in Philppines,
 Social distancing,Return operation of nationals,"Return operation of nationals in regions at risk:  Italy, Spain, Poland, Germany, Morocco, Iraq, Northern Macedonia, Urkraine",Special measure: Quarantine
 Social distancing,Return operation of nationals,Return operation of nationals in Shanghai,Special measure: Quarantine
+Social distancing,Return operation of nationals,Return operation of nationals in Sint Maarten,
 Social distancing,Return operation of nationals,Return operation of nationals in United Kingdom,Special measure: Quarantine
 Social distancing,Return operation of nationals,Return operation of nationals in Wuhan and/or Hubei,Special measure: Quarantine
 Social distancing,Return operation of nationals,Return operation of nationals in Wuhan and/or Hubei,Special measure: State-facilitated Quarantine
@@ -1870,6 +1931,7 @@ Social distancing,Return operation of nationals,Return operation of nationals on
 Social distancing,Return operation of nationals,Return operation of nationals on the Diamond Princess cruise ship,
 Social distancing,Return operation of nationals,Return operation of nationals on the Grand Princess cruise ship,Special measure: Quarantine
 Social distancing,Return operation of nationals,Return operation of nationals on the Grand Princess cruise ship,
+Social distancing,Return operation of nationals,Return operation of nationals on Westerdam,Special measure: quarantine
 Social distancing,Return operation of nationals,Return operation of nationals on Westerdam cruise ship,Special measure: Quarantine
 Social distancing,Small gathering cancellation,All non-essential gatherings,Except 5 co-workers or persons from same household
 Social distancing,Small gathering cancellation,All non-essential gatherings,
@@ -1883,6 +1945,7 @@ Social distancing,Small gathering cancellation,Closure of non-essential shops,Al
 Social distancing,Small gathering cancellation,Closure of non-essential shops,"All non-essential retail outlets, stores, and services are to close until at least 19th April"
 Social distancing,Small gathering cancellation,Closure of non-essential shops,"barbershops, hair salons, tattoo or piercing parlors and related personal care (nail technicians, cosmetologists, estheticians, electrolyse, laser hair removal services) closed to the public"
 Social distancing,Small gathering cancellation,Closure of non-essential shops,"Closure of florists, jewelry stores, book stores, clothing stores, luggage stores, cosmetic, beauty and perfume stores, and furniture stores"
+Social distancing,Small gathering cancellation,Closure of non-essential shops,"Closure of hairdressers, beauticians, make-up artists, pedicures, nail salons, driving instructors and tattooists, and other professions in the field of extra-care"
 Social distancing,Small gathering cancellation,Closure of non-essential shops,"Closure of malls, cigarette, tobacco and vaping stores, toy, gaming, music, movie stores"
 Social distancing,Small gathering cancellation,Closure of non-essential shops,Closure of off-track betting facility operations
 Social distancing,Small gathering cancellation,Closure of non-essential shops,"Closure of salons, medical spas, barbershops, tattoo extalishments, tanning facilities, massage therapy extablishments, and swimming pools"
@@ -1959,10 +2022,11 @@ Social distancing,Small gathering cancellation,Limit up to 10 persons,Indoor and
 Social distancing,Small gathering cancellation,Limit up to 10 persons,Until 13th April
 Social distancing,Small gathering cancellation,Limit up to 10 persons,When at-risk people involved
 Social distancing,Small gathering cancellation,Limit up to 10 persons,
+Social distancing,Small gathering cancellation,Limit up to 2 persons,In public places
 Social distancing,Small gathering cancellation,Limit up to 2 persons,Limit up to 2 persons of different households
 Social distancing,Small gathering cancellation,Limit up to 2 persons,Limit up to 3 persons of different households
 Social distancing,Small gathering cancellation,Limit up to 2 persons,Public space
-Social distancing,Small gathering cancellation,Limit up to 2 persons ,In public places
+Social distancing,Small gathering cancellation,Limit up to 2 persons,
 Social distancing,Small gathering cancellation,Limit up to 20 persons,Family celebrations only
 Social distancing,Small gathering cancellation,Limit up to 20 persons,
 Social distancing,Small gathering cancellation,Limit up to 25 persons,
@@ -1984,6 +2048,7 @@ Social distancing,Small gathering cancellation,Mandatory home office,Only Goverm
 Social distancing,Small gathering cancellation,Mandatory home office,Place of work may only be entered if work cannot be done at home
 Social distancing,Small gathering cancellation,Mandatory home office,
 Social distancing,Small gathering cancellation,Non-critical court operations suspended,
+Social distancing,Small gathering cancellation,Partial closure of public spaces,"Holiday parks: when 1,5m distance not possible"
 Social distancing,Small gathering cancellation,Partial closure of public spaces,"parks, playgrounds"
 Social distancing,Small gathering cancellation,Reduce close physical contact in workplaces,Reduce close physical contact in for notary functions
 Social distancing,Small gathering cancellation,Remote Psychotherapy Consultation,
@@ -2029,6 +2094,7 @@ Social distancing,Special measures for certain establishments,Food services,
 Social distancing,Special measures for certain establishments,Fruit and vegetable sellers,Workers should select food and package them
 Social distancing,Special measures for certain establishments,Grocery stores,Restrict the number of customers to 40 percent of its maximum occupancy
 Social distancing,Special measures for certain establishments,"Gyms, swimming pools and sports centers",Can open of respect social distancing measures
+Social distancing,Special measures for certain establishments,Implement the 2m distance,In shops
 Social distancing,Special measures for certain establishments,Implement the 2m distance,"In the shops, pharmacies or gas stations"
 Social distancing,Special measures for certain establishments,Implement the 2m distance,Stickers on the floor of supermarkets
 Social distancing,Special measures for certain establishments,Measure for cashless payments,Increase amount of touch card purchases allowed
@@ -2226,18 +2292,17 @@ Travel restriction,Border restriction,Land border controls,"Liechtenstein, Slove
 Travel restriction,Border restriction,Land border controls,Slovenia and Austria
 Travel restriction,Border restriction,Land border controls,USA
 Travel restriction,Border restriction,Land border controls,
+Travel restriction,Border restriction,Land borders closed,"Albania, North Macendonia"
+Travel restriction,Border restriction,Land borders closed,"Argentina, Bolivia, Colombia, French Guiana, Guyana, Paraguay, Peru and Suriname"
 Travel restriction,Border restriction,Land borders closed,Borders closed except Brunei and Kalimantan
 Travel restriction,Border restriction,Land borders closed,Croatia
 Travel restriction,Border restriction,Land borders closed,Italy
 Travel restriction,Border restriction,Land borders closed,Lebanon
+Travel restriction,Border restriction,Land borders closed,"Montenegro, Kosovo, North Macedonia, and Greece"
 Travel restriction,Border restriction,Land borders closed,Morocco
+Travel restriction,Border restriction,Land borders closed,"Slovenia, Hungary"
+Travel restriction,Border restriction,Land borders closed,Venezuela only
 Travel restriction,Border restriction,Land borders closed,
-Travel restriction,Border restriction,Land borders closed ,"Albania, North Macendonia"
-Travel restriction,Border restriction,Land borders closed ,"Argentina, Bolivia, Colombia, French Guiana, Guyana, Paraguay, Peru and Suriname"
-Travel restriction,Border restriction,Land borders closed ,"Montenegro, Kosovo, North Macedonia, and Greece"
-Travel restriction,Border restriction,Land borders closed ,"Slovenia, Hungary"
-Travel restriction,Border restriction,Land borders closed ,Venezuela only
-Travel restriction,Border restriction,Land borders closed ,
 Travel restriction,Border restriction,Restricted entry for people from China,China
 Travel restriction,Border restriction,Restricted entry for people from high-risk areas,"Europe, Iran and South Korea"
 Travel restriction,Border restriction,Restriction of freight transport,"From high-risk areas : Austria, Belgium, Switzerland, USA, UK, Netherlands, Turkey, Iran"
