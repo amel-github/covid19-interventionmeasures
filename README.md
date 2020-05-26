@@ -34,7 +34,7 @@ A wide range of different public sources were used to populate, update and curat
 **Source** – Provides the reference for each entry.<br>
 
 ## Open library
-An open library is available (work in progress), that contains all sources used to collect the data: https://www.zotero.org/groups/2488884/cccsl_covid_measure_project.<br>
+An open library is available (work in progress) that contains all sources used to collect the data: https://www.zotero.org/groups/2488884/cccsl_covid_measure_project.<br>
 
 ## Note
 The CCCSL is an ongoing collaborative project, built in a time limited by the emergency of the situation. *Version 1* of the CCCSL has not undergone systematic validation and is currently subjected to an extensive data validation process. Our objective is to validate and develop the dataset within the next three months.<br>
