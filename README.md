@@ -39,6 +39,9 @@ A wide range of different public sources were used to populate, update and curat
 ## Open library
 An open library is available (work in progress) that contains all sources used to collect the data: https://www.zotero.org/groups/2488884/cccsl_covid_measure_project.<br>
 
+## Glossary of codes
+To promote common understanding and global use of the dataset, we are developping a glossary of the codes used (work in progress).
+
 ## Note
 The CCCSL is an ongoing collaborative project, built in a time limited by the emergency of the situation. *Version 1* of the CCCSL has not undergone systematic validation and is currently subjected to an extensive data validation process. Our objective is to validate and develop the dataset within the next three months.<br>
 We have released *Version 2* of the CCCSL which presents stabilized coding for levels 1 and 2 of the coding scheme.<br>
