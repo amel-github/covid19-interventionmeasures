@@ -1,6 +1,6 @@
 # CCCSL: CSH Covid-19 Control Strategies List
 
-## Licence
+## License
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 ## Cite as:
