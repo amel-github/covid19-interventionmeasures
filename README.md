@@ -38,7 +38,7 @@ A wide range of different public sources were used to populate, update and curat
 **Source** – Provides the reference for each entry.<br>
 
 ## Master List of Codes
-**Master_list_CCCSL_v2_ordered.csv**: List of all unique combinations of theme/category/subcategory/codes that appear in the CCCsl dataset.<br>
+**Master_list_CCCSL_v2_ordered.csv**: List of all unique combinations of theme/category/subcategory/code that appear in the CCCSL dataset.<br>
 **Master-List-with-Unique-LinkType-and-value.csv**: List of the codes providing a better overview of the taxonomy, i.e. type of link parent/child for each combination of codes and the number of times each link occurs in the dataset (value).
 
 ## Glossary of Codes
