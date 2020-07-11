@@ -37,11 +37,15 @@ A wide range of different public sources were used to populate, update and curat
 **Comment** – Provides the description of the measure as found in the text data source, translated into English.<br>
 **Source** – Provides the reference for each entry.<br>
 
-## Open library
-An open library is available (work in progress) that contains all sources used to collect the data: https://www.zotero.org/groups/2488884/cccsl_covid_measure_project.<br>
+## Master List of Codes
+**Master_list_CCCSL_v2_ordered.csv**: List of all unique combinations of theme/category/subcategory/codes that appear in the CCCsl dataset.<br>
+**Master-List-with-Unique-LinkType-and-value.csv**: List of the codes providing a better overview of the taxonomy, i.e. type of link parent/child for each combination of codes and the number of times each link occurs in the dataset (value).
 
-## Glossary of codes
+## Glossary of Codes
 To promote common understanding and global use of the dataset, we are developping a glossary of the codes used (work in progress).
+
+## Open Library
+An open library is available (work in progress) that contains all sources used to collect the data: https://www.zotero.org/groups/2488884/cccsl_covid_measure_project.<br>
 
 ## Note
 The CCCSL is an ongoing collaborative project, built in a time limited by the emergency of the situation. *Version 1* of the CCCSL has not undergone systematic validation and is currently subjected to an extensive data validation process. Our objective is to validate and develop the dataset within the next three months.<br>
