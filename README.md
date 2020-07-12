@@ -33,7 +33,7 @@ A wide range of different public sources were used to populate, update and curat
 **L2_Measure** – Categories (L2 of the classification scheme). See the pdf document for the list of the categories.<br>
 **L3_Measure** – Subcategories (L3 of the classification scheme). Provides detailed information on the corresponding category (L2).<br>
 **L4_Measure** – Codes (L4 of the classification scheme). Corresponds to the finest level of description of the measures.<br>
-**Status** – Specifies whether the measure is a prolongation of a previously implemented measure ("Extended") or not (""). If the information is not collected, then "".
+**Status** – Specifies whether the measure is a prolongation of a previously implemented measure ("Extended") or not ("").<br>
 **Comment** – Provides the description of the measure as found in the text data source, translated into English.<br>
 **Source** – Provides the reference for each entry.<br>
 
