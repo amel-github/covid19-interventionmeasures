@@ -216,8 +216,7 @@
 "Cordon sanitaire","L2-L3","One city",12
 "Cordon sanitaire","L2-L3","One hotel",1
 "Cordon sanitaire","L2-L3","One municipality",2
-"Cordon sanitaire","L2-L3","One province",1
-"Cordon sanitaire","L2-L3","One Province",2
+"Cordon sanitaire","L2-L3","One province",3
 "Cordon sanitaire","L2-L3","One region",9
 "Cordon sanitaire","L2-L3","One state",1
 "Cordon sanitaire","L2-L3","Partial",2
@@ -492,7 +491,7 @@
 "Personal protective measures","L2-L3","Mandatory use of gloves",1
 "Personal protective measures","L2-L3","Mandatory use of masks",57
 "Personal protective measures","L2-L3","Mandatory use of PPE",4
-"Personal protective measures","L2-L3","Precautions for handling and disposal of dead bodies",6
+"Personal protective measures","L2-L3","Prevent contamination by body fluids",6
 "Phase out emergency management","L2-L3","Lift state of emergency",4
 "Phase out emergency management","L2-L3","Start of phase-out strategy plan",7
 "Phase out emergency management","L2-L3","State of alert",1
@@ -2501,8 +2500,8 @@
 "One hotel","L3-L4","",1
 "One municipality","L3-L4","",2
 "One province","L3-L4","",1
-"One Province","L3-L4","Alberta",1
-"One Province","L3-L4","British Columbia",1
+"One province","L3-L4","Alberta",1
+"One province","L3-L4","British Columbia",1
 "One region","L3-L4","",5
 "One region","L3-L4","Maharashtra",1
 "One region","L3-L4","Movements to and from the region of Uusimaa will be restricted until 19th April.",1
@@ -2622,16 +2621,16 @@
 "Practical classes","L3-L4","Students of all grades of technical secondary schools",1
 "Practical classes","L3-L4","Students of last semesters of vocational colleges",1
 "Practical classes","L3-L4","Work placements ",1
-"Precautions for handling and disposal of dead bodies","L3-L4","Ban on the export and import of corpses other than cremated",1
-"Precautions for handling and disposal of dead bodies","L3-L4","Compulsory cremation",1
-"Precautions for handling and disposal of dead bodies","L3-L4","Guidelines on dead body management",2
-"Precautions for handling and disposal of dead bodies","L3-L4","Persons who travelled abroad are excluded from blood donation",1
-"Precautions for handling and disposal of dead bodies","L3-L4","Training on dead body management",1
 "Prevalence estimation in the general population","L3-L4","",3
 "Prevalence estimation in the general population","L3-L4","At public transport stations",1
 "Prevalence estimation in the general population","L3-L4","In blood donors",1
 "Prevalence estimation in the general population","L3-L4","Random testing of the population",2
 "Prevalence estimation in the general population","L3-L4","Seroprevalence survey",1
+"Prevent contamination by body fluids","L3-L4","Ban on the export and import of corpses other than cremated",1
+"Prevent contamination by body fluids","L3-L4","Compulsory cremation",1
+"Prevent contamination by body fluids","L3-L4","Guidelines on dead body management",2
+"Prevent contamination by body fluids","L3-L4","Persons who travelled abroad are excluded from blood donation",1
+"Prevent contamination by body fluids","L3-L4","Training on dead body management",1
 "Primary schools","L3-L4","",1
 "Primary schools and child care","L3-L4","",2
 "Prioritization of PPE","L3-L4","For healthcare professionals",1
