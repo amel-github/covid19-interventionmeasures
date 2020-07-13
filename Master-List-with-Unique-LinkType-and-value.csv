@@ -626,7 +626,7 @@
 "Return operation of nationals","L2-L3","Return operation of nationals on Westerdam cruise ship",1
 "Small gathering cancellation","L2-L3","Closure of non-essential shops",81
 "Small gathering cancellation","L2-L3","Closure of restaurants/bars/cafes",94
-"Small gathering cancellation","L2-L3","Closure of short-term accomodation",9
+"Small gathering cancellation","L2-L3","Closure of short-term accommodation",9
 "Small gathering cancellation","L2-L3","Closure of student dormitories",1
 "Small gathering cancellation","L2-L3","Complete prohibition of gathering",21
 "Small gathering cancellation","L2-L3","Implement part-time work",6
@@ -652,11 +652,11 @@
 "Special measures for certain establishments","L2-L3","City hall",1
 "Special measures for certain establishments","L2-L3","Closure of adult daycare facilities",1
 "Special measures for certain establishments","L2-L3","Decongestion of administrative institutions",38
-"Special measures for certain establishments","L2-L3","Emergeny rooms hospitals",1
+"Special measures for certain establishments","L2-L3","Emergency room hospitals",1
 "Special measures for certain establishments","L2-L3","Entertainment venues",3
 "Special measures for certain establishments","L2-L3","Essential businesses and operations",4
 "Special measures for certain establishments","L2-L3","Essential shops",2
-"Special measures for certain establishments","L2-L3","Establishements open to the public",1
+"Special measures for certain establishments","L2-L3","Establishments open to the public",1
 "Special measures for certain establishments","L2-L3","Food services",3
 "Special measures for certain establishments","L2-L3","Grocery stores",4
 "Special measures for certain establishments","L2-L3","Implement the 2m distance",6
@@ -670,7 +670,7 @@
 "Special measures for certain establishments","L2-L3","Residential social institutions",1
 "Special measures for certain establishments","L2-L3","Restaurants",14
 "Special measures for certain establishments","L2-L3","Restriction in number of people in child care settings",1
-"Special measures for certain establishments","L2-L3","Short-term accomodation: partial closure",1
+"Special measures for certain establishments","L2-L3","Short-term accommodation: partial closure",1
 "Special measures for certain establishments","L2-L3","Sports centres with indoor facilities",2
 "Special measures for certain establishments","L2-L3","Touristic places",2
 "Special measures for certain establishments","L2-L3","Veterinary clinics",1
@@ -984,11 +984,11 @@
 "Closure of restaurants/bars/cafes","L3-L4","Total",14
 "Closure of restaurants/bars/cafes","L3-L4","Total closure of all pubs and bars.",1
 "Closure of restaurants/bars/cafes","L3-L4","Total closure of restaurants/bars/cafes",10
-"Closure of short-term accomodation","L3-L4","",3
-"Closure of short-term accomodation","L3-L4","All lodging operations and accomodations",2
-"Closure of short-term accomodation","L3-L4","Hotels",2
-"Closure of short-term accomodation","L3-L4","Partial: Remain open at day",1
-"Closure of short-term accomodation","L3-L4","Vacation rental suspended",1
+"Closure of short-term accommodation","L3-L4","",3
+"Closure of short-term accommodation","L3-L4","All lodging operations and accommodations",2
+"Closure of short-term accommodation","L3-L4","Hotels",2
+"Closure of short-term accommodation","L3-L4","Partial: Remain open at day",1
+"Closure of short-term accommodation","L3-L4","Vacation rental suspended",1
 "Closure of student dormitories","L3-L4","Closure for 14 days",1
 "Communicate with social service professionals","L3-L4","",1
 "Communication targets nationals living abroad","L3-L4","Ask citizen living abroad to postpone their return",1
@@ -1360,7 +1360,7 @@
 "Emergency hospitals","L3-L4","triage tent build in hospital courtyard",1
 "Emergency laws","L3-L4","Emergency authorization of drugs for treatment of COVID-19",1
 "Emergency laws","L3-L4","Law to ease the passing of laws",5
-"Emergeny rooms hospitals","L3-L4","Forbidden to accompany patients, to stay in the waiting rooms of the emergency and reception departments and first aid",1
+"Emergency room hospitals","L3-L4","Forbidden to accompany patients, to stay in the waiting rooms of the emergency and reception departments and first aid",1
 "Encourage donation for covid19 crisis","L3-L4","Fund",1
 "Encourage donation for covid19 crisis","L3-L4","Need for PPE for healthcare professionals",1
 "Encourage environmental disinfection","L3-L4","",5
@@ -1389,7 +1389,7 @@
 "Encourage self-initiated quarantine","L3-L4","For people who attended a service at Shincheonji Church",1
 "Encourage self-initiated quarantine","L3-L4","For people who visited Cheongdo Daenam hospital",1
 "Encourage self-initiated quarantine","L3-L4","Travelers returning from high risk areas",5
-"Encourage stakeholders to provide assistance to vulnerable populations","L3-L4","Encourage owners of accomodation to shelter homeless people",1
+"Encourage stakeholders to provide assistance to vulnerable populations","L3-L4","Encourage owners of accommodation to shelter homeless people",1
 "Encourage stay at home","L3-L4","",8
 "Encourage stay at home","L3-L4","Advice for vulnerable populations",5
 "Encourage stay at home","L3-L4","All citizens",2
@@ -1511,7 +1511,7 @@
 "Essential businesses and operations","L3-L4","Workers performing non-medical essential services allowed to continue work when exposed if they remain asymptomatic and take additional protective measures",1
 "Essential shops","L3-L4","opening hours essential stores reduced, Sunday also open, supervised entry",1
 "Essential shops","L3-L4","Workers should select food and package them",1
-"Establishements open to the public","L3-L4","Mandatory social distancing and hygienic measures",1
+"Establishments open to the public","L3-L4","Mandatory social distancing and hygienic measures",1
 "EU","L3-L4","MUR 11.3 million",1
 "Examinations for certain universities","L3-L4","With respect to social distancing",1
 "Exception to work law allowed","L3-L4","Allow work of international students in essential services",1
@@ -3055,7 +3055,7 @@
 "Sensitization of hospital, medico-social and liberal health professionals","L3-L4","Guidelines on Clinical Management of COVID-19",1
 "Sensitization of hospital, medico-social and liberal health professionals","L3-L4","Guidelines to prevent Covid19 Transmission",1
 "Ship transports suspended","L3-L4","Tallinn-Stockholm-Tallinn",1
-"Short-term accomodation: partial closure","L3-L4","At maximum fifty percent occupancy",1
+"Short-term accommodation: partial closure","L3-L4","At maximum fifty percent occupancy",1
 "Simplification of the health journey","L3-L4","",2
 "Simplification of the health journey","L3-L4","Allow emergency medical services to transport patients to locations other than those formerly approved",1
 "Simplification of the health journey","L3-L4","Authorize audio-only call for health care services",3
