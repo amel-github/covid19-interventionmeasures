@@ -21,12 +21,12 @@
 "Healthcare and public health capacity","L1-L2","Personal protective measures",85
 "Healthcare and public health capacity","L1-L2","Repurpose hospitals",14
 "Healthcare and public health capacity","L1-L2","Research",29
-"Resource allocation","L1-L2","Activate or establish emergency response",214
+"Resource allocation","L1-L2","Activate or establish emergency response",213
 "Resource allocation","L1-L2","Crisis management plans",442
 "Resource allocation","L1-L2","Economic measure to stimulate consumption",4
 "Resource allocation","L1-L2","Measures to ensure continuity of services",3
 "Resource allocation","L1-L2","Measures to ensure security of supply",97
-"Resource allocation","L1-L2","Police and army interventions",121
+"Resource allocation","L1-L2","Police and army interventions",122
 "Resource allocation","L1-L2","Provide international help",19
 "Resource allocation","L1-L2","Receive international help",15
 "Resource allocation","L1-L2","The government provide assistance to vulnerable populations",43
@@ -76,7 +76,7 @@
 "Activate or establish emergency response","L2-L3","Exceptional change to work law",3
 "Activate or establish emergency response","L2-L3","Relaxation of data protection law",8
 "Activate or establish emergency response","L2-L3","Repurpose domestic forces",1
-"Activate or establish emergency response","L2-L3","Risk management plan",109
+"Activate or establish emergency response","L2-L3","Risk management plan",108
 "Activate or establish emergency response","L2-L3","Suspension of the requirement for nutrient management plan",1
 "Activate or establish emergency response","L2-L3","Transfer or enforcement of decisional and legal power",2
 "Actively communicate with healthcare professionals","L2-L3","Advisory on the use of hydroxy-chloroquin as prophylaxis for SARS-CoV-2 infection",1
@@ -160,7 +160,7 @@
 "Airport restriction","L2-L3","Cancellation of international flights",76
 "Airport restriction","L2-L3","Conditional entry of citizens and EU citizens",2
 "Airport restriction","L2-L3","Entry ban to passengers from high-risk areas other than China",2
-"Airport restriction","L2-L3","Entry ban to passengers from non EU citizens",2
+"Airport restriction","L2-L3","Entry ban to passengers from non EU countries",2
 "Airport restriction","L2-L3","Landing bans on aircrafts from high risk areas",45
 "Airport restriction","L2-L3","Measures to limit contact to high risk populations",1
 "Airport restriction","L2-L3","Some airports dedicated to receive international flights",3
@@ -501,7 +501,7 @@
 "Police and army interventions","L2-L3","Increase police forces",6
 "Police and army interventions","L2-L3","To collect data and samples for tests",8
 "Police and army interventions","L2-L3","To support essential workers",5
-"Police and army interventions","L2-L3","To support law enforcement/sanction in case of no compliance",78
+"Police and army interventions","L2-L3","To support law enforcement/sanction in case of no compliance",79
 "Police and army interventions","L2-L3","To support the population",19
 "Port and ship restriction","L2-L3","Deny entry to cruise ships",19
 "Port and ship restriction","L2-L3","Deny entry to passengers from any port outside the country",1
@@ -1448,7 +1448,7 @@
 "Entry ban to non EU citizens","L3-L4","",2
 "Entry ban to passengers from high-risk areas other than China","L3-L4","All countries, if feeling unwell",1
 "Entry ban to passengers from high-risk areas other than China","L3-L4","No boarding from Taiwan",1
-"Entry ban to passengers from non EU citizens","L3-L4","",2
+"Entry ban to passengers from non EU countries","L3-L4","",2
 "Entry ban to people from China","L3-L4","",1
 "Entry ban to people from China","L3-L4","China",5
 "Entry ban to people from China","L3-L4","China: Transit visas are no longer issued for Chinese nationals.",1
@@ -3020,11 +3020,9 @@
 "Risk management plan","L3-L4","Contingency plan",2
 "Risk management plan","L3-L4","Country-wide alert level system",1
 "Risk management plan","L3-L4","Emergency plan",23
-"Risk management plan","L3-L4","Government taskforce",1
 "Risk management plan","L3-L4","Highest level of alert",1
-"Risk management plan","L3-L4","Mobilize other forces",1
 "Risk management plan","L3-L4","Nationwide guidelines",1
-"Risk management plan","L3-L4","New task force",3
+"Risk management plan","L3-L4","New task force",4
 "Risk management plan","L3-L4","Raised emergency level",1
 "Risk management plan","L3-L4","Raised emergency level to 2 of 3",2
 "Risk management plan","L3-L4","Raised emergency level to 3 of 3",1
@@ -3278,7 +3276,7 @@
 "To support essential workers","L3-L4","Firemen to transport patients",1
 "To support essential workers","L3-L4","Motivate and acknowledge essential workers",1
 "To support essential workers","L3-L4","To assist healthcare professionals",3
-"To support law enforcement/sanction in case of no compliance","L3-L4","",5
+"To support law enforcement/sanction in case of no compliance","L3-L4","",6
 "To support law enforcement/sanction in case of no compliance","L3-L4","In case test, isolation or treatment of patient is compromised",2
 "To support law enforcement/sanction in case of no compliance","L3-L4","Support local authorities",9
 "To support law enforcement/sanction in case of no compliance","L3-L4","To enforce border restrictions",2
