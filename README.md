@@ -18,7 +18,7 @@ A wide range of different public sources were used to populate, update and curat
 **id –** Unique identifier for the implemented measure. ID is also used in the Google Form to report erroneous entries.<br>
 **Country –** The country where the NPI measure was implemented.<br>
 **ISO3** – Three-letter country code as published by the International Organization for Standardization.<br>
-**State** – Subnational geographic area: State. Used for Germany, India, and USA. State where the measure was implemented. The country name otherwise.<br>
+**State** – Subnational geographic area. State where the measure was implemented; the country name otherwise. Used for Germany, India, and USA.<br>
 **Region** – Subnational geographic area (e.g. region, department, municipality, city) where the NPI measure has been locally implemented (i.e. the measure was not implemented nationwide as of the mentioned date). The country or the state name otherwise (i.e. measure implemented nationwide).<br>
 **Date** – Date of implementation of the NPI. Date of announcement was used when the date of implementation of the NPI could not be found and this was specified in the field Comment.<br>
 **L1_Measure** – Themes (L1 of the classification scheme). Eight themes were defined:<br>
