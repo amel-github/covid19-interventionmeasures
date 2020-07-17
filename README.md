@@ -45,7 +45,7 @@ A wide range of different public sources were used to populate, update and curat
 To promote common understanding and global use of the dataset, we are developping a glossary of the codes used (work in progress).
 
 ## Visualisation of the hierarchical coding scheme
-Our online interactive tool is available here: https://csh.ac.at/covid19/cccsl_measure_graph/ (Author: J. Sorger)
+Our online interactive tool is available here: http://covid19-interventions.com/CCCSLgraph/ (Author: J. Sorger)
 
 ## Open Library
 An open library is available (work in progress) that contains all sources used to collect the data: https://www.zotero.org/groups/2488884/cccsl_covid_measure_project.<br>
