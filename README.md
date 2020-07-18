@@ -4,10 +4,7 @@
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 ## Cite as:
-Desvars-Larrive A., Ahne V., Álvarez S., Bartoszek M., Berishaj D., Bulska D., Chakraborty A., Chen E., Chen X., Cserjan D., Dervic A., Dervic E., Di Natale A., Ferreira M.R., Flores Tames E., Garcia D., Garncarek Z., Gliga D.S., Gooriah L., Grzymała-Moszczyńska J., Jurczak A., Haberfellner S., Hadziavdic L., Haug N., Holder S., Korbel J., Lasser J., Lederhilger D., Niederkrotenthaler T., Pacheco A., Pocasangre-Orellana X.M., Reddish J., Reisch V., Stangl J., Stoeger L., Takriti H., Ten A., Vierlinger R., Thurner S. CCCSL: Complexity Science Hub Covid-19 Control Strategies List (2020). Version 2.0. https://github.com/amel-github/covid19-interventionmeasures
-
-## Other contributors:
-Contribution to data collection and coding since April 2020: Roux A.
+Desvars-Larrive A., Ahne V., Álvarez S., Bartoszek M., Berishaj D., Bulska D., Chakraborty A., Chen E., Chen X., Cserjan D., Dervic A., Dervic E., Di Natale A., Ferreira M.R., Flores Tames E., Garcia D., Garncarek Z., Gliga D.S., Gooriah L., Grzymała-Moszczyńska J., Jurczak A., Haberfellner S., Hadziavdic L., Haug N., Holder S., Korbel J., Lasser J., Lederhilger D., Niederkrotenthaler T., Pacheco A., Pocasangre-Orellana X.M., Reddish J., Reisch V., Roux A., Sorger J., Stangl J., Stoeger L., Takriti H., Ten A., Vierlinger R., Thurner S. CCCSL: Complexity Science Hub Covid-19 Control Strategies List (2020). Version 2.0. https://github.com/amel-github/covid19-interventionmeasures
 
 ## Our preprint has been posted on medRxiv
 https://medrxiv.org/cgi/content/short/2020.05.04.20090498v1
@@ -45,7 +42,7 @@ A wide range of different public sources were used to populate, update and curat
 To promote common understanding and global use of the dataset, we are developping a glossary of the codes used (work in progress).
 
 ## Visualisation of the hierarchical coding scheme
-Our online interactive tool is available here: http://covid19-interventions.com/CCCSLgraph/ (Author: J. Sorger)
+Our online interactive tool is available here: http://covid19-interventions.com/CCCSLgraph/ (Author: Sorger J.)
 
 ## Open Library
 An open library is available (work in progress) that contains all sources used to collect the data: https://www.zotero.org/groups/2488884/cccsl_covid_measure_project.<br>
