@@ -18,7 +18,7 @@ A wide range of different public sources were used to populate, update and curat
 **State** – Subnational geographic area. State where the measure was implemented; the country name otherwise. Used for Germany, India, and USA.<br>
 **Region** – Subnational geographic area (e.g. region, department, municipality, city) where the NPI measure has been locally implemented (i.e. the measure was not implemented nationwide as of the mentioned date). The country or the state name otherwise (i.e. measure implemented nationwide).<br>
 **Date** – Date of implementation of the NPI. Date of announcement was used when the date of implementation of the NPI could not be found and this was specified in the field Comment.<br>
-**L1_Measure** – Themes (L1 of the classification scheme). Eight themes were defined:<br>
+**L1_Measure** – Theme (L1 of the classification scheme). Eight themes were defined:<br>
 (1) Case identification, contact tracing and related measures,<br>
 (2) Environmental measures,<br>
 (3) Healthcare and public health capacity,<br>
@@ -27,9 +27,9 @@ A wide range of different public sources were used to populate, update and curat
 (6) Social distancing,<br>
 (7) Travel restriction,<br>
 (8) Returning to normal life.<br>
-**L2_Measure** – Categories (L2 of the classification scheme). See the pdf document for the list of the categories.<br>
-**L3_Measure** – Subcategories (L3 of the classification scheme). Provides detailed information on the corresponding category (L2).<br>
-**L4_Measure** – Codes (L4 of the classification scheme). Corresponds to the finest level of description of the measures.<br>
+**L2_Measure** – Category (L2 of the classification scheme). See the pdf document for the list of the categories.<br>
+**L3_Measure** – Subcategory (L3 of the classification scheme). Provides detailed information on the corresponding category (L2).<br>
+**L4_Measure** – Code (L4 of the classification scheme). Corresponds to the finest level of description of the measures.<br>
 **Status** – Specifies whether the measure is a prolongation of a previously implemented measure ("Extended") or not ("").<br>
 **Comment** – Provides the description of the measure as found in the text data source, translated into English.<br>
 **Source** – Provides the reference for each entry.<br>
