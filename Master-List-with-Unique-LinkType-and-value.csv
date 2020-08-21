@@ -200,12 +200,12 @@
 "Closure of educational institutions","L2-L3","Complete closure of primary and secondary schools",102
 "Closure of educational institutions","L2-L3","Complete closure of research institutes",1
 "Closure of educational institutions","L2-L3","Complete closure of scientific institutions",1
-"Closure of educational institutions","L2-L3","Complete closure of universities",45
+"Closure of educational institutions","L2-L3","Complete closure of universities",44
 "Closure of educational institutions","L2-L3","Extracurriculars cancelled",5
 "Closure of educational institutions","L2-L3","Partial closure of educational institutions",14
 "Closure of educational institutions","L2-L3","Partial closure of kindergartens",4
 "Closure of educational institutions","L2-L3","Partial closure of primary and secondary schools",16
-"Closure of educational institutions","L2-L3","Partial closure of universities",9
+"Closure of educational institutions","L2-L3","Partial closure of universities",10
 "Closure of educational institutions","L2-L3","Reduction of excursions, out-of-house events",10
 "Closure of educational institutions","L2-L3","Restrictions on exams",6
 "Closure of educational institutions","L2-L3","Rules for exams",2
@@ -1027,7 +1027,6 @@
 "Complete closure of universities","L3-L4","Closure of police officier training courses",1
 "Complete closure of universities","L3-L4","Closure of universities",1
 "Complete closure of universities","L3-L4","Extended holidays",1
-"Complete closure of universities","L3-L4","University institutions are still open to students and staff",1
 "Complete closure of universities","L3-L4","Visiting university buildings is prohibited",1
 "Complete prohibition of gathering","L3-L4","",30
 "Complete prohibition of gathering","L3-L4","Bans on gathering of non-household members",1
@@ -2546,6 +2545,7 @@
 "Partial closure of primary and secondary schools","L3-L4","",15
 "Partial closure of primary and secondary schools","L3-L4","Partial closure of primary schools and pre schools",1
 "Partial closure of universities","L3-L4","",9
+"Partial closure of universities","L3-L4","Online courses only but buildings open to students and staff",1
 "Partial lift of the curfew","L3-L4","Increased allowed time out of home",4
 "Partial lift of the curfew","L3-L4","With segmentation of the population",3
 "Partial lift of the curfew for children","L3-L4","Increased allowed time out of home",1
