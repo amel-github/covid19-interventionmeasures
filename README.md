@@ -9,11 +9,6 @@ Desvars-Larrive A., Ahne V., Álvarez S., Bartoszek M., Berishaj D., Bulska D., 
 ## Our paper has been published in Scientific Data
 Desvars-Larrive, A., Dervic, E., Haug, N. et al. A structured open dataset of government interventions in response to COVID-19. Sci Data 7, 285 (2020). https://doi.org/10.1038/s41597-020-00609-9
 
-## R Codes for exploring the dataset are available
-https://doi.org/10.5281/zenodo.3949808  
-and
-https://github.com/amel-github/CCCSL-Codes
-
 ## Data
 A wide range of different public sources were used to populate, update and curate our dataset, including official government sources, peer-reviewed and non-peer-reviewed scientific papers, webpages of public health institutions (WHO, CDC, and ECDC), press releases, newspaper articles, and government communication through social media. 
 
@@ -51,6 +46,11 @@ Our online interactive tool is available here: http://covid19-interventions.com/
 
 ## Open Library
 An open library is available (work in progress) that contains all sources used to collect the data: https://www.zotero.org/groups/2488884/cccsl_covid_measure_project.<br>
+
+## R Codes for exploring the dataset are available
+https://doi.org/10.5281/zenodo.3949808  
+and
+https://github.com/amel-github/CCCSL-Codes
 
 ## Note
 The CCCSL is an ongoing collaborative project, built in a time limited by the emergency of the situation. *Version 1* of the CCCSL has not undergone systematic validation and is currently subjected to an extensive data validation process. Our objective is to validate and develop the dataset within the next three months.<br>
