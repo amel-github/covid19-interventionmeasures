@@ -9,6 +9,11 @@ Desvars-Larrive A., Ahne V., Álvarez S., Bartoszek M., Berishaj D., Bulska D., 
 ## Our paper has been published in Scientific Data
 Desvars-Larrive, A., Dervic, E., Haug, N. et al. A structured open dataset of government interventions in response to COVID-19. Sci Data 7, 285 (2020). https://doi.org/10.1038/s41597-020-00609-9
 
+## R Codes for exploring the dataset are available
+https://doi.org/10.5281/zenodo.3949808  
+and
+https://github.com/amel-github/CCCSL-Codes
+
 ## Data
 A wide range of different public sources were used to populate, update and curate our dataset, including official government sources, peer-reviewed and non-peer-reviewed scientific papers, webpages of public health institutions (WHO, CDC, and ECDC), press releases, newspaper articles, and government communication through social media. 
 
