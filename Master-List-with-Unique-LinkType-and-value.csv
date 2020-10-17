@@ -280,7 +280,8 @@
 "Educate and actively communicate with the public","L2-L3","Strengthen communication capacities",2
 "Educate and actively communicate with the public","L2-L3","Support to parent",1
 "Educate and actively communicate with the public","L2-L3","Use of public transport",9
-"Enhance detection system","L2-L3","Extend test criteria",24
+"Enhance detection system","L2-L3","Broaden definition / special definition",6
+"Enhance detection system","L2-L3","Extend test criteria",18
 "Enhance detection system","L2-L3","Health evaluation of visitors before access to specific institutions",6
 "Enhance detection system","L2-L3","Targeted testing",24
 "Enhance detection system","L2-L3","Test contact or at risk of contact persons",17
@@ -811,6 +812,9 @@
 "Border control","L3-L4","Restrict entry by land and by air from Italy, France, Germany, Austria and Spain, and non-Schengen States",1
 "Border control","L3-L4","Restrictions at land and sea borders",2
 "Border control","L3-L4","Russia, Belarus, Ukraine, Lithuania and Slovakia",1
+"Broaden definition / special definition","L3-L4","Broaden definition of cases: Includes also suspected illness",1
+"Broaden definition / special definition","L3-L4","Broaden definition of suspected cases",4
+"Broaden definition / special definition","L3-L4","Interim national case definition",1
 "Call for return of nationals living abroad","L3-L4","",11
 "Call for return of nationals living abroad","L3-L4","Finnish Government calls for all nationals travelling abroad to return to Finland.",1
 "Call for return of nationals living abroad","L3-L4","Governmental support provided",1
@@ -1563,11 +1567,8 @@
 "Expand zone of travel","L3-L4","Only for work, health, and urgencies",1
 "Extend test criteria","L3-L4","",1
 "Extend test criteria","L3-L4","Asymptomatic suspected patients will be tested",1
-"Extend test criteria","L3-L4","Broaden definition of cases: Includes also suspected illness",1
-"Extend test criteria","L3-L4","Broaden definition of suspected cases",4
 "Extend test criteria","L3-L4","Include all pneumonia cases",1
 "Extend test criteria","L3-L4","Include all symptomatic with travel history to infected areas",1
-"Extend test criteria","L3-L4","Interim national case definition",1
 "Extend test criteria","L3-L4","Not only those with a history of travel to high risk areas",1
 "Extend test criteria","L3-L4","Pro-active indentification of suspected cases",1
 "Extend test criteria","L3-L4","Provide free testing",4
