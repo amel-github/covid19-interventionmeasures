@@ -5,7 +5,7 @@
 "Case identification, contact tracing and related measures","L1-L2","Enhance detection system",71
 "Case identification, contact tracing and related measures","L1-L2","Isolation of cases",33
 "Case identification, contact tracing and related measures","L1-L2","Public transport health check",4
-"Case identification, contact tracing and related measures","L1-L2","Quarantine",185
+"Case identification, contact tracing and related measures","L1-L2","Quarantine",187
 "Case identification, contact tracing and related measures","L1-L2","Restricted testing",8
 "Case identification, contact tracing and related measures","L1-L2","Surveillance",28
 "Case identification, contact tracing and related measures","L1-L2","Tracing and tracking",67
@@ -13,26 +13,24 @@
 "Environmental measures","L1-L2","Environmental cleaning and disinfection",62
 "Healthcare and public health capacity","L1-L2","Adapt procedures for patient management",80
 "Healthcare and public health capacity","L1-L2","Develop new health services",1
-"Healthcare and public health capacity","L1-L2","Enhance laboratory testing capacity",95
-"Healthcare and public health capacity","L1-L2","Increase availability of PPE",165
+"Healthcare and public health capacity","L1-L2","Enhance laboratory testing capacity",97
+"Healthcare and public health capacity","L1-L2","Increase availability of PPE",167
 "Healthcare and public health capacity","L1-L2","Increase healthcare workforce",154
 "Healthcare and public health capacity","L1-L2","Increase in medical supplies and equipment",89
 "Healthcare and public health capacity","L1-L2","Increase isolation and quarantine facilities",31
 "Healthcare and public health capacity","L1-L2","Increase patient capacity",114
 "Healthcare and public health capacity","L1-L2","Personal protective measures",92
 "Healthcare and public health capacity","L1-L2","Repurpose hospitals",15
-"Healthcare and public health capacity","L1-L2","Research",32
+"Healthcare and public health capacity","L1-L2","Research",34
 "Resource allocation","L1-L2","Activate or establish emergency response",214
-"Resource allocation","L1-L2","Crisis management plans",468
+"Resource allocation","L1-L2","Crisis management plans",472
 "Resource allocation","L1-L2","Economic measure to stimulate consumption",4
-"Resource allocation","L1-L2","Mass gathering cancellation",1
 "Resource allocation","L1-L2","Measures to ensure continuity of services",4
 "Resource allocation","L1-L2","Measures to ensure security of supply",101
-"Resource allocation","L1-L2","Police and army interventions",127
+"Resource allocation","L1-L2","Police and army interventions",128
 "Resource allocation","L1-L2","Provide international help",24
-"Resource allocation","L1-L2","Receive international help",15
+"Resource allocation","L1-L2","Receive international help",18
 "Resource allocation","L1-L2","The government provide assistance to vulnerable populations",56
-"Returning to normal life","L1-L2","",1
 "Returning to normal life","L1-L2","Access to non-essential/critical healthcare services",15
 "Returning to normal life","L1-L2","Actively communicate with healthcare professionals",1
 "Returning to normal life","L1-L2","Actively communicate with managers",30
@@ -42,9 +40,9 @@
 "Returning to normal life","L1-L2","Lift airport restrictions",8
 "Returning to normal life","L1-L2","Lift personal protective measures",3
 "Returning to normal life","L1-L2","Lift restriction on individual movements",25
-"Returning to normal life","L1-L2","Lift restriction on mass gatherings",78
+"Returning to normal life","L1-L2","Lift restriction on mass gatherings",79
 "Returning to normal life","L1-L2","Lift restriction on public transports",2
-"Returning to normal life","L1-L2","Lift restriction on small gatherings",98
+"Returning to normal life","L1-L2","Lift restriction on small gatherings",99
 "Returning to normal life","L1-L2","Lift travel restriction",14
 "Returning to normal life","L1-L2","Phase out emergency management",13
 "Returning to normal life","L1-L2","Re-opening of educational institutions",43
@@ -54,11 +52,11 @@
 "Risk communication","L1-L2","Actively communicate with managers",116
 "Risk communication","L1-L2","Educate and actively communicate with the public",800
 "Risk communication","L1-L2","Travel alert and warning",114
-"Social distancing","L1-L2","Closure of educational institutions",333
-"Social distancing","L1-L2","Mass gathering cancellation",629
+"Social distancing","L1-L2","Closure of educational institutions",334
+"Social distancing","L1-L2","Mass gathering cancellation",630
 "Social distancing","L1-L2","Measures for public transport",20
 "Social distancing","L1-L2","Measures for special populations",153
-"Social distancing","L1-L2","Return operation of nationals",83
+"Social distancing","L1-L2","Return operation of nationals",85
 "Social distancing","L1-L2","Small gathering cancellation",324
 "Social distancing","L1-L2","Special measures for certain establishments",133
 "Social distancing","L1-L2","Work safety protocols",10
@@ -66,10 +64,9 @@
 "Travel restriction","L1-L2","Border restriction",197
 "Travel restriction","L1-L2","Cordon sanitaire",47
 "Travel restriction","L1-L2","Individual movement restrictions",132
-"Travel restriction","L1-L2","National lockdown",41
+"Travel restriction","L1-L2","National lockdown",44
 "Travel restriction","L1-L2","Port and ship restriction",24
 "Travel restriction","L1-L2","Public transport restriction",34
-"","L2-L3","Fixed open-air gatherings and religious events",1
 "Access to non-essential/critical healthcare services","L2-L3","Lift suspension on home birth",1
 "Access to non-essential/critical healthcare services","L2-L3","One-to-one services allowed",1
 "Access to non-essential/critical healthcare services","L2-L3","Re-opening of medical and paramedical centers",13
@@ -214,7 +211,7 @@
 "Closure of educational institutions","L2-L3","Partial closure of primary and secondary schools",16
 "Closure of educational institutions","L2-L3","Partial closure of universities",10
 "Closure of educational institutions","L2-L3","Reduction of excursions, out-of-house events",10
-"Closure of educational institutions","L2-L3","Restrictions on exams",13
+"Closure of educational institutions","L2-L3","Restrictions on exams",14
 "Conditional re-opening of services","L2-L3","Rehabilitation services ",1
 "Cordon sanitaire","L2-L3","",7
 "Cordon sanitaire","L2-L3","More than one city",7
@@ -228,11 +225,11 @@
 "Cordon sanitaire","L2-L3","Partial",2
 "Cordon sanitaire","L2-L3","Voluntary lockdown of affected cities and provinces",1
 "Crisis management plans","L2-L3","",1
-"Crisis management plans","L2-L3","Administrative procedures facilitated",15
-"Crisis management plans","L2-L3","Develop all-of-society and business continuity plans",187
+"Crisis management plans","L2-L3","Administrative procedures facilitated",16
+"Crisis management plans","L2-L3","Develop all-of-society and business continuity plans",189
 "Crisis management plans","L2-L3","Financial aid for health system",42
 "Crisis management plans","L2-L3","Repurpose government plans",44
-"Crisis management plans","L2-L3","State aid, taxation and social security",179
+"Crisis management plans","L2-L3","State aid, taxation and social security",180
 "Develop new health services","L2-L3","Rehabilitation programme for Covid-19 patients",1
 "Economic measure to stimulate consumption","L2-L3","Direct support to people with low income",1
 "Economic measure to stimulate consumption","L2-L3","Direct support to the population",3
@@ -287,7 +284,7 @@
 "Enhance detection system","L2-L3","Test contact or at risk of contact persons",17
 "Enhance hygiene conditions","L2-L3","In markets",1
 "Enhance laboratory testing capacity","L2-L3","Decrease time between test and result",7
-"Enhance laboratory testing capacity","L2-L3","Increase laboratory facilities",39
+"Enhance laboratory testing capacity","L2-L3","Increase laboratory facilities",41
 "Enhance laboratory testing capacity","L2-L3","Increase testing capacity (number tests)",49
 "Environmental cleaning and disinfection","L2-L3","",1
 "Environmental cleaning and disinfection","L2-L3","Approval of new biocidal product",1
@@ -312,13 +309,13 @@
 "Exemption of quarantine","L2-L3","Lift mandatory quarantine for commuters",6
 "Exemption of quarantine","L2-L3","Lift mandatory quarantine for travellers from low risk areas",3
 "Exemption of quarantine","L2-L3","Reduce quarantine period",1
-"Increase availability of PPE","L2-L3","Face masks",84
+"Increase availability of PPE","L2-L3","Face masks",85
 "Increase availability of PPE","L2-L3","Hand sanitizers",5
 "Increase availability of PPE","L2-L3","Increase domestic production of PPE",5
 "Increase availability of PPE","L2-L3","PPE (not specified)",9
 "Increase availability of PPE","L2-L3","PPE for healthcare professionals",32
 "Increase availability of PPE","L2-L3","PPE other than face masks",19
-"Increase availability of PPE","L2-L3","Prohibition of export of protective personal equipment",11
+"Increase availability of PPE","L2-L3","Prohibition of export of protective personal equipment",12
 "Increase healthcare workforce","L2-L3","Exception to work law allowed",31
 "Increase healthcare workforce","L2-L3","Incentives for healthcare workers",21
 "Increase healthcare workforce","L2-L3","Mobilization of domestic resources for health",79
@@ -399,6 +396,7 @@
 "Lift restriction on mass gatherings","L2-L3","Re-opening of public places",5
 "Lift restriction on mass gatherings","L2-L3","Re-opening of workplaces",6
 "Lift restriction on mass gatherings","L2-L3","Resume activity in gastronomy and trade facilities",1
+"Lift restriction on mass gatherings","L2-L3","Resume business activities",1
 "Lift restriction on mass gatherings","L2-L3","Resume indoor hobbies and leisure activities",1
 "Lift restriction on mass gatherings","L2-L3","Resume outdoor activities",2
 "Lift restriction on public transports","L2-L3","Adaptive measures in public transports",1
@@ -407,6 +405,7 @@
 "Lift restriction on small gatherings","L2-L3","Adaptive measure for shops",2
 "Lift restriction on small gatherings","L2-L3","Adaptive measure for vulnerable population",1
 "Lift restriction on small gatherings","L2-L3","Allow religious gatherings outdoor",1
+"Lift restriction on small gatherings","L2-L3","Fixed open-air gatherings and religious events allowed",1
 "Lift restriction on small gatherings","L2-L3","Lift ban on familial and private gatherings",6
 "Lift restriction on small gatherings","L2-L3","Lift ban on outdoor sport events",1
 "Lift restriction on small gatherings","L2-L3","Limit up to 10 persons",1
@@ -489,7 +488,7 @@
 "Measures to ensure security of supply","L2-L3","State aid for fuel supply",1
 "Measures to ensure security of supply","L2-L3","Trade agreement with another country",2
 "Measures to ensure security of supply","L2-L3","Traffic enactments",6
-"National lockdown","L2-L3","",26
+"National lockdown","L2-L3","",29
 "National lockdown","L2-L3","For 2 weeks",1
 "National lockdown","L2-L3","for 21 days",1
 "National lockdown","L2-L3","Safer-at-home Order",1
@@ -509,7 +508,7 @@
 "Police and army interventions","L2-L3","Increase police forces",6
 "Police and army interventions","L2-L3","To collect data and samples for tests",8
 "Police and army interventions","L2-L3","To support essential workers",5
-"Police and army interventions","L2-L3","To support law enforcement/sanction in case of no compliance",84
+"Police and army interventions","L2-L3","To support law enforcement/sanction in case of no compliance",85
 "Police and army interventions","L2-L3","To support the population",19
 "Port and ship restriction","L2-L3","Deny entry to cruise ships",19
 "Port and ship restriction","L2-L3","Deny entry to passengers from any port outside the country",1
@@ -534,12 +533,12 @@
 "Public transport restriction","L2-L3","Train restriction",6
 "Public transport restriction","L2-L3","Train traffic suspended",1
 "Quarantine","L2-L3","Contact persons",27
-"Quarantine","L2-L3","Incoming residents",8
+"Quarantine","L2-L3","Incoming residents",9
 "Quarantine","L2-L3","Incoming travelers",40
 "Quarantine","L2-L3","Incoming travelers by air",1
 "Quarantine","L2-L3","Incoming travelers by land and sea",1
 "Quarantine","L2-L3","Incomings from high-risk areas",89
-"Quarantine","L2-L3","Nationals coming from high-risk areas",10
+"Quarantine","L2-L3","Nationals coming from high-risk areas",11
 "Quarantine","L2-L3","Suspected cases",9
 "Re-opening of educational institutions","L2-L3","Classes with exams only",6
 "Re-opening of educational institutions","L2-L3","Educational institutions need an isolation center",1
@@ -574,10 +573,12 @@
 "Receive international help","L2-L3","Compensention fund from foreign aid",1
 "Receive international help","L2-L3","EU",1
 "Receive international help","L2-L3","From Norway",2
+"Receive international help","L2-L3","From Singapore",1
 "Receive international help","L2-L3","From switzerland",1
 "Receive international help","L2-L3","From the EU",2
+"Receive international help","L2-L3","From the United Arab Emirates",1
 "Receive international help","L2-L3","From the US embassy",1
-"Receive international help","L2-L3","From Turkey",1
+"Receive international help","L2-L3","From Turkey",2
 "Receive international help","L2-L3","From UNICEF: for children",1
 "Receive international help","L2-L3","International Monetary Fund",1
 "Receive international help","L2-L3","Receive hydroxychloroquine",1
@@ -588,11 +589,11 @@
 "Repurpose hospitals","L2-L3","Small hospitals used to reduce burden on hospitals dealing with covid-19 patients",1
 "Repurpose hospitals","L2-L3","Some hospitals dedicated to covid19 patients",9
 "Repurpose hospitals","L2-L3","Special section for covid19 patients",2
-"Research","L2-L3","Clinical trials on COVID-19",10
+"Research","L2-L3","Clinical trials on COVID-19",11
 "Research","L2-L3","Funding allocated to research",17
 "Research","L2-L3","Funding of a diagnostic test project",1
 "Research","L2-L3","Simplify clinical trials regulations",2
-"Research","L2-L3","Vaccine trials on COVID-19",2
+"Research","L2-L3","Vaccine trials on COVID-19",3
 "Restricted testing","L2-L3","Patients with need of hospital care",1
 "Restricted testing","L2-L3","Patients with need of hospital care and healthcare staff",2
 "Restricted testing","L2-L3","Patients with need of hospital care and healthcare staff with symptoms",1
@@ -628,7 +629,9 @@
 "Return operation of nationals","L2-L3","Return operation of nationals in regions at risk:  Italy, Spain, Poland, Germany, Morocco, Iraq, Northern Macedonia, Urkraine",1
 "Return operation of nationals","L2-L3","Return operation of nationals in Shanghai",2
 "Return operation of nationals","L2-L3","Return operation of nationals in Sint Maarten",1
+"Return operation of nationals","L2-L3","Return operation of nationals in Tamil Nadu",1
 "Return operation of nationals","L2-L3","Return operation of nationals in United Kingdom",1
+"Return operation of nationals","L2-L3","Return operation of nationals in Uzbekistan",1
 "Return operation of nationals","L2-L3","Return operation of nationals in Wuhan and/or Hubei",33
 "Return operation of nationals","L2-L3","Return operation of nationals in Wuhan, China",1
 "Return operation of nationals","L2-L3","Return operation of nationals living abroad",1
@@ -719,7 +722,7 @@
 "Work safety protocols","L2-L3","Implement social distancing at workplace",3
 "Work safety protocols","L2-L3","Implement social distancing workplace",1
 "Work safety protocols","L2-L3","Use of PPE at workplace",3
-"","L3-L4","",65
+"","L3-L4","",68
 "Adaptive measure at work","L3-L4","Temperature measurement before entering workplace",1
 "Adaptive measure for shops","L3-L4","Disinfection of common surfaces",1
 "Adaptive measure for shops","L3-L4","Temperature measurement before entering a shop",1
@@ -732,7 +735,7 @@
 "Administrative procedures facilitated","L3-L4","Flexibility in the emergency placement of foster youth",1
 "Administrative procedures facilitated","L3-L4","Implement remote administrative procedures",2
 "Administrative procedures facilitated","L3-L4","Obtention of marriage licenses facilitated",1
-"Administrative procedures facilitated","L3-L4","Partial or total deferral of administrative obligations",1
+"Administrative procedures facilitated","L3-L4","Partial or total deferral of administrative obligations",2
 "Administrative procedures facilitated","L3-L4","Provide the school administration with flexibility in light of upcoming due dates",1
 "Administrative procedures facilitated","L3-L4","Rule suspension on child safety and permanence",1
 "Administrative procedures facilitated","L3-L4","Vehicle registrations extended",1
@@ -886,7 +889,7 @@
 "Clinical trials on COVID-19","L3-L4","Clinical trial on preventive treatment in the frontline worker population",1
 "Clinical trials on COVID-19","L3-L4","FDA approval for study",1
 "Clinical trials on COVID-19","L3-L4","Ministry of Health approval",1
-"Clinical trials on COVID-19","L3-L4","Trials on COVID-19 treatment",1
+"Clinical trials on COVID-19","L3-L4","Trials on COVID-19 treatment",2
 "Close land border to prevent virus spread","L3-L4","Bangladesh and Myanmar",1
 "Close land border to prevent virus spread","L3-L4","Bangladesh, Nepal, Bhutan and Myanmar",1
 "Closure of adult daycare facilities","L3-L4","",2
@@ -1218,10 +1221,11 @@
 "Develop all-of-society and business continuity plans","L3-L4","Extension of health insurance",7
 "Develop all-of-society and business continuity plans","L3-L4","Facilitate access to short-time work benefits",2
 "Develop all-of-society and business continuity plans","L3-L4","Facilitate loans for companies to support for women, youth and digitalization in business",1
-"Develop all-of-society and business continuity plans","L3-L4","Facilitate loans for entrepreneurs and businesses",16
+"Develop all-of-society and business continuity plans","L3-L4","Facilitate loans for entrepreneurs and businesses",17
 "Develop all-of-society and business continuity plans","L3-L4","Facilitate loans for start-ups and small and micro companies",1
 "Develop all-of-society and business continuity plans","L3-L4","Facilitate temporary suspension of work contracts to limit job loss",1
 "Develop all-of-society and business continuity plans","L3-L4","Financial compensation for daycare",1
+"Develop all-of-society and business continuity plans","L3-L4","Financial support to small and medium enterprises",1
 "Develop all-of-society and business continuity plans","L3-L4","Fisheries and aquaculture",1
 "Develop all-of-society and business continuity plans","L3-L4","Fisheries, aquaculture and seafood processing sectors",2
 "Develop all-of-society and business continuity plans","L3-L4","Funding  for start-ups",1
@@ -1601,7 +1605,7 @@
 "Face masks","L3-L4","Import",2
 "Face masks","L3-L4","Import from China",2
 "Face masks","L3-L4","Import from Turkey",1
-"Face masks","L3-L4","Importation",1
+"Face masks","L3-L4","Importation",2
 "Face masks","L3-L4","Imported from China",1
 "Face masks","L3-L4","In schools",1
 "Face masks","L3-L4","increase face mask production for medical institutions",1
@@ -1661,7 +1665,7 @@
 "Financial aid for health system","L3-L4","Supplemental budget for health care",1
 "Financial aid for health system","L3-L4","The state support quarantine financially",1
 "Financial aid for health system","L3-L4","Train personnel in intensive care medicine",1
-"Fixed open-air gatherings and religious events","L3-L4","Limit up to 50 persons",1
+"Fixed open-air gatherings and religious events allowed","L3-L4","Limit up to 50 persons",1
 "Fixing price for medical supplies","L3-L4","",1
 "Fixing price for medical supplies","L3-L4","Consumable medical supplies and medical equipment and appliances",1
 "Fixing price for medical supplies","L3-L4","Lift taxes on medical supplies",1
@@ -1717,11 +1721,14 @@
 "From India and Africa","L3-L4","",1
 "From Norway","L3-L4","",1
 "From Norway","L3-L4","Economic aid for medical supplies",1
+"From Singapore","L3-L4","Supplies for tests",1
 "From switzerland","L3-L4","",1
 "From the EU","L3-L4","",1
 "From the EU","L3-L4","Economic support to the most affected workers and businesses",1
+"From the United Arab Emirates","L3-L4","Medical supplies",1
 "From the US embassy","L3-L4","",1
 "From Turkey","L3-L4","Donation of medical equipment and funds for the health sector",1
+"From Turkey","L3-L4","Masks",1
 "From UNICEF: for children","L3-L4","Hygiene kits and information materials",1
 "Funding allocated to research","L3-L4","",6
 "Funding allocated to research","L3-L4","Focus on implementing measures to detect, manage, and reduce the transmission of the virus",3
@@ -1948,6 +1955,7 @@
 "Incoming residents","L3-L4","From ASEAN countries, France, India and Switzerland",1
 "Incoming residents","L3-L4","Health check and self-isolation",1
 "Incoming residents","L3-L4","Quarantine in a state quarantine facility",1
+"Incoming residents","L3-L4","Returning from overseas",1
 "Incoming travelers","L3-L4","",13
 "Incoming travelers","L3-L4","2 islands",1
 "Incoming travelers","L3-L4","All",14
@@ -2048,8 +2056,8 @@
 "Increase ICU capacity","L3-L4","State funds",1
 "Increase laboratory facilities","L3-L4","Certification of laboratory",1
 "Increase laboratory facilities","L3-L4","Drive-in testing facilities",10
-"Increase laboratory facilities","L3-L4","Extend testing capacities to universities",1
-"Increase laboratory facilities","L3-L4","Extend testing capacity to private institutions",5
+"Increase laboratory facilities","L3-L4","Extend testing capacities to universities",2
+"Increase laboratory facilities","L3-L4","Extend testing capacity to private institutions",6
 "Increase laboratory facilities","L3-L4","Mobile testing facilities",3
 "Increase laboratory facilities","L3-L4","More laboratory dedicated",16
 "Increase laboratory facilities","L3-L4","New laboratory",3
@@ -2526,6 +2534,7 @@
 "Must be implemented in long-term care facilities","L3-L4","",1
 "Nationals coming from high-risk areas","L3-L4","",1
 "Nationals coming from high-risk areas","L3-L4","China",1
+"Nationals coming from high-risk areas","L3-L4","For national commuters returning from Singapore",1
 "Nationals coming from high-risk areas","L3-L4","For nationals returning from Wuhan",1
 "Nationals coming from high-risk areas","L3-L4","Germany",1
 "Nationals coming from high-risk areas","L3-L4","Health monitoring",1
@@ -2718,7 +2727,7 @@
 "Prohibit non-essential activities of marine vessels","L3-L4","Commercial marine vessels with a capacity of more than 12 passengers",1
 "Prohibition of export of protective personal equipment","L3-L4","",2
 "Prohibition of export of protective personal equipment","L3-L4","24 products",1
-"Prohibition of export of protective personal equipment","L3-L4","Face masks",4
+"Prohibition of export of protective personal equipment","L3-L4","Face masks",5
 "Prohibition of export of protective personal equipment","L3-L4","Face masks and hand sanitizer",1
 "Prohibition of export of protective personal equipment","L3-L4","Ordinance BAnz AT 04.03.2020 B1",1
 "Prohibition of export of protective personal equipment","L3-L4","PPE other than face masks",1
@@ -3038,12 +3047,13 @@
 "Restrictions on exams","L3-L4","Cancellation of exams in primary and secondary schools",3
 "Restrictions on exams","L3-L4","Cancellation of exams in universities and colleges",1
 "Restrictions on exams","L3-L4","Exams postoned (second section of the medical examination)",1
-"Restrictions on exams","L3-L4","Exams postponed",5
+"Restrictions on exams","L3-L4","Exams postponed",6
 "Restrictions on exams","L3-L4","Implement safety measures for the exams",1
 "Restrictions on exams","L3-L4","Simplified procedures for exams",2
 "Restrictions on the movements of children","L3-L4","Prohibition of minors <13 year old to go out alone",1
 "Restrictions on the movements of children","L3-L4","Prohibition of minors <18 year old to go out alone",1
 "Resume activity in gastronomy and trade facilities","L3-L4","Increased number of people allowed",1
+"Resume business activities","L3-L4","",1
 "Resume domestic flights","L3-L4","Partial",1
 "Resume flights","L3-L4","All seats can be occupied with respect to hygiene measures",1
 "Resume indoor hobbies and leisure activities","L3-L4","Re-opening of bingo halls",1
@@ -3106,7 +3116,9 @@
 "Return operation of nationals in regions at risk:  Italy, Spain, Poland, Germany, Morocco, Iraq, Northern Macedonia, Urkraine","L3-L4","Special measure: Quarantine",1
 "Return operation of nationals in Shanghai","L3-L4","Special measure: Quarantine",2
 "Return operation of nationals in Sint Maarten","L3-L4","",1
+"Return operation of nationals in Tamil Nadu","L3-L4","",1
 "Return operation of nationals in United Kingdom","L3-L4","Special measure: Quarantine",1
+"Return operation of nationals in Uzbekistan","L3-L4","",1
 "Return operation of nationals in Wuhan and/or Hubei","L3-L4","",1
 "Return operation of nationals in Wuhan and/or Hubei","L3-L4","Special measure: Quarantine",27
 "Return operation of nationals in Wuhan and/or Hubei","L3-L4","Special measure: State-facilitated Quarantine",1
@@ -3247,7 +3259,7 @@
 "State aid, taxation and social security","L3-L4","Expand child care access for essential persons",5
 "State aid, taxation and social security","L3-L4","Extended deadline for insurance-paying",2
 "State aid, taxation and social security","L3-L4","Extension of health insurance",4
-"State aid, taxation and social security","L3-L4","Facilitate loans for individuals",2
+"State aid, taxation and social security","L3-L4","Facilitate loans for individuals",3
 "State aid, taxation and social security","L3-L4","Facilitate loans for students",2
 "State aid, taxation and social security","L3-L4","Financial compensation for parents who stay home for childcare",5
 "State aid, taxation and social security","L3-L4","Flexibility of rent payments",4
@@ -3398,7 +3410,7 @@
 "To support law enforcement/sanction in case of no compliance","L3-L4","Support local authorities",9
 "To support law enforcement/sanction in case of no compliance","L3-L4","To enforce border restrictions",2
 "To support law enforcement/sanction in case of no compliance","L3-L4","To enforce curfew",2
-"To support law enforcement/sanction in case of no compliance","L3-L4","To enforce lockdown",4
+"To support law enforcement/sanction in case of no compliance","L3-L4","To enforce lockdown",5
 "To support law enforcement/sanction in case of no compliance","L3-L4","To enforce mask wearing requirement",2
 "To support law enforcement/sanction in case of no compliance","L3-L4","To enforce quarantine/isolation",19
 "To support law enforcement/sanction in case of no compliance","L3-L4","To enforce social distancing",34
@@ -3510,7 +3522,7 @@
 "Use of public transport","L3-L4","Discourage use of public transport, price of city bike rental decreased",1
 "Use of public transport","L3-L4","Encourage public hygiene in transports",1
 "Use of public transport","L3-L4","Limit travel to essential journeys",1
-"Vaccine trials on COVID-19","L3-L4","",2
+"Vaccine trials on COVID-19","L3-L4","",3
 "Ventilators","L3-L4","",13
 "Ventilators","L3-L4","Domestic production",1
 "Ventilators","L3-L4","Imported from China",1
