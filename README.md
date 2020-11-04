@@ -67,8 +67,8 @@ This work is supported by the University of Veterinary Medicine Vienna, Austria.
 This work is supported by the **European Open Science Cloud (EOSC) of the European Commission** (#220) for the period Nov. 2020 - Jan. 2021.
 
 ## List of Contributors (alphabetical order)
-Ahne Verena (Complexity Science Hub Vienna, Austria)<br>
-Álvarez Francisco S. (Fundación Naturaleza El Salvador)<br>
+Ahne Verena *(Complexity Science Hub Vienna, Austria)*<br>
+Álvarez Francisco S. *(Fundación Naturaleza El Salvador)*<br>
 Bartoszek Marta (Institute of Psychology, Jagiellonian University, Kraków, Poland)<br>
 Berishaj Dorontinë (Independent Scholar)<br>
 Bulska Dominika (Institute for Social Studies, University of Warsaw, Poland)<br>
