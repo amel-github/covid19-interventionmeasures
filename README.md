@@ -64,5 +64,5 @@ Email: desvars@csh.ac.at
 ## Acknowledgements
 This work is coordinated by the Complexity Science Hub Vienna, Austria.<br>
 This work is supported by the University of Veterinary Medicine Vienna, Austria.
-This work is supported by the **European Open Science Cloud (EOSC) of the European Commission** (Nov. 2020 - Jan. 2021)
+This work is supported by the **European Open Science Cloud (EOSC) of the European Commission** (#220) for the period Nov. 2020 - Jan. 2021.
 
