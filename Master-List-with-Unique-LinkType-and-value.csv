@@ -701,7 +701,8 @@
 "Special measures for certain establishments","L2-L3","Prisons and youth detention centers",23
 "Special measures for certain establishments","L2-L3","Public utility companies",1
 "Special measures for certain establishments","L2-L3","Residential social institutions",1
-"Special measures for certain establishments","L2-L3","Restaurants",14
+"Special measures for certain establishments","L2-L3","Restaurants",13
+"Special measures for certain establishments","L2-L3","Restaurants/bars/cafes",1
 "Special measures for certain establishments","L2-L3","Restriction in number of people in child care settings",1
 "Special measures for certain establishments","L2-L3","Short-term accommodation: partial closure",1
 "Special measures for certain establishments","L2-L3","Sports centres with indoor facilities",2
@@ -997,33 +998,22 @@
 "Closure of non-essential working places","L3-L4","Public-facing business that cannot respect rules of social distancing",1
 "Closure of non-essential working places","L3-L4","Special permit required for essential workers to go to workplace",1
 "Closure of restaurants/bars/cafes","L3-L4","",9
-"Closure of restaurants/bars/cafes","L3-L4","Bars",5
-"Closure of restaurants/bars/cafes","L3-L4","bars, restaurants",1
-"Closure of restaurants/bars/cafes","L3-L4","Closure of bars",1
+"Closure of restaurants/bars/cafes","L3-L4","Bars",6
+"Closure of restaurants/bars/cafes","L3-L4","Bars, restaurants",1
 "Closure of restaurants/bars/cafes","L3-L4","Closure of bars, taverns, brew pubs, breweries, microbreweries, distilleries, wineries, tasting rooms, special licensees, clubs, and other places of public accommodation offering alcoholic beverages for on-premises consumption",1
-"Closure of restaurants/bars/cafes","L3-L4","Only delivery",7
-"Closure of restaurants/bars/cafes","L3-L4","Only delivery and take-away",2
-"Closure of restaurants/bars/cafes","L3-L4","partial",1
-"Closure of restaurants/bars/cafes","L3-L4","Partial",24
+"Closure of restaurants/bars/cafes","L3-L4","Partial",25
 "Closure of restaurants/bars/cafes","L3-L4","Partial- (restaurants in shopping malls over 5000m^2)",1
 "Closure of restaurants/bars/cafes","L3-L4","Partial (22:00 to 6:00)",1
 "Closure of restaurants/bars/cafes","L3-L4","Partial closure of cafes and restaurants",1
-"Closure of restaurants/bars/cafes","L3-L4","Partial or total",1
-"Closure of restaurants/bars/cafes","L3-L4","Partial: can offer delivery or pick-up services",1
-"Closure of restaurants/bars/cafes","L3-L4","Partial: only carry-on or drive-trhough and delivery",1
 "Closure of restaurants/bars/cafes","L3-L4","Partial: part-time and 50% capacity",1
-"Closure of restaurants/bars/cafes","L3-L4","Partial: remain open for take-out and delivery",2
-"Closure of restaurants/bars/cafes","L3-L4","Partial: restaurants with liquor license can sell alcohol off premises",1
-"Closure of restaurants/bars/cafes","L3-L4","Partial: restaurants with liquor license can sell more alcohol off premises",1
+"Closure of restaurants/bars/cafes","L3-L4","Partial: remain open for take-away and/or delivery",14
+"Closure of restaurants/bars/cafes","L3-L4","Partial: restaurants with liquor license can sell alcohol off premises",2
 "Closure of restaurants/bars/cafes","L3-L4","Pubs",1
 "Closure of restaurants/bars/cafes","L3-L4","Restaurants",2
 "Closure of restaurants/bars/cafes","L3-L4","Restaurants - Partial",1
 "Closure of restaurants/bars/cafes","L3-L4","Restaurants, partial",1
-"Closure of restaurants/bars/cafes","L3-L4","take-away allowed",1
-"Closure of restaurants/bars/cafes","L3-L4","total",1
-"Closure of restaurants/bars/cafes","L3-L4","Total",14
 "Closure of restaurants/bars/cafes","L3-L4","Total closure of all pubs and bars.",1
-"Closure of restaurants/bars/cafes","L3-L4","Total closure of restaurants/bars/cafes",10
+"Closure of restaurants/bars/cafes","L3-L4","Total closure of restaurants/bars/cafes",26
 "Closure of short-term accommodation","L3-L4","",3
 "Closure of short-term accommodation","L3-L4","All lodging operations and accommodations",2
 "Closure of short-term accommodation","L3-L4","Except business trips (maximum occupancy of fifteen percent)",1
@@ -2370,14 +2360,10 @@
 "Limit up to 10 persons","L3-L4","Until 13th April",1
 "Limit up to 10 persons","L3-L4","When at-risk people involved",1
 "Limit up to 100 persons","L3-L4","",13
-"Limit up to 100 persons","L3-L4","Applies to indoor events",1
-"Limit up to 100 persons","L3-L4","indoor",1
-"Limit up to 100 persons","L3-L4","Indoor",4
-"Limit up to 100 persons","L3-L4","Indoor activities",1
-"Limit up to 100 persons","L3-L4","indoors",1
+"Limit up to 100 persons","L3-L4","Indoor",8
 "Limit up to 100 persons","L3-L4","Must be postponed",1
-"Limit up to 100 persons","L3-L4","Outdoor 1m distance required between persons",1
-"Limit up to 100 persons","L3-L4","partial: non-essential mass gatherings",1
+"Limit up to 100 persons","L3-L4","Outdoor gathering allowed with recommended physical distancing",1
+"Limit up to 100 persons","L3-L4","Partial: non-essential mass gatherings",1
 "Limit up to 100 persons","L3-L4","Specified hygienic conditions",1
 "Limit up to 1000 persons","L3-L4","",22
 "Limit up to 150 persons","L3-L4","",1
@@ -2403,17 +2389,14 @@
 "Limit up to 5 persons","L3-L4","Outdoors",1
 "Limit up to 5 persons","L3-L4","Private space",1
 "Limit up to 50 persons","L3-L4","",24
+"Limit up to 50 persons","L3-L4","Indoor",1
 "Limit up to 50 persons","L3-L4","Indoor and outdoor",2
-"Limit up to 50 persons","L3-L4","Indoors",1
 "Limit up to 50 persons","L3-L4","Movement Control Order 18 March",1
 "Limit up to 50 persons","L3-L4","Public places",1
 "Limit up to 50 persons","L3-L4","With respect to social distancing",1
 "Limit up to 500 persons","L3-L4","",5
-"Limit up to 500 persons","L3-L4","indoor public gatherings",1
-"Limit up to 500 persons","L3-L4","Outdoor",4
-"Limit up to 500 persons","L3-L4","Outdoor activities",1
-"Limit up to 500 persons","L3-L4","Outdoor events",1
-"Limit up to 500 persons","L3-L4","outdoors",1
+"Limit up to 500 persons","L3-L4","Indoor",1
+"Limit up to 500 persons","L3-L4","Outdoor",7
 "Limit up to 5000 persons","L3-L4","",4
 "Limit up to 5000 persons","L3-L4","Indoor",1
 "Limit up to 6 persons","L3-L4","",2
@@ -3078,14 +3061,13 @@
 "Respiratory etiquette","L3-L4","Sneeze/cough in the elbow",4
 "Respiratory etiquette","L3-L4","Special recommendations for certain workers",1
 "Respiratory etiquette","L3-L4","Warning on the use of cloth masks",1
-"Restaurants","L3-L4","Can open if < 50 persons",2
 "Restaurants","L3-L4","Can open if respect social distancing measures",3
-"Restaurants","L3-L4","Can still operate at 1/3 capacity",1
-"Restaurants","L3-L4","Can still operate at 50 per cent capacity",2
+"Restaurants","L3-L4","Can operate with reduced capacity",4
 "Restaurants","L3-L4","Ease legislation on deliveries and take-away",1
-"Restaurants","L3-L4","Only delivery",2
-"Restaurants","L3-L4","Only take-away or delivery",2
+"Restaurants","L3-L4","Partial:  remain open for take-away and/or delivery",1
+"Restaurants","L3-L4","Partial: remain open for take-away and/or delivery",3
 "Restaurants","L3-L4","Temperature check at entrance ",1
+"Restaurants/bars/cafes","L3-L4","Can operate with reduced capacity",1
 "Restriction in number of people in child care settings","L3-L4","",1
 "Restriction of freight transport","L3-L4","From high-risk areas : Austria, Belgium, Switzerland, USA, UK, Netherlands, Turkey, Iran",1
 "Restriction on private and familial events","L3-L4","Funerals and weddings: Limit up to 10 persons",1
