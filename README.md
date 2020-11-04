@@ -4,7 +4,7 @@
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 ## Cite as:
-Desvars-Larrive A., Ahne V., Álvarez S., Bartoszek M., Berishaj D., Bulska D., Chakraborty A., Chen E., Chen X., Cserjan D., Dervic A., Dervic E., Di Natale A., Ferreira M.R., Flores Tames E., Garcia D., Garncarek Z., Gliga D.S., Gooriah L., Grzymała-Moszczyńska J., Jurczak A., Haberfellner S., Hadziavdic L., Haug N., Holder S., Korbel J., Lasser J., Lederhilger D., Niederkrotenthaler T., Pacheco A., Pocasangre-Orellana X.M., Reddish J., Reisch V., Roux A., Sorger J., Stangl J., Stoeger L., Takriti H., Ten A., Vierlinger R., Thurner S. CCCSL: Complexity Science Hub Covid-19 Control Strategies List (2020). Version 2.0. https://github.com/amel-github/covid19-interventionmeasures
+Desvars-Larrive A., Ahne V., Álvarez F.S., Bartoszek M., Berishaj D., Bulska D., Chakraborty A., Chen J., Chen X., Cserjan D., Dervic A., Dervic E., Di Natale A., Ferreira M.R., Flores Tames E., Garcia D., Garncarek Z., Gliga D.S., Gooriah L., Grzymała-Moszczyńska J., Jurczak A., Haberfellner S., Hadziavdic L., Haug N., Holder S., Korbel J., Lasser J., Lederhilger D., Niederkrotenthaler T., Pacheco A., Pocasangre-Orellana X.M., Reddish J., Reisch V., Roux A., Sorger J., Stangl J., Stoeger L., Takriti H., Ten A., Vierlinger R., Thurner S. CCCSL: Complexity Science Hub Covid-19 Control Strategies List (2020). Version 2.0. https://github.com/amel-github/covid19-interventionmeasures
 
 ## Our paper has been published in Scientific Data
 Desvars-Larrive, A., Dervic, E., Haug, N. et al. A structured open dataset of government interventions in response to COVID-19. Sci Data 7, 285 (2020). https://doi.org/10.1038/s41597-020-00609-9
@@ -66,3 +66,47 @@ This work is coordinated by the Complexity Science Hub Vienna, Austria.<br>
 This work is supported by the University of Veterinary Medicine Vienna, Austria.
 This work is supported by the **European Open Science Cloud (EOSC) of the European Commission** (#220) for the period Nov. 2020 - Jan. 2021.
 
+## List of Contributors (alphabetical order)
+Ahne Verena (Complexity Science Hub Vienna, Austria)
+Álvarez Francisco S. (Fundación Naturaleza El Salvador)
+Bartoszek Marta (Institute of Psychology, Jagiellonian University, Kraków, Poland)
+Berishaj Dorontinë (Independent Scholar)
+Bulska Dominika (Institute for Social Studies, University of Warsaw, Poland)
+Chakraborty Abhijit (Complexity Science Hub Vienna, Austria)
+Chen Jiaying (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)
+Chen Xiao (Independent Scholar)
+Cserjan David (Complexity Science Hub Vienna, Austria)
+Dervic Alija (Institute of Electrodynamics, Microwave and Circuit Engineering, Vienna University of Technology, Austria)
+Dervic Elma (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)
+Desvars-Larrive A. (Unit of Veterinary Public Health and Epidemiology, University of Veterinary Medicine Vienna / Complexity Science Hub Vienna, Austria)
+Di Natale Anna (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)
+El Goukhi Jasmin (University of Vienna, Austria)
+Ferreira Marcia R. (Complexity Science Hub Vienna, Austria)
+Flores Tames Erwin (Complexity Science Hub Vienna, Austria)
+Garcia David (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)
+Garncarek Zuzanna (Institute of Psychology, Jagiellonian University, Kraków, Poland)
+Gliga Diana S. (Independent Scholar)
+Gooriah Leana (German Centre for Integrative Biodiversity Research (iDiv), Leipzig, Germany)
+Gruber Michael (Independent Scholar)
+Grzymała-Moszczyńska Joanna (Institute of Psychology, Jagiellonian University, Kraków, Poland)
+Jurczak Ania (Institute of Psychology, Jagiellonian University, Kraków, Poland)
+Haberfellner Simon (Independent Scholar)
+Hadziavdic Lamija (Independent Scholar)
+Haug Nils (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)
+Holder Samantha (Independent Scholar)
+Korbel Jan (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)
+Lasser Jana (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)
+Lederhilger Diana (Independent Scholar)
+Niederkrotenthaler Thomas (Unit Suicide Research & Mental Health Promotion, Medical University of Vienna, Austria / Complexity Science Hub Vienna, Austria)
+Pacheco Andrea (German Centre for Integrative Biodiversity Research (iDiv), Leipzig, Germany)
+Pocasangre-Orellana Xochilt María (Fundación Naturaleza El Salvador)
+Reddish Jenny (Seshat: The Global History Databank / Complexity Science Hub Vienna, Austria)
+Reisch Viktoria (Independent Scholar)
+Roux Alexandra (CERMES3, Ecole des Hautes Etudes en Sciences Sociales, Villejuif / Gender, Sexuality, Health, CESP, INSERM, Paris-Saclay University, Villejuif, France)
+Sorger Johannes (Complexity Science Hub Vienna, Austria)
+Stangl Johannes (Independent Scholar)
+Stoeger Laura (Complexity Science Hub Vienna, Austria)
+Takriti Huda (Complexity Science Hub Vienna, Austria)
+Ten Alexandr (Flowers project-team, National Research Institute for Digital Sciences (INRIA), Talence, France)
+Thurner Stefan (Section for Science of Complex Systems, Medical University of Vienna / Santa Fe Institute, Santa Fe, USA / Complexity Science Hub Vienna, Austria)
+Vierlinger Rainer (Independent Scholar)
