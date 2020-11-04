@@ -67,46 +67,46 @@ This work is supported by the University of Veterinary Medicine Vienna, Austria.
 This work is supported by the **European Open Science Cloud (EOSC) of the European Commission** (#220) for the period Nov. 2020 - Jan. 2021.
 
 ## List of Contributors (alphabetical order)
-Ahne Verena (Complexity Science Hub Vienna, Austria)
-Álvarez Francisco S. (Fundación Naturaleza El Salvador)
-Bartoszek Marta (Institute of Psychology, Jagiellonian University, Kraków, Poland)
-Berishaj Dorontinë (Independent Scholar)
-Bulska Dominika (Institute for Social Studies, University of Warsaw, Poland)
-Chakraborty Abhijit (Complexity Science Hub Vienna, Austria)
-Chen Jiaying (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)
-Chen Xiao (Independent Scholar)
-Cserjan David (Complexity Science Hub Vienna, Austria)
-Dervic Alija (Institute of Electrodynamics, Microwave and Circuit Engineering, Vienna University of Technology, Austria)
-Dervic Elma (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)
-Desvars-Larrive A. (Unit of Veterinary Public Health and Epidemiology, University of Veterinary Medicine Vienna / Complexity Science Hub Vienna, Austria)
-Di Natale Anna (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)
-El Goukhi Jasmin (University of Vienna, Austria)
-Ferreira Marcia R. (Complexity Science Hub Vienna, Austria)
-Flores Tames Erwin (Complexity Science Hub Vienna, Austria)
-Garcia David (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)
-Garncarek Zuzanna (Institute of Psychology, Jagiellonian University, Kraków, Poland)
-Gliga Diana S. (Independent Scholar)
-Gooriah Leana (German Centre for Integrative Biodiversity Research (iDiv), Leipzig, Germany)
-Gruber Michael (Independent Scholar)
-Grzymała-Moszczyńska Joanna (Institute of Psychology, Jagiellonian University, Kraków, Poland)
-Jurczak Ania (Institute of Psychology, Jagiellonian University, Kraków, Poland)
-Haberfellner Simon (Independent Scholar)
-Hadziavdic Lamija (Independent Scholar)
-Haug Nils (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)
-Holder Samantha (Independent Scholar)
-Korbel Jan (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)
-Lasser Jana (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)
-Lederhilger Diana (Independent Scholar)
-Niederkrotenthaler Thomas (Unit Suicide Research & Mental Health Promotion, Medical University of Vienna, Austria / Complexity Science Hub Vienna, Austria)
-Pacheco Andrea (German Centre for Integrative Biodiversity Research (iDiv), Leipzig, Germany)
-Pocasangre-Orellana Xochilt María (Fundación Naturaleza El Salvador)
-Reddish Jenny (Seshat: The Global History Databank / Complexity Science Hub Vienna, Austria)
-Reisch Viktoria (Independent Scholar)
-Roux Alexandra (CERMES3, Ecole des Hautes Etudes en Sciences Sociales, Villejuif / Gender, Sexuality, Health, CESP, INSERM, Paris-Saclay University, Villejuif, France)
-Sorger Johannes (Complexity Science Hub Vienna, Austria)
-Stangl Johannes (Independent Scholar)
-Stoeger Laura (Complexity Science Hub Vienna, Austria)
-Takriti Huda (Complexity Science Hub Vienna, Austria)
-Ten Alexandr (Flowers project-team, National Research Institute for Digital Sciences (INRIA), Talence, France)
-Thurner Stefan (Section for Science of Complex Systems, Medical University of Vienna / Santa Fe Institute, Santa Fe, USA / Complexity Science Hub Vienna, Austria)
-Vierlinger Rainer (Independent Scholar)
+Ahne Verena (Complexity Science Hub Vienna, Austria)<br>
+Álvarez Francisco S. (Fundación Naturaleza El Salvador)<br>
+Bartoszek Marta (Institute of Psychology, Jagiellonian University, Kraków, Poland)<br>
+Berishaj Dorontinë (Independent Scholar)<br>
+Bulska Dominika (Institute for Social Studies, University of Warsaw, Poland)<br>
+Chakraborty Abhijit (Complexity Science Hub Vienna, Austria)<br>
+Chen Jiaying (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)<br>
+Chen Xiao (Independent Scholar)<br>
+Cserjan David (Complexity Science Hub Vienna, Austria)<br>
+Dervic Alija (Institute of Electrodynamics, Microwave and Circuit Engineering, Vienna University of Technology, Austria)<br>
+Dervic Elma (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)<br>
+Desvars-Larrive A. (Unit of Veterinary Public Health and Epidemiology, University of Veterinary Medicine Vienna / Complexity Science Hub Vienna, Austria)<br>
+Di Natale Anna (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)<br>
+El Goukhi Jasmin (University of Vienna, Austria)<br>
+Ferreira Marcia R. (Complexity Science Hub Vienna, Austria)<br>
+Flores Tames Erwin (Complexity Science Hub Vienna, Austria)<br>
+Garcia David (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)<br>
+Garncarek Zuzanna (Institute of Psychology, Jagiellonian University, Kraków, Poland)<br>
+Gliga Diana S. (Independent Scholar)<br>
+Gooriah Leana (German Centre for Integrative Biodiversity Research (iDiv), Leipzig, Germany)<br>
+Gruber Michael (Independent Scholar)<br>
+Grzymała-Moszczyńska Joanna (Institute of Psychology, Jagiellonian University, Kraków, Poland)<br>
+Jurczak Ania (Institute of Psychology, Jagiellonian University, Kraków, Poland)<br>
+Haberfellner Simon (Independent Scholar)<br>
+Hadziavdic Lamija (Independent Scholar)<br>
+Haug Nils (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)<br>
+Holder Samantha (Independent Scholar)<br>
+Korbel Jan (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)<br>
+Lasser Jana (Section for Science of Complex Systems, Medical University of Vienna / Complexity Science Hub Vienna, Austria)<br>
+Lederhilger Diana (Independent Scholar)<br>
+Niederkrotenthaler Thomas (Unit Suicide Research & Mental Health Promotion, Medical University of Vienna, Austria / Complexity Science Hub Vienna, Austria)<br>
+Pacheco Andrea (German Centre for Integrative Biodiversity Research (iDiv), Leipzig, Germany)<br>
+Pocasangre-Orellana Xochilt María (Fundación Naturaleza El Salvador)<br>
+Reddish Jenny (Seshat: The Global History Databank / Complexity Science Hub Vienna, Austria)<br>
+Reisch Viktoria (Independent Scholar)<br>
+Roux Alexandra (CERMES3, Ecole des Hautes Etudes en Sciences Sociales, Villejuif / Gender, Sexuality, Health, CESP, INSERM, Paris-Saclay University, Villejuif, France)<br>
+Sorger Johannes (Complexity Science Hub Vienna, Austria)<br>
+Stangl Johannes (Independent Scholar)<br>
+Stoeger Laura (Complexity Science Hub Vienna, Austria)<br>
+Takriti Huda (Complexity Science Hub Vienna, Austria)<br>
+Ten Alexandr (Flowers project-team, National Research Institute for Digital Sciences (INRIA), Talence, France)<br>
+Thurner Stefan (Section for Science of Complex Systems, Medical University of Vienna / Santa Fe Institute, Santa Fe, USA / Complexity Science Hub Vienna, Austria)<br>
+Vierlinger Rainer (Independent Scholar)<br>
