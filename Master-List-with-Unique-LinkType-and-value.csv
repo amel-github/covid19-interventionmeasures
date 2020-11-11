@@ -40,9 +40,9 @@
 "Returning to normal life","L1-L2","Lift airport restrictions",8
 "Returning to normal life","L1-L2","Lift personal protective measures",3
 "Returning to normal life","L1-L2","Lift restriction on individual movements",26
-"Returning to normal life","L1-L2","Lift restriction on mass gatherings",79
+"Returning to normal life","L1-L2","Lift restriction on mass gatherings",81
 "Returning to normal life","L1-L2","Lift restriction on public transports",2
-"Returning to normal life","L1-L2","Lift restriction on small gatherings",100
+"Returning to normal life","L1-L2","Lift restriction on small gatherings",98
 "Returning to normal life","L1-L2","Lift travel restriction",14
 "Returning to normal life","L1-L2","Phase out emergency management",14
 "Returning to normal life","L1-L2","Re-opening of educational institutions",43
@@ -397,10 +397,12 @@
 "Lift restriction on mass gatherings","L2-L3","Re-opening of certain shops",5
 "Lift restriction on mass gatherings","L2-L3","Re-opening of cultural institutions",10
 "Lift restriction on mass gatherings","L2-L3","Re-opening of indoor sport facilities",10
+"Lift restriction on mass gatherings","L2-L3","Re-opening of long-term facilities",1
 "Lift restriction on mass gatherings","L2-L3","Re-opening of markets",2
 "Lift restriction on mass gatherings","L2-L3","Re-opening of outdoor attractions and touristic sites",6
 "Lift restriction on mass gatherings","L2-L3","Re-opening of outdoor sports facilities",2
 "Lift restriction on mass gatherings","L2-L3","Re-opening of places of worship",9
+"Lift restriction on mass gatherings","L2-L3","Re-opening of public institutions",1
 "Lift restriction on mass gatherings","L2-L3","Re-opening of public outdoor leisure facilities",3
 "Lift restriction on mass gatherings","L2-L3","Re-opening of public places",5
 "Lift restriction on mass gatherings","L2-L3","Re-opening of workplaces",6
@@ -424,14 +426,13 @@
 "Lift restriction on small gatherings","L2-L3","Limit up to 6 persons",1
 "Lift restriction on small gatherings","L2-L3","Re-opening of certain shops",40
 "Lift restriction on small gatherings","L2-L3","Re-opening of judicial institutions",1
-"Lift restriction on small gatherings","L2-L3","Re-opening of long-term facilities",1
 "Lift restriction on small gatherings","L2-L3","Re-opening of public institutions",1
 "Lift restriction on small gatherings","L2-L3","Re-opening of restaurants/bars/cafes",12
 "Lift restriction on small gatherings","L2-L3","Re-opening of short-term accommodations and hotels",3
 "Lift restriction on small gatherings","L2-L3","Resume indoor sport activities",1
 "Lift restriction on small gatherings","L2-L3","Resume outdoor sports and activities",11
 "Lift restriction on small gatherings","L2-L3","Resume private services",6
-"Lift restriction on small gatherings","L2-L3","Resume public services",3
+"Lift restriction on small gatherings","L2-L3","Resume public services",2
 "Lift restriction on small gatherings","L2-L3","Sport competitors can resume training",3
 "Lift travel restriction","L2-L3","Expand zone of travel",1
 "Lift travel restriction","L2-L3","Lift cordon sanitaire",6
@@ -1717,7 +1718,7 @@
 "Fixing price for specific protective products","L3-L4","Remove VAT on PPE",1
 "Flexibilization of working hours/school hours","L3-L4","",1
 "Food services","L3-L4","Allowed if strict respect to hygiene measures",1
-"Food services","L3-L4","Only take-away",1
+"Food services","L3-L4","Partial: remain open for take-away and/or delivery",1
 "For 2 weeks","L3-L4","",1
 "for 21 days","L3-L4","",1
 "For certain workers","L3-L4","Professional drivers in international transport",1
@@ -2935,6 +2936,7 @@
 "Re-opening of primary schools","L3-L4","",1
 "Re-opening of primary schools","L3-L4","Last class of primary school",1
 "Re-opening of primary schools and child care","L3-L4","",2
+"Re-opening of public institutions","L3-L4","Re-opening of social facilities",1
 "Re-opening of public institutions","L3-L4","With respect to social distancing",1
 "Re-opening of public outdoor leisure facilities","L3-L4","Limit up to 2 persons or family",1
 "Re-opening of public outdoor leisure facilities","L3-L4","National parks, recreation forests, arboreta and other relatively lower-risk “outdoor, dispersed” facilities",1
@@ -3103,7 +3105,6 @@
 "Resume private services","L3-L4","Taxi service extended",1
 "Resume private services","L3-L4","Veterinary services",1
 "Resume public services","L3-L4","Only with appointment",1
-"Resume public services","L3-L4","Re-opening of social facilities",1
 "Resume public services","L3-L4","Resume judiciary service with observance of social distancing measures",1
 "Resume public transport","L3-L4","International passenger train operate again",1
 "Resume public transport","L3-L4","Resumption of city and suburban lines",1
@@ -3344,16 +3345,15 @@
 "Syndromic surveillance","L3-L4","Health screening of the population via phone call or app",5
 "Syndromic surveillance","L3-L4","Via an app",1
 "Targeted surveillance","L3-L4","For people working in essential services",1
-"Targeted testing","L3-L4","Caregivers for vulnerable groups",2
 "Targeted testing","L3-L4","Health checks for healthcare professionals",1
-"Targeted testing","L3-L4","Police officers",1
 "Targeted testing","L3-L4","Test all essential workers and members of their household",1
-"Targeted testing","L3-L4","Test healthcare workers",5
+"Targeted testing","L3-L4","Test caregivers and/or social providers in institutions hosting vulnerable groups",5
+"Targeted testing","L3-L4","Test healthcare workers",6
 "Targeted testing","L3-L4","Test incomings Japanese nationals and visiting foreigners",1
-"Targeted testing","L3-L4","Test most exposed workers",4
+"Targeted testing","L3-L4","Test most exposed workers",2
 "Targeted testing","L3-L4","Test of residents of institutions hosting vulnerable populations",4
 "Targeted testing","L3-L4","Test seafarers",1
-"Targeted testing","L3-L4","Test strategy implemented in institutions hosting vulnerable population: test of healthcare providers",3
+"Targeted testing","L3-L4","Test security officers",2
 "Targeted testing","L3-L4","Test vulnerable populations",1
 "Technical classes","L3-L4","Professional practice",1
 "Temperature screening at airport","L3-L4","Measure temperature of all passengers",12
