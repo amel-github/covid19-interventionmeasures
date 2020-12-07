@@ -39,13 +39,13 @@ A wide range of different public sources were used to populate, update and curat
 **Master-List-with-Unique-LinkType-and-value.csv**: List of the codes providing a better overview of the taxonomy, i.e. type of link parent/child for each pairwise combination of codes and the number of times each link occurs in the dataset (value).
 
 ## Glossary of Codes
-To promote common understanding and global use of the dataset, we are developping a glossary of the codes used (work in progress).
+To promote common understanding and global use of the dataset, we are developping a glossary of the codes used.
 
 ## Visualisation of the hierarchical coding scheme
 Our online interactive tool is available here: http://covid19-interventions.com/CCCSLgraph/ (Author: Sorger J.)
 
 ## Open Library
-An open library is available (work in progress) that contains all sources used to collect the data: https://www.zotero.org/groups/2488884/cccsl_covid_measure_project.<br>
+An open library is available that contains all sources used to collect the data: https://www.zotero.org/groups/2488884/cccsl_covid_measure_project.<br>
 
 ## R Codes for exploring the dataset are available
 https://doi.org/10.5281/zenodo.3949808  
@@ -55,7 +55,7 @@ https://github.com/amel-github/CCCSL-Codes
 ## Note
 The CCCSL is an ongoing collaborative project, built in a time limited by the emergency of the situation. *Version 1* of the CCCSL has not undergone systematic validation and is currently subjected to an extensive data validation process. Our objective is to validate and develop the dataset within the next three months.<br>
 We have released *Version 2* of the CCCSL which presents stabilized coding for levels 1, 2, and 3 of the coding scheme.<br>
-We are currently developing the labels of the categories/subcategories/codes for the theme "Returning to normal life".
+We are currently stabilizing the labels of the categories/subcategories/codes for the theme "Returning to normal life".
 
 ## Contact information
 Amélie Desvars-Larrive, [Complexity Science Hub Vienna] (https://www.csh.ac.at)
