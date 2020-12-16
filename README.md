@@ -55,7 +55,10 @@ https://github.com/amel-github/CCCSL-Codes
 ## Note
 The CCCSL is an ongoing collaborative project, built in a time limited by the emergency of the situation. *Version 1* of the CCCSL has not undergone systematic validation and is currently subjected to an extensive data validation process. Our objective is to validate and develop the dataset within the next three months.<br>
 We have released *Version 2* of the CCCSL which presents stabilized coding for levels 1, 2, and 3 of the coding scheme.<br>
-We are currently stabilizing the labels of the categories/subcategories/codes for the theme "Returning to normal life".
+
+On 2020-12-16 (commit cd396b3) we have updated the CCCSL with improved labels for the Categories/Subcategories/Codes. The most important change concerns the classification of gatherings (theme: Social distancing). Previous versions discriminated between small (< 50 persons) and mass gatherings (> 50 persons). However, this was not accurate enough with regard to closure of restaurants, shops, short-term accommodations, or businesses for which we did not know the capacity. We also wanted to adapt the codes with regard to several NPIs, e.g. mask wearing policies and phase-out measures, which, worldwide, discriminate outdoor and indoor settings.
+Therefore, the theme “Social distancing” has new categories “Indoor gathering restriction”, “Outdoor gathering restriction” and “Indoor and outdoor gathering restriction”. See our Glossary of codes for more details.
+
 
 ## Contact information
 Amélie Desvars-Larrive, [Complexity Science Hub Vienna] (https://www.csh.ac.at)
