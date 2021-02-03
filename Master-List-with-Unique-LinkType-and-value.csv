@@ -4,7 +4,7 @@
 "Case identification, contact tracing and related measures","L1-L2","Border health check",66
 "Case identification, contact tracing and related measures","L1-L2","Enhance detection system",116
 "Case identification, contact tracing and related measures","L1-L2","Isolation of cases",45
-"Case identification, contact tracing and related measures","L1-L2","Quarantine",251
+"Case identification, contact tracing and related measures","L1-L2","Quarantine",252
 "Case identification, contact tracing and related measures","L1-L2","Restricted testing",9
 "Case identification, contact tracing and related measures","L1-L2","Surveillance",38
 "Case identification, contact tracing and related measures","L1-L2","Tracing and tracking",105
@@ -35,34 +35,34 @@
 "Returning to normal life","L1-L2","Educate and actively communicate with the public",20
 "Returning to normal life","L1-L2","Exemption of quarantine",56
 "Returning to normal life","L1-L2","Lift airport restrictions",29
-"Returning to normal life","L1-L2","Lift border restrictions",57
+"Returning to normal life","L1-L2","Lift border restrictions",58
 "Returning to normal life","L1-L2","Lift measures to protect vulnerable populations",8
 "Returning to normal life","L1-L2","Lift personal protective measures",7
 "Returning to normal life","L1-L2","Lift restriction on individual movements",57
-"Returning to normal life","L1-L2","Lift restriction on indoor and outdoor gatherings",132
-"Returning to normal life","L1-L2","Lift restriction on indoor gatherings",366
-"Returning to normal life","L1-L2","Lift restriction on outdoor gatherings",118
+"Returning to normal life","L1-L2","Lift restriction on indoor and outdoor gatherings",131
+"Returning to normal life","L1-L2","Lift restriction on indoor gatherings",367
+"Returning to normal life","L1-L2","Lift restriction on outdoor gatherings",119
 "Returning to normal life","L1-L2","Lift restriction on public transports",12
-"Returning to normal life","L1-L2","Lift travel restriction",26
+"Returning to normal life","L1-L2","Lift travel restriction",25
 "Returning to normal life","L1-L2","Phase out emergency management",43
-"Returning to normal life","L1-L2","Re-opening of educational institutions",138
+"Returning to normal life","L1-L2","Re-opening of educational institutions",139
 "Returning to normal life","L1-L2","Resume export of medical and personal protective equipment",3
 "Risk communication","L1-L2","Actively communicate with healthcare professionals",86
-"Risk communication","L1-L2","Actively communicate with managers",201
+"Risk communication","L1-L2","Actively communicate with managers",202
 "Risk communication","L1-L2","Educate and actively communicate with the public",1021
 "Risk communication","L1-L2","Travel alert and warning",184
 "Social distancing","L1-L2","Closure of educational institutions",421
-"Social distancing","L1-L2","Indoor and outdoor gathering restriction",513
-"Social distancing","L1-L2","Indoor gathering restriction",770
+"Social distancing","L1-L2","Indoor and outdoor gathering restriction",495
+"Social distancing","L1-L2","Indoor gathering restriction",779
 "Social distancing","L1-L2","Measures for public transport",36
 "Social distancing","L1-L2","Measures for special populations",297
 "Social distancing","L1-L2","Outdoor gathering restriction",108
 "Social distancing","L1-L2","Special measures for certain establishments",168
 "Social distancing","L1-L2","Work safety protocols",79
-"Travel restriction","L1-L2","Airport restriction",177
+"Travel restriction","L1-L2","Airport restriction",176
 "Travel restriction","L1-L2","Border restriction",269
 "Travel restriction","L1-L2","Cordon sanitaire",63
-"Travel restriction","L1-L2","Individual movement restrictions",197
+"Travel restriction","L1-L2","Individual movement restrictions",199
 "Travel restriction","L1-L2","National lockdown",53
 "Travel restriction","L1-L2","Port and ship restriction",26
 "Travel restriction","L1-L2","Public transport restriction",42
@@ -124,7 +124,7 @@
 "Actively communicate with managers","L2-L3","Guidelines for institutes or workers dealing with vulnerable persons",4
 "Actively communicate with managers","L2-L3","Guidelines for managers of public and semi-public spaces",1
 "Actively communicate with managers","L2-L3","Guidelines for outdoor leisure activities",1
-"Actively communicate with managers","L2-L3","Guidelines for public events and meetings",18
+"Actively communicate with managers","L2-L3","Guidelines for public events and meetings",19
 "Actively communicate with managers","L2-L3","Guidelines for religious celebrations",2
 "Actively communicate with managers","L2-L3","Guidelines for restaurants/bars/cafes",5
 "Actively communicate with managers","L2-L3","Guidelines for shops and businesses",29
@@ -161,17 +161,15 @@
 "Airport health check","L2-L3","Test travellers",21
 "Airport restriction","L2-L3","Airports closed",10
 "Airport restriction","L2-L3","Ban on all air traffic from countries outside the European Union",1
-"Airport restriction","L2-L3","Boarding from Taiwan prohibited",1
+"Airport restriction","L2-L3","Boarding prohibited",1
 "Airport restriction","L2-L3","Cancellation of domestic flights",8
 "Airport restriction","L2-L3","Cancellation of international flights",80
-"Airport restriction","L2-L3","Conditional entry of EU citizens",1
 "Airport restriction","L2-L3","Conditional entry of national citizens coming from non-EU countries",1
 "Airport restriction","L2-L3","Conditional entry of non-residents",2
-"Airport restriction","L2-L3","Conditional entry of passengers from high-risk areas",10
-"Airport restriction","L2-L3","Conditional entry of passengers from UK",1
-"Airport restriction","L2-L3","Conditional entry of travellers",5
-"Airport restriction","L2-L3","Entry ban to passengers from high-risk areas",2
-"Airport restriction","L2-L3","Entry ban to passengers from non EU countries",2
+"Airport restriction","L2-L3","Conditional entry of travellers",6
+"Airport restriction","L2-L3","Conditional entry of travellers from high-risk areas",9
+"Airport restriction","L2-L3","Entry ban to travellers",2
+"Airport restriction","L2-L3","Entry ban to travellers from high-risk areas",3
 "Airport restriction","L2-L3","Landing bans on aircrafts from high risk areas",45
 "Airport restriction","L2-L3","Measures to limit contact to high risk populations",1
 "Airport restriction","L2-L3","Reduction of operating time",1
@@ -184,32 +182,29 @@
 "Border health check","L2-L3","Temperature screening at the border",17
 "Border health check","L2-L3","Test at the border",18
 "Border restriction","L2-L3","",1
-"Border restriction","L2-L3","Ban on passenger transport from China",2
+"Border restriction","L2-L3","Ban on passenger transport",2
 "Border restriction","L2-L3","Ban on road passenger transport from high risk areas",1
 "Border restriction","L2-L3","Border control",18
 "Border restriction","L2-L3","Close land border",1
 "Border restriction","L2-L3","Close land border to prevent virus spread",2
 "Border restriction","L2-L3","Conditional entry of essential workers",1
-"Border restriction","L2-L3","Conditional entry of national citizens and/or residents",3
-"Border restriction","L2-L3","Conditional entry of national citizens coming from non-EU countries",1
-"Border restriction","L2-L3","Conditional entry of persons from high-risk areas",2
-"Border restriction","L2-L3","Conditional entry of travellers",2
-"Border restriction","L2-L3","Conditional entry of travellers from high-risk areas",12
+"Border restriction","L2-L3","Conditional entry of national citizens and/or residents",1
+"Border restriction","L2-L3","Conditional entry of travellers",5
+"Border restriction","L2-L3","Conditional entry of travellers from high-risk areas",14
 "Border restriction","L2-L3","Conditional entry of travellers from neighboring countries",4
 "Border restriction","L2-L3","Entry ban for symptomatic people and case contacts",1
-"Border restriction","L2-L3","Entry ban for travellers coming from outside the European area",2
 "Border restriction","L2-L3","Entry ban to infected persons",1
 "Border restriction","L2-L3","Entry ban to non-citizens or non-residents",42
-"Border restriction","L2-L3","Entry ban to non-EU citizens",13
-"Border restriction","L2-L3","Entry ban to people from China",18
-"Border restriction","L2-L3","Entry ban to people from high-risk areas other than China",56
-"Border restriction","L2-L3","Entry ban to people with a travel history to China",4
+"Border restriction","L2-L3","Entry ban to people from high-risk areas",66
+"Border restriction","L2-L3","Entry ban to people with a travel history to some countries",3
 "Border restriction","L2-L3","Entry ban to refugees",3
+"Border restriction","L2-L3","Entry ban to travellers",15
 "Border restriction","L2-L3","Entry of workers under exceptional circumstances",1
 "Border restriction","L2-L3","Force departure of Chinese nationals",5
 "Border restriction","L2-L3","Land border controls",20
 "Border restriction","L2-L3","Land borders closed",21
 "Border restriction","L2-L3","Restriction of freight transport",1
+"Border restriction","L2-L3","Restriction on visa delivery or validity",9
 "Border restriction","L2-L3","Temporary reduction of service",2
 "Border restriction","L2-L3","Total entry ban",6
 "Border restriction","L2-L3","Travel ban to high-risk areas",23
@@ -362,9 +357,9 @@
 "Increase patient capacity","L2-L3","Manage hospital capacity",1
 "Increase patient capacity","L2-L3","Medicalise nursing home",2
 "Increase patient capacity","L2-L3","Postponement of non-essential care and non-urgent operations in hospitals",44
-"Individual movement restrictions","L2-L3","Curfew",55
+"Individual movement restrictions","L2-L3","Curfew",56
 "Individual movement restrictions","L2-L3","Movements for non-essential activities forbidden",9
-"Individual movement restrictions","L2-L3","Movements for non-essential activities forbidden",75
+"Individual movement restrictions","L2-L3","Movements for non-essential activities forbidden",76
 "Individual movement restrictions","L2-L3","Non-essential travels abroad/out-of-state forbidden",25
 "Individual movement restrictions","L2-L3","Partial restriction on movements",8
 "Individual movement restrictions","L2-L3","Prohibition of moving out the municipality of residence",6
@@ -375,73 +370,61 @@
 "Individual movement restrictions","L2-L3","Restrictions on the movements of children",2
 "Individual movement restrictions","L2-L3","Segmentation of the population",6
 "Individual movement restrictions","L2-L3","Travel outside infected areas forbidden",2
+"Indoor and outdoor gathering restriction","L2-L3","Adaptive measure: only seated guests",1
 "Indoor and outdoor gathering restriction","L2-L3","Closure of markets",17
 "Indoor and outdoor gathering restriction","L2-L3","Closure of public places (unspecified)",13
 "Indoor and outdoor gathering restriction","L2-L3","Complete prohibition of gathering",33
 "Indoor and outdoor gathering restriction","L2-L3","Conferences, meetings, trade fairs, etc.",1
 "Indoor and outdoor gathering restriction","L2-L3","Cultural places and events",27
+"Indoor and outdoor gathering restriction","L2-L3","Entertainment gatherings",1
+"Indoor and outdoor gathering restriction","L2-L3","Events involving at-risk people",1
 "Indoor and outdoor gathering restriction","L2-L3","Festivals, faith-based events",31
-"Indoor and outdoor gathering restriction","L2-L3","Limit to 500 persons",1
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 1 household",2
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 1 person",1
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 1 persons",2
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 10 persons",31
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 100 persons",14
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 1000 persons",21
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 15 persons",4
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 150 persons",1
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 2 persons",25
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 20 persons",2
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 25 persons",2
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 250 persons",9
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 3 persons",5
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 30 persons",2
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 300 persons",2
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 4 persons",10
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 5 persons",15
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 50 persons",30
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 500 persons",4
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 5000 persons",6
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 6 persons",5
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 75 persons",2
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 750 persons",1
-"Indoor and outdoor gathering restriction","L2-L3","Limit up to 9 persons",1
+"Indoor and outdoor gathering restriction","L2-L3","In public and semi-public spaces",70
+"Indoor and outdoor gathering restriction","L2-L3","In public and semi-public spaces, Organized events",11
 "Indoor and outdoor gathering restriction","L2-L3","Mandatory distance between people",12
+"Indoor and outdoor gathering restriction","L2-L3","On two-wheels vehicule",4
+"Indoor and outdoor gathering restriction","L2-L3","Organized events",47
+"Indoor and outdoor gathering restriction","L2-L3","Partial: non-essential mass gatherings",1
 "Indoor and outdoor gathering restriction","L2-L3","Places of worship",9
-"Indoor and outdoor gathering restriction","L2-L3","Prohibition of large gatherings",3
+"Indoor and outdoor gathering restriction","L2-L3","Practice of groups sports",1
+"Indoor and outdoor gathering restriction","L2-L3","Prohibition of large gatherings",4
 "Indoor and outdoor gathering restriction","L2-L3","Public events",34
-"Indoor and outdoor gathering restriction","L2-L3","Restriction on private and familial events",69
+"Indoor and outdoor gathering restriction","L2-L3","Recreational places",1
+"Indoor and outdoor gathering restriction","L2-L3","Restriction on private and familial events",73
 "Indoor and outdoor gathering restriction","L2-L3","Restriction on the weekly number of social contacts",1
-"Indoor and outdoor gathering restriction","L2-L3","Sport events",61
-"Indoor and outdoor gathering restriction","L2-L3","Support groups ",1
+"Indoor and outdoor gathering restriction","L2-L3","Sport events",60
+"Indoor and outdoor gathering restriction","L2-L3","Support groups",2
 "Indoor and outdoor gathering restriction","L2-L3","Suspend indoor and outdoor social and leisure activities",3
+"Indoor and outdoor gathering restriction","L2-L3","Taxis and taxi-like operations",3
+"Indoor and outdoor gathering restriction","L2-L3","Unspecified",33
+"Indoor and outdoor gathering restriction","L2-L3","Work place",1
+"Indoor gathering restriction","L2-L3","Adaptive measure: only seated guests",1
 "Indoor gathering restriction","L2-L3","Closure of close contact services",17
 "Indoor gathering restriction","L2-L3","Closure of indoor sport facilities",101
 "Indoor gathering restriction","L2-L3","Closure of markets",1
 "Indoor gathering restriction","L2-L3","Closure of non-essential services",16
 "Indoor gathering restriction","L2-L3","Closure of non-essential shops and/or businesses",104
 "Indoor gathering restriction","L2-L3","Closure of restaurants/bars/cafes",183
-"Indoor gathering restriction","L2-L3","Closure of short-term accommodation",22
+"Indoor gathering restriction","L2-L3","Closure of short-term accommodation",23
 "Indoor gathering restriction","L2-L3","Conferences, meetings, trade fairs, etc.",30
 "Indoor gathering restriction","L2-L3","Cultural places and events",114
 "Indoor gathering restriction","L2-L3","Entertainment venues",2
 "Indoor gathering restriction","L2-L3","In private vehicule",1
-"Indoor gathering restriction","L2-L3","Limit up to 100 persons",9
-"Indoor gathering restriction","L2-L3","Limit up to 1000 persons",1
-"Indoor gathering restriction","L2-L3","Limit up to 2 persons per row of seats",1
-"Indoor gathering restriction","L2-L3","Limit up to 20 persons",3
-"Indoor gathering restriction","L2-L3","Limit up to 5 persons",2
-"Indoor gathering restriction","L2-L3","Limit up to 50 persons",3
-"Indoor gathering restriction","L2-L3","Limit up to 500 persons",1
-"Indoor gathering restriction","L2-L3","Limit up to 6 persons",1
+"Indoor gathering restriction","L2-L3","In public and semi-public spaces",8
+"Indoor gathering restriction","L2-L3","In public and semi-public spaces, Organized events",2
 "Indoor gathering restriction","L2-L3","Mandatory distance between people",1
 "Indoor gathering restriction","L2-L3","Measures for elections",22
+"Indoor gathering restriction","L2-L3","Organized events",12
+"Indoor gathering restriction","L2-L3","Organized events and private meetings without seat allocation",1
 "Indoor gathering restriction","L2-L3","Places of worship",46
 "Indoor gathering restriction","L2-L3","Public events",1
 "Indoor gathering restriction","L2-L3","Restriction on private and familial events",2
 "Indoor gathering restriction","L2-L3","Special activities",1
-"Indoor gathering restriction","L2-L3","Sport events",1
+"Indoor gathering restriction","L2-L3","Sport events",2
 "Indoor gathering restriction","L2-L3","Suspend indoor social and leisure activities",84
+"Indoor gathering restriction","L2-L3","Taxis and taxi-like operations",1
+"Indoor gathering restriction","L2-L3","Unspecified",2
+"Indoor gathering restriction","L2-L3","Work place",1
 "Isolation of cases","L2-L3","",29
 "Isolation of cases","L2-L3","Asymptomatic carriers",3
 "Isolation of cases","L2-L3","Increase duration of isolation",2
@@ -449,21 +432,19 @@
 "Isolation of cases","L2-L3","Mandatory",5
 "Isolation of cases","L2-L3","Must be implemented in long-term care facilities",2
 "Isolation of cases","L2-L3","Place of residence",1
-"Isolation of cases","L2-L3","Symptomatic incomings from Wuhan",1
+"Isolation of cases","L2-L3","Symptomatic travellers",1
 "Lift airport restrictions","L2-L3","Lift landing ban",1
 "Lift airport restrictions","L2-L3","Resume domestic and international flights",4
 "Lift airport restrictions","L2-L3","Resume domestic flights",3
 "Lift airport restrictions","L2-L3","Resume international flights",21
 "Lift border restrictions","L2-L3","All restrictions lifted",3
-"Lift border restrictions","L2-L3","Conditional entry of travellers from neighboring countries",1
+"Lift border restrictions","L2-L3","Authorize free movement of persons",9
 "Lift border restrictions","L2-L3","Countries showing similar epidemiological situation",6
-"Lift border restrictions","L2-L3","Countries within Europe",11
-"Lift border restrictions","L2-L3","Countries within the Schengen area",1
-"Lift border restrictions","L2-L3","For certain workers",6
-"Lift border restrictions","L2-L3","For specific personal or professional reasons",6
-"Lift border restrictions","L2-L3","International borders (not specified)",8
-"Lift border restrictions","L2-L3","Neighbouring countries",12
-"Lift border restrictions","L2-L3","Non-EU/EEA countries",2
+"Lift border restrictions","L2-L3","Cross-border traffic",1
+"Lift border restrictions","L2-L3","For certain workers",13
+"Lift border restrictions","L2-L3","For specific personal or professional reasons",11
+"Lift border restrictions","L2-L3","Foreign students",1
+"Lift border restrictions","L2-L3","Neighbouring countries",13
 "Lift border restrictions","L2-L3","Re-open maritime borders",1
 "Lift measures to protect vulnerable populations","L2-L3","Allow outdoor gathering",2
 "Lift measures to protect vulnerable populations","L2-L3","Resume visits in establishments hosting vulnerable populations",5
@@ -478,46 +459,37 @@
 "Lift restriction on individual movements","L2-L3","Partial lift of the curfew",20
 "Lift restriction on individual movements","L2-L3","Private transports allowed",7
 "Lift restriction on individual movements","L2-L3","Resume domestic travels",9
+"Lift restriction on indoor and outdoor gatherings","L2-L3","Adaptive measure: only seated guests",1
 "Lift restriction on indoor and outdoor gatherings","L2-L3","Allow gathering of two households",4
 "Lift restriction on indoor and outdoor gatherings","L2-L3","Complete lift of restriction on gathering",1
-"Lift restriction on indoor and outdoor gatherings","L2-L3","In public and semi-public spaces",5
+"Lift restriction on indoor and outdoor gatherings","L2-L3","In public and semi-public spaces",16
+"Lift restriction on indoor and outdoor gatherings","L2-L3","In public and semi-public spaces, Organized events",2
 "Lift restriction on indoor and outdoor gatherings","L2-L3","Lift ban on familial and private gatherings",27
 "Lift restriction on indoor and outdoor gatherings","L2-L3","Lift ban on festivals, faith-based events",4
 "Lift restriction on indoor and outdoor gatherings","L2-L3","Lift ban on sport events",8
 "Lift restriction on indoor and outdoor gatherings","L2-L3","Lift restriction on cultural and public events",1
 "Lift restriction on indoor and outdoor gatherings","L2-L3","Lift restriction on indoor and outdoor activities",6
-"Lift restriction on indoor and outdoor gatherings","L2-L3","Limit up to 10 persons",4
-"Lift restriction on indoor and outdoor gatherings","L2-L3","Limit up to 100 persons",3
-"Lift restriction on indoor and outdoor gatherings","L2-L3","Limit up to 1000 persons",4
-"Lift restriction on indoor and outdoor gatherings","L2-L3","Limit up to 200 persons",2
-"Lift restriction on indoor and outdoor gatherings","L2-L3","Limit up to 25 persons",1
-"Lift restriction on indoor and outdoor gatherings","L2-L3","Limit up to 3 persons",1
-"Lift restriction on indoor and outdoor gatherings","L2-L3","Limit up to 30 persons",1
-"Lift restriction on indoor and outdoor gatherings","L2-L3","Limit up to 300 persons",2
-"Lift restriction on indoor and outdoor gatherings","L2-L3","Limit up to 40 persons",1
-"Lift restriction on indoor and outdoor gatherings","L2-L3","Limit up to 5 persons",1
-"Lift restriction on indoor and outdoor gatherings","L2-L3","Limit up to 50 persons",5
-"Lift restriction on indoor and outdoor gatherings","L2-L3","Limit up to 500 persons",1
-"Lift restriction on indoor and outdoor gatherings","L2-L3","Limit up to 5000 persons",2
-"Lift restriction on indoor and outdoor gatherings","L2-L3","Limit up to 6 persons",2
+"Lift restriction on indoor and outdoor gatherings","L2-L3","Organized events",6
+"Lift restriction on indoor and outdoor gatherings","L2-L3","Private and public events ",5
 "Lift restriction on indoor and outdoor gatherings","L2-L3","Re-opening of markets",7
 "Lift restriction on indoor and outdoor gatherings","L2-L3","Re-opening of workplaces",10
 "Lift restriction on indoor and outdoor gatherings","L2-L3","Resume business activities",2
 "Lift restriction on indoor and outdoor gatherings","L2-L3","Resume private services",2
 "Lift restriction on indoor and outdoor gatherings","L2-L3","Resume sport activities",5
+"Lift restriction on indoor and outdoor gatherings","L2-L3","Specified hygienic conditions",1
 "Lift restriction on indoor and outdoor gatherings","L2-L3","Sport competitors can resume training",18
 "Lift restriction on indoor and outdoor gatherings","L2-L3","Sport competitors can resume training ",2
+"Lift restriction on indoor and outdoor gatherings","L2-L3","Unspecified",3
 "Lift restriction on indoor gatherings","L2-L3","Adaptive measure(s) for shops",2
 "Lift restriction on indoor gatherings","L2-L3","Adaptive measure(s) for vulnerable population",3
 "Lift restriction on indoor gatherings","L2-L3","Allow religious gatherings indoor",1
 "Lift restriction on indoor gatherings","L2-L3","Ease restriction on essential shops and businesses",1
+"Lift restriction on indoor gatherings","L2-L3","In public and semi-public spaces",4
 "Lift restriction on indoor gatherings","L2-L3","Lift ban on conferences, meetings, trade fairs",8
 "Lift restriction on indoor gatherings","L2-L3","Lift ban on familial and private gatherings",2
 "Lift restriction on indoor gatherings","L2-L3","Lift ban on indoor sport events",6
 "Lift restriction on indoor gatherings","L2-L3","Lift measures to protect vulnerable populations",2
-"Lift restriction on indoor gatherings","L2-L3","Limit up to 20 persons",1
-"Lift restriction on indoor gatherings","L2-L3","Limit up to 500 persons",1
-"Lift restriction on indoor gatherings","L2-L3","Limit up to 8 persons",3
+"Lift restriction on indoor gatherings","L2-L3","Organized events",1
 "Lift restriction on indoor gatherings","L2-L3","Re-opening non-essential services",4
 "Lift restriction on indoor gatherings","L2-L3","Re-opening of certain shops and businesses",56
 "Lift restriction on indoor gatherings","L2-L3","Re-opening of cultural institutions/entertainment venues",47
@@ -533,14 +505,13 @@
 "Lift restriction on indoor gatherings","L2-L3","Resume indoor sport activities",3
 "Lift restriction on indoor gatherings","L2-L3","Resume private services",27
 "Lift restriction on indoor gatherings","L2-L3","Resume sport activities",1
+"Lift restriction on indoor gatherings","L2-L3","Unspecified",1
 "Lift restriction on outdoor gatherings","L2-L3","Allow religious gatherings outdoor",4
+"Lift restriction on outdoor gatherings","L2-L3","In public and semi-public spaces",1
 "Lift restriction on outdoor gatherings","L2-L3","Lift ban on conferences, meetings, trade fairs",3
 "Lift restriction on outdoor gatherings","L2-L3","Lift ban on familial and private gatherings",2
 "Lift restriction on outdoor gatherings","L2-L3","Lift ban on outdoor sport events",16
-"Lift restriction on outdoor gatherings","L2-L3","Limit up to 10 persons",1
-"Lift restriction on outdoor gatherings","L2-L3","Limit up to 100 persons",1
-"Lift restriction on outdoor gatherings","L2-L3","Limit up to 150 persons",1
-"Lift restriction on outdoor gatherings","L2-L3","Limit up to 500 persons",2
+"Lift restriction on outdoor gatherings","L2-L3","Organized events",4
 "Lift restriction on outdoor gatherings","L2-L3","Re-opening of certain shops and businesses",1
 "Lift restriction on outdoor gatherings","L2-L3","Re-opening of cultural institutions/entertainment venues",2
 "Lift restriction on outdoor gatherings","L2-L3","Re-opening of outdoor attractions and touristic sites",6
@@ -549,9 +520,9 @@
 "Lift restriction on outdoor gatherings","L2-L3","Re-opening of public outdoor leisure facilities",2
 "Lift restriction on outdoor gatherings","L2-L3","Re-opening of restaurants/bars/cafes",8
 "Lift restriction on outdoor gatherings","L2-L3","Resume outdoor sports and activities",15
+"Lift restriction on outdoor gatherings","L2-L3","Unspecified",1
 "Lift restriction on public transports","L2-L3","Lift restrictions on the number of people allowed",3
 "Lift restriction on public transports","L2-L3","Resume public transport",9
-"Lift travel restriction","L2-L3","Lift border restriction",1
 "Lift travel restriction","L2-L3","Lift cordon sanitaire",7
 "Lift travel restriction","L2-L3","Lift maritime restriction",6
 "Lift travel restriction","L2-L3","Resume domestic travels",6
@@ -579,7 +550,7 @@
 "Measures for special populations","L2-L3","Prisons",1
 "Measures for special populations","L2-L3","Return operation of nationals",96
 "Measures for special populations","L2-L3","Traditional peoples and communities",1
-"Measures for special populations","L2-L3","travellers coming from outside state/country",1
+"Measures for special populations","L2-L3","Travellers coming from outside state/country",1
 "Measures to ensure security of supply","L2-L3","Ban export of necessity goods",2
 "Measures to ensure security of supply","L2-L3","Develop distance learning tools and methods",24
 "Measures to ensure security of supply","L2-L3","Ensure access to gas/electricity/water/telecommunications",23
@@ -605,21 +576,19 @@
 "National lockdown","L2-L3","For 4 weeks",1
 "National lockdown","L2-L3","Safer-at-home Order",1
 "National lockdown","L2-L3","Stay-at-home Order",12
+"Outdoor gathering restriction","L2-L3","Adaptive measure: only seated guests",1
 "Outdoor gathering restriction","L2-L3","Closure of markets",2
 "Outdoor gathering restriction","L2-L3","Closure of outdoor social spaces",17
 "Outdoor gathering restriction","L2-L3","Closure of outdoor sport and leisure facilities",65
-"Outdoor gathering restriction","L2-L3","Limit up to 100 persons",3
-"Outdoor gathering restriction","L2-L3","Limit up to 1000 persons",1
-"Outdoor gathering restriction","L2-L3","Limit up to 12 persons",1
-"Outdoor gathering restriction","L2-L3","Limit up to 1500 persons",1
-"Outdoor gathering restriction","L2-L3","Limit up to 40 persons",3
-"Outdoor gathering restriction","L2-L3","Limit up to 5 persons",1
-"Outdoor gathering restriction","L2-L3","Limit up to 500 persons",7
-"Outdoor gathering restriction","L2-L3","Limit up to 6 persons",1
+"Outdoor gathering restriction","L2-L3","In public and semi-public spaces",7
+"Outdoor gathering restriction","L2-L3","Organized events",4
+"Outdoor gathering restriction","L2-L3","Organized events and private meetings without seat allocation",1
+"Outdoor gathering restriction","L2-L3","Organized events without assigned and marked seats",1
 "Outdoor gathering restriction","L2-L3","Places of worship",1
 "Outdoor gathering restriction","L2-L3","Public events",1
 "Outdoor gathering restriction","L2-L3","Restriction on private and familial events",1
 "Outdoor gathering restriction","L2-L3","Sport events",3
+"Outdoor gathering restriction","L2-L3","Unspecified",4
 "Personal protective measures","L2-L3","Enhance hand hygiene",31
 "Personal protective measures","L2-L3","Mandatory physical barrier between workers and public",1
 "Personal protective measures","L2-L3","Mandatory use of gloves",1
@@ -647,7 +616,7 @@
 "Police and army interventions","L2-L3","To support law enforcement/sanction in case of no compliance",121
 "Police and army interventions","L2-L3","To support the population",20
 "Port and ship restriction","L2-L3","Deny entry to cruise ships",21
-"Port and ship restriction","L2-L3","Deny entry to passengers from any port outside the country",1
+"Port and ship restriction","L2-L3","Deny entry to travellers from any port outside the country",1
 "Port and ship restriction","L2-L3","Measures to limit contact to high risk populations",1
 "Port and ship restriction","L2-L3","Prohibit non-essential activities of marine vessels",1
 "Port and ship restriction","L2-L3","Reduce ferry transport service",1
@@ -669,7 +638,7 @@
 "Quarantine","L2-L3","Contact persons",36
 "Quarantine","L2-L3","Contact persons and suspected of being contact persons",1
 "Quarantine","L2-L3","Incoming national citizens and/or residents",19
-"Quarantine","L2-L3","Incoming travellers",59
+"Quarantine","L2-L3","Incoming travellers",60
 "Quarantine","L2-L3","Incoming travellers by air",1
 "Quarantine","L2-L3","Incoming travellers by land and sea",1
 "Quarantine","L2-L3","Incoming travellers from extra-Schengen countries",3
@@ -678,7 +647,7 @@
 "Quarantine","L2-L3","Nationals coming from high-risk areas",12
 "Quarantine","L2-L3","Residents coming from high-risk areas",1
 "Quarantine","L2-L3","Suspected cases",11
-"Re-opening of educational institutions","L2-L3","Adapt the school year schedule to the Covid-19 context",1
+"Re-opening of educational institutions","L2-L3","Adapt the school year schedule to the Covid-19 context",2
 "Re-opening of educational institutions","L2-L3","Classes with exams only",9
 "Re-opening of educational institutions","L2-L3","Re-opening of child care centers",3
 "Re-opening of educational institutions","L2-L3","Re-opening of kindergartens",16
@@ -801,10 +770,14 @@
 "","L3-L4","",80
 "A scientific body gives an opinion","L3-L4","Prioritization of PPE to healthcare professionals",1
 "Abolish regulatory fines for non-compliance with Covid-19 measures","L3-L4","Abolished the regulatory fines for non-compliance with the distance.",1
-"Adapt the school year schedule to the Covid-19 context","L3-L4","",1
+"Adapt the school year schedule to the Covid-19 context","L3-L4","",2
 "Adaptive measure(s) for shops","L3-L4","Respect of sanitary conditions and social distance",1
 "Adaptive measure(s) for shops","L3-L4","Temperature measurement before entering a shop",1
 "Adaptive measure(s) for vulnerable population","L3-L4","Special shopping hours for the elderly",3
+"Adaptive measure: only seated guests","L3-L4","Limit up to 1000 persons",1
+"Adaptive measure: only seated guests","L3-L4","Limit up to 1500 persons",1
+"Adaptive measure: only seated guests","L3-L4","Limit up to 300 persons",1
+"Adaptive measure: only seated guests","L3-L4","Limit up to 5000 persons",1
 "Administrative procedures facilitated","L3-L4","Administrative procedures facilitated",2
 "Administrative procedures facilitated","L3-L4","Allow digital decision-making for administrations",3
 "Administrative procedures facilitated","L3-L4","Allow remote council meetings",1
@@ -849,10 +822,10 @@
 "Alcohol sellers","L3-L4","Alcoholic beverages can be delivered",5
 "All restrictions lifted","L3-L4",">20 countries/regions",1
 "All restrictions lifted","L3-L4","5-10 countries/regions",1
-"All restrictions lifted","L3-L4","With Austria",1
+"All restrictions lifted","L3-L4","Austria",1
+"Allow gathering of two households","L3-L4","",1
 "Allow gathering of two households","L3-L4","For those living alone (non-vulnerable people)",1
 "Allow gathering of two households","L3-L4","For vulnerable people living alone",1
-"Allow gathering of two households","L3-L4","Indoor and outdoor",1
 "Allow gathering of two households","L3-L4","To provide childcare for children",1
 "Allow movements for non-essential activities","L3-L4","Exercising outdoor more than once a day",1
 "Allow movements for non-essential activities","L3-L4","Fishing allowed",2
@@ -878,6 +851,15 @@
 "Asymptomatic carriers","L3-L4","Provide treatment",1
 "Authorize anti-Covid-19 medication","L3-L4","Adheres to COVAX initiative",1
 "Authorize anti-Covid-19 medication","L3-L4","Drug Remdesivir",2
+"Authorize free movement of persons","L3-L4","Countries showing low virus circulation",1
+"Authorize free movement of persons","L3-L4","EU, Schengen area",1
+"Authorize free movement of persons","L3-L4","EU/EFTA states (except Bulgaria, Ireland, Croatia, Romania and Cyprus), United Kingdom ",1
+"Authorize free movement of persons","L3-L4","Europe except Spain",1
+"Authorize free movement of persons","L3-L4","European Union, Schengen area, United Kingdom of Great Britain, Northern Ireland",1
+"Authorize free movement of persons","L3-L4","Schengen area, United Kingdom of Great Britain, Northern Ireland, Andorra, Principality of Monaco, Republic of San Marino, Vatican City State",1
+"Authorize free movement of persons","L3-L4","Schengen area/EEA countries showing low virus circulation",1
+"Authorize free movement of persons","L3-L4","Self-monitored home quarantine",1
+"Authorize free movement of persons","L3-L4","Self-quarantine or negative PCR test < 24h",1
 "Ban export of necessity goods","L3-L4","Food",1
 "Ban export of necessity goods","L3-L4","Wheat flour",1
 "Ban on all air traffic from countries outside the European Union","L3-L4","",1
@@ -888,8 +870,8 @@
 "Ban on exportation of medical equipment and drugs","L3-L4","Medical equipment",1
 "Ban on exportation of medical equipment and drugs","L3-L4","Medical equipment, devices and materials",1
 "Ban on exportation of medical equipment and drugs","L3-L4","Respirators and cardiomonitors",1
-"Ban on passenger transport from China","L3-L4","Buses from China",1
-"Ban on passenger transport from China","L3-L4","Trains from China",1
+"Ban on passenger transport","L3-L4","Buses from China",1
+"Ban on passenger transport","L3-L4","Trains from China",1
 "Ban on road passenger transport from high risk areas","L3-L4","10-20 countries/regions",1
 "Beds","L3-L4","",24
 "Beds","L3-L4","Donation",1
@@ -899,7 +881,7 @@
 "Beds","L3-L4","Reception centers",1
 "Beds","L3-L4","Suspend regulations to allow existing hospitals to increase space and capacity, goal 9000 beds",1
 "Beds","L3-L4","Temporary shelters in tents",1
-"Boarding from Taiwan prohibited","L3-L4","No boarding from Taiwan",1
+"Boarding prohibited","L3-L4","No boarding from Taiwan",1
 "Border control","L3-L4","",3
 "Border control","L3-L4","< 5 countries/regions",6
 "Border control","L3-L4","5-10 countries/regions",3
@@ -1103,6 +1085,7 @@
 "Closure of short-term accommodation","L3-L4","Except campings",1
 "Closure of short-term accommodation","L3-L4","Holiday apartments cannot offer overnight stays",1
 "Closure of short-term accommodation","L3-L4","Hotels",4
+"Closure of short-term accommodation","L3-L4","Limit up to 50 persons",1
 "Closure of short-term accommodation","L3-L4","Partial: reduced capacity",3
 "Closure of short-term accommodation","L3-L4","Vacation rental suspended",1
 "Closure of short-term accommodation","L3-L4","With exceptions",1
@@ -1164,34 +1147,30 @@
 "Complete prohibition of gathering","L3-L4","In public and semi-public spaces",1
 "Complete prohibition of gathering","L3-L4","Public and private events prohibited",3
 "Conditional entry of essential workers","L3-L4","Cross-boundary goods vehicle drivers: negative PCR and quarantine",1
-"Conditional entry of EU citizens","L3-L4","Self-quarantine",1
-"Conditional entry of national citizens and/or residents","L3-L4","Self-quarantine",2
-"Conditional entry of national citizens and/or residents","L3-L4","Self-quarantine or negative PCR test",1
-"Conditional entry of national citizens coming from non-EU countries","L3-L4","Negative PCR test < 72h",1
+"Conditional entry of national citizens and/or residents","L3-L4","Self-quarantine",1
 "Conditional entry of national citizens coming from non-EU countries","L3-L4","Negative PCR test < 72h + antigen test at arrival",1
 "Conditional entry of non-residents","L3-L4","Negative PCR test < 72h",2
-"Conditional entry of passengers from high-risk areas","L3-L4","Negative PCR test",4
-"Conditional entry of passengers from high-risk areas","L3-L4","Negative PCR test < 48h",1
-"Conditional entry of passengers from high-risk areas","L3-L4","Negative PCR test < 72h",5
-"Conditional entry of passengers from UK","L3-L4","Negative PCR test",1
-"Conditional entry of persons from high-risk areas","L3-L4","Permanent residents of Israel",1
-"Conditional entry of persons from high-risk areas","L3-L4","Permanent residents of the Russian Federation",1
+"Conditional entry of travellers","L3-L4","National citizens and/or residents: self-quarantine",1
+"Conditional entry of travellers","L3-L4","National citizens and/or residents: self-quarantine or negative PCR test",1
+"Conditional entry of travellers","L3-L4","National citizens coming from non-EU countries: negative PCR test < 72h",1
 "Conditional entry of travellers","L3-L4","Negative PCR test < 10 days",1
 "Conditional entry of travellers","L3-L4","Negative PCR test < 48h",1
 "Conditional entry of travellers","L3-L4","Negative PCR test < 72h",4
 "Conditional entry of travellers","L3-L4","Self-registration",1
-"Conditional entry of travellers from high-risk areas","L3-L4","Negative PCR test",5
-"Conditional entry of travellers from high-risk areas","L3-L4","Negative PCR test < 48h",2
+"Conditional entry of travellers","L3-L4","UK: Negative PCR test",1
+"Conditional entry of travellers from high-risk areas","L3-L4","Negative PCR test",9
+"Conditional entry of travellers from high-risk areas","L3-L4","Negative PCR test < 48h",3
 "Conditional entry of travellers from high-risk areas","L3-L4","Negative PCR test < 5 days",1
-"Conditional entry of travellers from high-risk areas","L3-L4","Negative PCR test < 72h",1
+"Conditional entry of travellers from high-risk areas","L3-L4","Negative PCR test < 72h",5
+"Conditional entry of travellers from high-risk areas","L3-L4","Permanent residents of Israel",1
+"Conditional entry of travellers from high-risk areas","L3-L4","Permanent residents of the Russian Federation",1
 "Conditional entry of travellers from high-risk areas","L3-L4","Self-quarantine or negative PCR test",3
-"Conditional entry of travellers from neighboring countries","L3-L4","Negative PCR test < 72h",3
+"Conditional entry of travellers from neighboring countries","L3-L4","Negative PCR test < 72h",2
 "Conditional entry of travellers from neighboring countries","L3-L4","Self-quarantine",2
-"Conferences, meetings, trade fairs, etc.","L3-L4","",23
+"Conferences, meetings, trade fairs, etc.","L3-L4","",24
 "Conferences, meetings, trade fairs, etc.","L3-L4","Conferences",1
 "Conferences, meetings, trade fairs, etc.","L3-L4","Congress",1
 "Conferences, meetings, trade fairs, etc.","L3-L4","Congresses, seminars, workshops",1
-"Conferences, meetings, trade fairs, etc.","L3-L4","Indoor cancelled",1
 "Conferences, meetings, trade fairs, etc.","L3-L4","Limit up to 8 persons",1
 "Conferences, meetings, trade fairs, etc.","L3-L4","Meetings",1
 "Conferences, meetings, trade fairs, etc.","L3-L4","Meetings of the parliament",1
@@ -1250,15 +1229,6 @@
 "Countries showing similar epidemiological situation","L3-L4","10-20 countries/regions",1
 "Countries showing similar epidemiological situation","L3-L4","Negative PCR test < 72h",1
 "Countries showing similar epidemiological situation","L3-L4","With Taiwan",1
-"Countries within Europe","L3-L4","",2
-"Countries within Europe","L3-L4","Countries showing low virus circulation",2
-"Countries within Europe","L3-L4","Except Bulgaria, Ireland, Croatia, Romania and Cyprus",1
-"Countries within Europe","L3-L4","Except Spain",1
-"Countries within Europe","L3-L4","For certain workers",2
-"Countries within Europe","L3-L4","For specific personal or professional reasons",1
-"Countries within Europe","L3-L4","Foreign students",1
-"Countries within Europe","L3-L4","Self-quarantine or negative PCR test < 24h",1
-"Countries within the Schengen area","L3-L4","Essential traffic",1
 "Covid-19-appropriate behaviour campaign","L3-L4","",5
 "Covid-19-appropriate behaviour campaign","L3-L4","Advice for avoiding infection",5
 "Covid-19-appropriate behaviour campaign","L3-L4","Advise for safe shopping, Twitter",2
@@ -1320,6 +1290,7 @@
 "Covid-19 as a notifiable disease","L3-L4","Guidance for sample Collection, Packaging and Transportation for Novel Coronavirus",1
 "Covid-19 as a notifiable disease","L3-L4","Infection Protection Act",1
 "Covid-19 as a notifiable disease","L3-L4","Mandatory report of test results by laboratories",1
+"Cross-border traffic","L3-L4","Countries within the Schengen area",1
 "Cultural places and events","L3-L4","",16
 "Cultural places and events","L3-L4","All public events prohibited",3
 "Cultural places and events","L3-L4","Cinemas",18
@@ -1336,7 +1307,7 @@
 "Cultural places and events","L3-L4","Theatres",4
 "Cultural places and events","L3-L4","Touristic destinations closed / Touristic excursions prohibited",6
 "Curfew","L3-L4","",25
-"Curfew","L3-L4","14:00-5:00",1
+"Curfew","L3-L4","14:00-5:00",2
 "Curfew","L3-L4","18:00-05:00",1
 "Curfew","L3-L4","18:00 - 5:00",2
 "Curfew","L3-L4","19:00 - 6:00",1
@@ -1402,7 +1373,7 @@
 "Deny entry to cruise ships","L3-L4","Sea connections to The Balearic Islands cease",1
 "Deny entry to cruise ships","L3-L4","With history of travel to China, Hong Kong, or Macau",1
 "Deny entry to cruise ships","L3-L4","With suspected cases or from China",2
-"Deny entry to passengers from any port outside the country","L3-L4","Passengers from any port outside the USA shall not disembark",1
+"Deny entry to travellers from any port outside the country","L3-L4","Passengers from any port outside the USA shall not disembark",1
 "Develop all-of-society and business continuity plans","L3-L4","",5
 "Develop all-of-society and business continuity plans","L3-L4","Benefits for self-employed, students, pensioners",1
 "Develop all-of-society and business continuity plans","L3-L4","Compensation for wage costs",16
@@ -1595,7 +1566,7 @@
 "Discourage non-essential travels","L3-L4","Israel",1
 "Discourage non-essential travels","L3-L4","Italy",4
 "Discourage non-essential travels","L3-L4","Northern Italy",6
-"Discourage non-essential travels","L3-L4","Northern Italy and Nordrhein-Westfalen (Germany)",1
+"Discourage non-essential travels","L3-L4","Northern Italy and North Rhine-Westphalia (Germany)",1
 "Discourage non-essential travels","L3-L4","Outside EU and EFTA countries",5
 "Discourage non-essential travels","L3-L4","Overseas",1
 "Discourage non-essential travels","L3-L4","Parts of South Korea",1
@@ -1803,13 +1774,13 @@
 "Ensure access to gas/electricity/water/telecommunications","L3-L4","Sanitation of urban wastewater, urban waste management",1
 "Ensure continuity of support to family","L3-L4","Exemptions from confinement",1
 "Ensure supply of medical and/or pharmaceutical products","L3-L4","",1
+"Entertainment gatherings","L3-L4","Limit up to 10 persons",1
 "Entertainment venues","L3-L4","Allowed if strict respect to hygiene measures",1
 "Entertainment venues","L3-L4","Can open if respect social distancing",1
 "Entertainment venues","L3-L4","Games of chance can operate online",1
 "Entertainment venues","L3-L4","Limit up to 250 persons",1
 "Entertainment venues","L3-L4","Limit up to 50 persons",1
 "Entry ban for symptomatic people and case contacts","L3-L4","",1
-"Entry ban for travellers coming from outside the European area","L3-L4","",2
 "Entry ban to infected persons","L3-L4","",1
 "Entry ban to non-citizens or non-residents","L3-L4","",27
 "Entry ban to non-citizens or non-residents","L3-L4","All foreign tourists",2
@@ -1822,54 +1793,40 @@
 "Entry ban to non-citizens or non-residents","L3-L4","Maritime, airport borders",1
 "Entry ban to non-citizens or non-residents","L3-L4","Transit and entry ban",1
 "Entry ban to non-citizens or non-residents","L3-L4","With grounded exceptions",2
-"Entry ban to non-EU citizens","L3-L4","",12
-"Entry ban to non-EU citizens","L3-L4","Except essential travels",1
-"Entry ban to passengers from high-risk areas","L3-L4","All countries, if feeling unwell",1
-"Entry ban to passengers from high-risk areas","L3-L4","No boarding from Taiwan",1
-"Entry ban to passengers from non EU countries","L3-L4","",2
-"Entry ban to people from China","L3-L4","",5
-"Entry ban to people from China","L3-L4","< 5 countries/regions",2
-"Entry ban to people from China","L3-L4","China: Visas of any kind are no longer issued for Chinese nationals. ",1
-"Entry ban to people from China","L3-L4","Chinese national",1
-"Entry ban to people from China","L3-L4","Existing visas no longer valid for any foreign national travelling from China",1
-"Entry ban to people from China","L3-L4","Incomings from China",1
-"Entry ban to people from China","L3-L4","Incomings from Hubei",3
-"Entry ban to people from China","L3-L4","Incomings from Wuhan",2
-"Entry ban to people from China","L3-L4","Incomings from Wuhan and Hubei",1
-"Entry ban to people from China","L3-L4","Transit visas no longer issued for Chinese nationals",1
-"Entry ban to people from high-risk areas other than China","L3-L4","",1
-"Entry ban to people from high-risk areas other than China","L3-L4","< 5 countries/regions",11
-"Entry ban to people from high-risk areas other than China","L3-L4","> 30 countries/regions",5
-"Entry ban to people from high-risk areas other than China","L3-L4","10-20 countries/regions",3
-"Entry ban to people from high-risk areas other than China","L3-L4","20-30 countries/regions",1
-"Entry ban to people from high-risk areas other than China","L3-L4","5-10 countries/regions",3
-"Entry ban to people from high-risk areas other than China","L3-L4","Certain regions of Italy, Spain and Switzerland, and entire Iceland",1
-"Entry ban to people from high-risk areas other than China","L3-L4","Countries where new variant circulates",1
-"Entry ban to people from high-risk areas other than China","L3-L4","Countries with cases",1
-"Entry ban to people from high-risk areas other than China","L3-L4","Existing visas no longer valid for any foreign national travelling from Republic of Korea, Islamic Republic of Iran, Italy and Japan",1
-"Entry ban to people from high-risk areas other than China","L3-L4","Incomings from Algeria",1
-"Entry ban to people from high-risk areas other than China","L3-L4","Incomings from Indonesia",2
-"Entry ban to people from high-risk areas other than China","L3-L4","Incomings from Iran",1
-"Entry ban to people from high-risk areas other than China","L3-L4","Incomings from Italy",3
-"Entry ban to people from high-risk areas other than China","L3-L4","Incomings from Morocco",2
-"Entry ban to people from high-risk areas other than China","L3-L4","Incomings from MS Westerdam",2
-"Entry ban to people from high-risk areas other than China","L3-L4","Incomings from Schengen Area ",1
-"Entry ban to people from high-risk areas other than China","L3-L4","Incomings from South Korea",2
-"Entry ban to people from high-risk areas other than China","L3-L4","Incomings from South Korea, and Iran",1
-"Entry ban to people from high-risk areas other than China","L3-L4","Incomings from Spain",3
-"Entry ban to people from high-risk areas other than China","L3-L4","Incomings from Zhejiang Province",1
-"Entry ban to people from high-risk areas other than China","L3-L4","Iranian citizens",1
-"Entry ban to people from high-risk areas other than China","L3-L4","Israel",1
-"Entry ban to people from high-risk areas other than China","L3-L4","No visas issued for people from France, Germany and Spain",1
-"Entry ban to people from high-risk areas other than China","L3-L4","No visas issued for people from Italy, Iran, South Korea, and Japan",1
-"Entry ban to people from high-risk areas other than China","L3-L4","Switzerland",1
-"Entry ban to people from high-risk areas other than China","L3-L4","Tourists from countries outside of the EEA and EFTA",1
-"Entry ban to people from high-risk areas other than China","L3-L4","Visa restriction for: persons with a visa issued from high-risk regions",1
-"Entry ban to people from high-risk areas other than China","L3-L4","Visa restriction for: Schengen countries (Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden and Switzerland), Andorra, Bulgaria, Croatia, Cyprus, Egypt, Iran, Ireland, Monaco, Romania, San Marino, the United Kingdom, and Vatican",1
-"Entry ban to people from high-risk areas other than China","L3-L4","Visas are no longer issued for Iranian citizens",1
-"Entry ban to people with a travel history to China","L3-L4","",3
-"Entry ban to people with a travel history to China","L3-L4","Foreign nationals with travel history to Hubei Province + those with a Chinese passport issued by Hubei Province",1
+"Entry ban to people from high-risk areas","L3-L4","< 5 countries/regions",13
+"Entry ban to people from high-risk areas","L3-L4","> 30 countries/regions",5
+"Entry ban to people from high-risk areas","L3-L4","10-20 countries/regions",3
+"Entry ban to people from high-risk areas","L3-L4","20-30 countries/regions",1
+"Entry ban to people from high-risk areas","L3-L4","5-10 countries/regions",3
+"Entry ban to people from high-risk areas","L3-L4","Algeria",1
+"Entry ban to people from high-risk areas","L3-L4","Certain regions of Italy, Spain and Switzerland, Iceland",1
+"Entry ban to people from high-risk areas","L3-L4","China",8
+"Entry ban to people from high-risk areas","L3-L4","Countries outside of the EEA and EFTA",1
+"Entry ban to people from high-risk areas","L3-L4","Countries where new variant circulates",1
+"Entry ban to people from high-risk areas","L3-L4","Countries with cases",1
+"Entry ban to people from high-risk areas","L3-L4","High-risk regions",1
+"Entry ban to people from high-risk areas","L3-L4","Hubei",3
+"Entry ban to people from high-risk areas","L3-L4","Indonesia",2
+"Entry ban to people from high-risk areas","L3-L4","Iran",2
+"Entry ban to people from high-risk areas","L3-L4","Israel",1
+"Entry ban to people from high-risk areas","L3-L4","Italy",3
+"Entry ban to people from high-risk areas","L3-L4","Morocco",2
+"Entry ban to people from high-risk areas","L3-L4","MS Westerdam",2
+"Entry ban to people from high-risk areas","L3-L4","Schengen area ",1
+"Entry ban to people from high-risk areas","L3-L4","South Korea",2
+"Entry ban to people from high-risk areas","L3-L4","South Korea, and Iran",1
+"Entry ban to people from high-risk areas","L3-L4","Spain",3
+"Entry ban to people from high-risk areas","L3-L4","Switzerland",1
+"Entry ban to people from high-risk areas","L3-L4","Wuhan",2
+"Entry ban to people from high-risk areas","L3-L4","Wuhan, Hubei",1
+"Entry ban to people from high-risk areas","L3-L4","Zhejiang Province",1
+"Entry ban to people with a travel history to some countries","L3-L4","China",2
+"Entry ban to people with a travel history to some countries","L3-L4","Hubei Province",1
 "Entry ban to refugees","L3-L4","",3
+"Entry ban to travellers","L3-L4","Non EU countries",17
+"Entry ban to travellers from high-risk areas","L3-L4","All countries, if feeling unwell",1
+"Entry ban to travellers from high-risk areas","L3-L4","Negative PCR test < 72h",1
+"Entry ban to travellers from high-risk areas","L3-L4","No boarding from Taiwan",1
 "Entry of workers under exceptional circumstances","L3-L4","Seasonal workers in agriculture and forestry, and care and health personnel",1
 "Essential shops and businesses","L3-L4","Banks: respect of hygiene protocols",1
 "Essential shops and businesses","L3-L4","Enforcing social distancing protocol",4
@@ -1884,6 +1841,7 @@
 "Essential shops and businesses","L3-L4","Protective measures ",1
 "Essential shops and businesses","L3-L4","Reduced opening hours",1
 "Essential shops and businesses","L3-L4","Remote customer service",1
+"Events involving at-risk people","L3-L4","Limit up to 10 persons",1
 "Exception to work law allowed","L3-L4","Allow work of international students in essential services",1
 "Exception to work law allowed","L3-L4","Ease recruitment of foreign healthcare workers",1
 "Exception to work law allowed","L3-L4","Ensure pension rights for mobilized retired healthcare professionals",1
@@ -1945,10 +1903,9 @@
 "Facilitate import","L3-L4","Suppression tariff on import",1
 "Facilitate import","L3-L4","Tax exemption on imported goods",3
 "Farms","L3-L4","Cancel or restrict tuberculosis testing visits",2
-"Festivals, faith-based events","L3-L4","",18
+"Festivals, faith-based events","L3-L4","",19
 "Festivals, faith-based events","L3-L4","Festival(s)",6
 "Festivals, faith-based events","L3-L4","In containment zone",1
-"Festivals, faith-based events","L3-L4","Indoor cancelled",1
 "Festivals, faith-based events","L3-L4","Limit up to 10 persons",1
 "Festivals, faith-based events","L3-L4","Religious mass celebration",4
 "Fight fraud to Covid-19 support scheme","L3-L4","",1
@@ -2023,19 +1980,25 @@
 "for 21 days","L3-L4","",1
 "For 21 days","L3-L4","",1
 "For 4 weeks","L3-L4","",1
-"For certain workers","L3-L4","Commercial/trade workers",2
-"For certain workers","L3-L4","Healthcare workers",2
+"For certain workers","L3-L4","Commercial/trade workers",3
+"For certain workers","L3-L4","Healthcare workers",3
+"For certain workers","L3-L4","Highly qualified workers",1
+"For certain workers","L3-L4","Humanitarian workers",1
 "For certain workers","L3-L4","Keyworkers",1
-"For certain workers","L3-L4","Seasonal workers in agriculture and forestry",2
+"For certain workers","L3-L4","Seasonal workers in agriculture and forestry",3
+"For certain workers","L3-L4","World",2
 "For cybersecurity","L3-L4","Funding to develop national cybersecurity",1
 "For government officers","L3-L4","Fact sheet",1
 "For specific personal or professional reasons","L3-L4","",2
 "For specific personal or professional reasons","L3-L4","< 5 countries/regions",2
 "For specific personal or professional reasons","L3-L4","1 country/region",2
+"For specific personal or professional reasons","L3-L4","Non-EU/EEA countries",2
+"For specific personal or professional reasons","L3-L4","World",3
 "Force departure of Chinese nationals","L3-L4","Deportation of Chinese nationals",2
 "Force departure of Chinese nationals","L3-L4","Tour groups from Hubei province to depart the country",1
 "Force departure of Chinese nationals","L3-L4","Tour groups from Hubei to depart the country",1
 "Force departure of Chinese nationals","L3-L4","Tour groups from Wuhan to depart the country",1
+"Foreign students","L3-L4","World",1
 "Foster community assistance","L3-L4","Call for volunteers to food banks",1
 "Foster community assistance","L3-L4","Call for volunteers to help others stay at home",1
 "Foster community assistance","L3-L4","Check on the most vulnerable",1
@@ -2182,6 +2145,7 @@
 "Guidelines for persons in quarantine","L3-L4","Twitter",3
 "Guidelines for public events and meetings","L3-L4","",3
 "Guidelines for public events and meetings","L3-L4","Encourage event cancellation",4
+"Guidelines for public events and meetings","L3-L4","Limit up to 1000 persons",1
 "Guidelines for public events and meetings","L3-L4","Risk assessment before an event",10
 "Guidelines for public events and meetings","L3-L4","Spectators excluded",1
 "Guidelines for re-opening of medical and paramedical centers","L3-L4","Physiotherapy clinic",1
@@ -2367,8 +2331,36 @@
 "Import and use of refurbished medical devices allowed","L3-L4","",1
 "In markets","L3-L4","",2
 "In private vehicule","L3-L4","Limit up to 4 persons of the same houshold",1
+"In public and semi-public spaces","L3-L4","Limit up to 1 person",1
+"In public and semi-public spaces","L3-L4","Limit up to 10 persons",9
+"In public and semi-public spaces","L3-L4","Limit up to 100 persons",4
+"In public and semi-public spaces","L3-L4","Limit up to 1000 persons",1
+"In public and semi-public spaces","L3-L4","Limit up to 15 persons",1
+"In public and semi-public spaces","L3-L4","Limit up to 2 persons",16
+"In public and semi-public spaces","L3-L4","Limit up to 2 persons of different households",8
+"In public and semi-public spaces","L3-L4","Limit up to 20 persons",4
+"In public and semi-public spaces","L3-L4","Limit up to 25 persons",2
+"In public and semi-public spaces","L3-L4","Limit up to 250 persons",1
+"In public and semi-public spaces","L3-L4","Limit up to 3 persons",2
+"In public and semi-public spaces","L3-L4","Limit up to 3 persons of different households",1
+"In public and semi-public spaces","L3-L4","Limit up to 30 persons",1
+"In public and semi-public spaces","L3-L4","Limit up to 4 persons",10
+"In public and semi-public spaces","L3-L4","Limit up to 40 persons",4
+"In public and semi-public spaces","L3-L4","Limit up to 5 persons",15
+"In public and semi-public spaces","L3-L4","Limit up to 5 persons (Exception for families with 4 children)",1
+"In public and semi-public spaces","L3-L4","Limit up to 5 persons of different households",1
+"In public and semi-public spaces","L3-L4","Limit up to 50 persons",12
+"In public and semi-public spaces","L3-L4","Limit up to 500 persons",2
+"In public and semi-public spaces","L3-L4","Limit up to 6 persons",2
+"In public and semi-public spaces","L3-L4","Limit up to 8 persons",3
 "In public and semi-public spaces","L3-L4","No limit on the number of persons / 2m distance must be respected",1
 "In public and semi-public spaces","L3-L4","Relax the 2m distance",4
+"In public and semi-public spaces, Organized events","L3-L4","Limit up to 10 persons",8
+"In public and semi-public spaces, Organized events","L3-L4","Limit up to 1000 persons",1
+"In public and semi-public spaces, Organized events","L3-L4","Limit up to 200 persons",1
+"In public and semi-public spaces, Organized events","L3-L4","Limit up to 25 persons",1
+"In public and semi-public spaces, Organized events","L3-L4","Limit up to 50 persons",3
+"In public and semi-public spaces, Organized events","L3-L4","Limit up to 9 persons",1
 "Incentives for healthcare workers","L3-L4","Ease accommodation for healthcare professionals",3
 "Incentives for healthcare workers","L3-L4","Ease transport of health workers",8
 "Incentives for healthcare workers","L3-L4","Ease transport of healthcare workers",3
@@ -2397,6 +2389,7 @@
 "Incoming travellers","L3-L4","Coming from outside the  Schengen area",1
 "Incoming travellers","L3-L4","Commuters crossing the border",1
 "Incoming travellers","L3-L4","Enhance entry quarantine measures",2
+"Incoming travellers","L3-L4","EU",1
 "Incoming travellers","L3-L4","Except essential workers",1
 "Incoming travellers","L3-L4","Except from Latvia, Lithuania",1
 "Incoming travellers","L3-L4","Except travelers arriving from the Pacific",1
@@ -2495,8 +2488,8 @@
 "Increase number of medical institutions","L3-L4","Modernise medical institutions",1
 "Increase number of medical institutions","L3-L4","More hospitals ready to receive patients",2
 "Increase number of medical institutions","L3-L4","Nursing home facility repurposed into temporary hospital",2
+"Increase number of medical institutions","L3-L4","Repurpose government property",1
 "Increase number of medical institutions","L3-L4","Resume construction work related to hospital infrastucture",1
-"Increase number of medical institutions","L3-L4","State of Maryland property can be made available as a place of treatment",1
 "Increase police and/or military forces","L3-L4","Army to reinforce police forces",2
 "Increase police and/or military forces","L3-L4","Cooperation with Red Cross volunteers for border control",1
 "Increase police and/or military forces","L3-L4","Ease recruitment in the army",1
@@ -2591,14 +2584,6 @@
 "Information bulletin","L3-L4","Current epidemiological situation",1
 "Information bulletin","L3-L4","Daily newsletter",1
 "Insure access to gas/electricity/water/telecommunications","L3-L4","Ensure electricity supply",1
-"International borders (not specified)","L3-L4","",1
-"International borders (not specified)","L3-L4","Commercial/trade workers",1
-"International borders (not specified)","L3-L4","Commuters crossing the border",1
-"International borders (not specified)","L3-L4","For specific personal or professional reasons",1
-"International borders (not specified)","L3-L4","Healthcare workers",1
-"International borders (not specified)","L3-L4","Highly qualified workers",1
-"International borders (not specified)","L3-L4","Humanitarian workers",1
-"International borders (not specified)","L3-L4","Seasonal workers in agriculture and forestry",1
 "International Monetary Fund","L3-L4","",1
 "International Monetary Fund","L3-L4","Loan",2
 "Isolation centers","L3-L4","",6
@@ -2729,7 +2714,6 @@
 "Lift ban on sport events","L3-L4","Limit up to 300 persons",2
 "Lift ban on sport events","L3-L4","Limit up to 50 persons",1
 "Lift ban on sport events","L3-L4","Resume outdoor and indoor sport competitions",3
-"Lift border restriction","L3-L4","Lift border restriction with countries within the European Union",1
 "Lift confinement","L3-L4","",1
 "Lift confinement","L3-L4","Only for work, health, and urgencies",1
 "Lift confinement","L3-L4","Social distancing measures in place",2
@@ -2738,7 +2722,7 @@
 "Lift cordon sanitaire","L3-L4","One region",3
 "Lift cordon sanitaire","L3-L4","One village",1
 "Lift cordon sanitaire","L3-L4","Three localities in a town",1
-"Lift landing ban","L3-L4","Partial lift: Aircrafts from South Korea",1
+"Lift landing ban","L3-L4","Aircrafts from South Korea",1
 "Lift mandatory face covering","L3-L4","For eating and drinking while seated",1
 "Lift mandatory quarantine for certain workers","L3-L4","< 5 countries/regions",1
 "Lift mandatory quarantine for certain workers","L3-L4","After a travel < 5 days for medical reasons ",1
@@ -2799,105 +2783,6 @@
 "Lift state of emergency","L3-L4","State of alert",1
 "Lift suspension on home birth","L3-L4","",1
 "Lift traffic enactments","L3-L4","Lift driving ban on Sunday for all trucks with goods",1
-"Limit to 500 persons","L3-L4","",1
-"Limit up to 1 household","L3-L4","On two-wheels vehicule",2
-"Limit up to 1 person","L3-L4","In public and semi-public spaces",1
-"Limit up to 1 persons","L3-L4","On two-wheels vehicule",2
-"Limit up to 10 persons","L3-L4","",26
-"Limit up to 10 persons","L3-L4","Business, establishment, non-profit corporation, or organization ",1
-"Limit up to 10 persons","L3-L4","Everywhere",1
-"Limit up to 10 persons","L3-L4","Except drive-in gatherings if the participants respect social distancing rules",1
-"Limit up to 10 persons","L3-L4","If outside of work or school",1
-"Limit up to 10 persons","L3-L4","In essential businesses",1
-"Limit up to 10 persons","L3-L4","Indoor and outdoor",1
-"Limit up to 10 persons","L3-L4","Limit up to 10 different households",2
-"Limit up to 10 persons","L3-L4","Outdoor",1
-"Limit up to 10 persons","L3-L4","When at-risk people involved",1
-"Limit up to 100 persons","L3-L4","",14
-"Limit up to 100 persons","L3-L4","Gathering possible with enforced social distancing protocol",1
-"Limit up to 100 persons","L3-L4","Indoor",9
-"Limit up to 100 persons","L3-L4","Must respect social distancing",2
-"Limit up to 100 persons","L3-L4","Outdoor",1
-"Limit up to 100 persons","L3-L4","Outdoor gathering allowed with recommended physical distancing",1
-"Limit up to 100 persons","L3-L4","Partial: non-essential mass gatherings",1
-"Limit up to 100 persons","L3-L4","Specified hygienic conditions",1
-"Limit up to 1000 persons","L3-L4","",21
-"Limit up to 1000 persons","L3-L4","Adaptive measure: only seated guests",1
-"Limit up to 1000 persons","L3-L4","Outdoor",1
-"Limit up to 1000 persons","L3-L4","Private and public events",1
-"Limit up to 1000 persons","L3-L4","Private and public events ",2
-"Limit up to 1000 persons","L3-L4","Require risk assessment and prevention measures",1
-"Limit up to 12 persons","L3-L4","Outdoor events and private meetings without seat allocation",1
-"Limit up to 15 persons","L3-L4","",2
-"Limit up to 15 persons","L3-L4","In public and semi-public spaces",1
-"Limit up to 15 persons","L3-L4","Support groups",1
-"Limit up to 150 persons","L3-L4","",1
-"Limit up to 150 persons","L3-L4","Outdoor",1
-"Limit up to 1500 persons","L3-L4","Adaptive measure: only seated guests",1
-"Limit up to 2 persons","L3-L4","",4
-"Limit up to 2 persons","L3-L4","Except household or essential for work",1
-"Limit up to 2 persons","L3-L4","In public and semi-public spaces",8
-"Limit up to 2 persons","L3-L4","Limit up to 2 persons of different households",8
-"Limit up to 2 persons","L3-L4","Outdoor public places",3
-"Limit up to 2 persons","L3-L4","Public space except if in one household, essential for work, funerals",1
-"Limit up to 2 persons per row of seats","L3-L4","Taxis and taxi-like operations",1
-"Limit up to 20 persons","L3-L4","",1
-"Limit up to 20 persons","L3-L4","Family celebrations allowed",1
-"Limit up to 20 persons","L3-L4","Indoor",3
-"Limit up to 20 persons","L3-L4","Must respect social distancing",1
-"Limit up to 200 persons","L3-L4","",1
-"Limit up to 200 persons","L3-L4","Outdoor and indoor",1
-"Limit up to 25 persons","L3-L4","",1
-"Limit up to 25 persons","L3-L4","In public and semi-public spaces",1
-"Limit up to 25 persons","L3-L4","Must respect social distancing",1
-"Limit up to 250 persons","L3-L4","",9
-"Limit up to 3 persons","L3-L4","",2
-"Limit up to 3 persons","L3-L4","Recommendation to avoid groups of more than 3 persons that do not share the same household",1
-"Limit up to 3 persons","L3-L4","Taxis and taxi-like operations",3
-"Limit up to 30 persons","L3-L4","",2
-"Limit up to 30 persons","L3-L4","In public and semi-public spaces",1
-"Limit up to 300 persons","L3-L4","",1
-"Limit up to 300 persons","L3-L4","Private and public events",1
-"Limit up to 300 persons","L3-L4","Private and public events ",1
-"Limit up to 300 persons","L3-L4","Seated attendees",1
-"Limit up to 4 persons","L3-L4","",3
-"Limit up to 4 persons","L3-L4","In public and semi-public spaces",7
-"Limit up to 40 persons","L3-L4","",1
-"Limit up to 40 persons","L3-L4","Outdoor",3
-"Limit up to 5 persons","L3-L4","",6
-"Limit up to 5 persons","L3-L4","Exception for families with ? 4 children",1
-"Limit up to 5 persons","L3-L4","In public and semi-public spaces",7
-"Limit up to 5 persons","L3-L4","Indoor",1
-"Limit up to 5 persons","L3-L4","Indoor and outdoor",1
-"Limit up to 5 persons","L3-L4","Limit up to 5 persons of different households",1
-"Limit up to 5 persons","L3-L4","Outdoor",1
-"Limit up to 5 persons","L3-L4","Work place",1
-"Limit up to 50 persons","L3-L4","",27
-"Limit up to 50 persons","L3-L4","In public and semi-public spaces",4
-"Limit up to 50 persons","L3-L4","Indoor",2
-"Limit up to 50 persons","L3-L4","Indoor and outdoor",3
-"Limit up to 50 persons","L3-L4","Must respect social distancing",1
-"Limit up to 50 persons","L3-L4","Require government permission",1
-"Limit up to 500 persons","L3-L4","",6
-"Limit up to 500 persons","L3-L4","Indoor",2
-"Limit up to 500 persons","L3-L4","Outdoor",8
-"Limit up to 5000 persons","L3-L4","",5
-"Limit up to 5000 persons","L3-L4","Adaptive measure: only seated guests",1
-"Limit up to 5000 persons","L3-L4","Authorities approval and submission of protection concept",1
-"Limit up to 5000 persons","L3-L4","Indoor",1
-"Limit up to 6 persons","L3-L4","",1
-"Limit up to 6 persons","L3-L4","Except same household and support bubble",1
-"Limit up to 6 persons","L3-L4","In highest risk zones",1
-"Limit up to 6 persons","L3-L4","In public and semi-public spaces",1
-"Limit up to 6 persons","L3-L4","Indoor",1
-"Limit up to 6 persons","L3-L4","Indoor and outdoor (Exception for work, education and organised team sports)",1
-"Limit up to 6 persons","L3-L4","Indoor events and private meetings without seat allocation",1
-"Limit up to 6 persons","L3-L4","Outdoor",1
-"Limit up to 6 persons","L3-L4","Practice of groups sports",1
-"Limit up to 75 persons","L3-L4","",2
-"Limit up to 750 persons","L3-L4","",1
-"Limit up to 8 persons","L3-L4","In public and semi-public spaces",3
-"Limit up to 9 persons","L3-L4","",1
 "Manage hospital capacity","L3-L4","Board to manage hospital capacity",1
 "Mandatory","L3-L4","",5
 "Mandatory distance between people","L3-L4","1.5m distance in public spaces",1
@@ -3081,14 +2966,14 @@
 "Movements for non-essential activities forbidden","L3-L4","",38
 "Movements for non-essential activities forbidden","L3-L4","All people not engaged in essential activities",1
 "Movements for non-essential activities forbidden","L3-L4","Allowed to work only when work cannot be performed via home office",1
-"Movements for non-essential activities forbidden","L3-L4","Ban on travel outside municipality of residence except for work",3
+"Movements for non-essential activities forbidden","L3-L4","Ban on traveling outside the municipality of permanent or temporary residence",3
 "Movements for non-essential activities forbidden","L3-L4","Confinement",3
 "Movements for non-essential activities forbidden","L3-L4","Elderly and minors",1
 "Movements for non-essential activities forbidden","L3-L4","Emergency legislation passed to restrict individual movements",1
 "Movements for non-essential activities forbidden","L3-L4","Except those whose place of work is located outside the restrictions area",1
 "Movements for non-essential activities forbidden","L3-L4","Exit restrictions for residents of old people's and nursing homes",1
 "Movements for non-essential activities forbidden","L3-L4","From today it is forbidden for all natural persons to move or move with public or private means of transport in common other than that in which they are located, except for proven work needs, of absolute urgency or for health reasons.",1
-"Movements for non-essential activities forbidden","L3-L4","Mandatory confinement",2
+"Movements for non-essential activities forbidden","L3-L4","Mandatory confinement",3
 "Movements for non-essential activities forbidden","L3-L4","Mandatory confinement for vulnerable/older persons",2
 "Movements for non-essential activities forbidden","L3-L4","Movement for basic needs allowed",1
 "Movements for non-essential activities forbidden","L3-L4","Movement for work and basic needs allowed",2
@@ -3115,13 +3000,14 @@
 "Neighbouring countries","L3-L4","< 5 countries/regions",2
 "Neighbouring countries","L3-L4","15 crossing points",1
 "Neighbouring countries","L3-L4","All road border crossings",1
+"Neighbouring countries","L3-L4","Austria",2
+"Neighbouring countries","L3-L4","Commuters crossing the border",1
+"Neighbouring countries","L3-L4","France",1
+"Neighbouring countries","L3-L4","Negative PCR test < 72h",1
 "Neighbouring countries","L3-L4","Progressive re-opening of some crossing points",1
-"Neighbouring countries","L3-L4","Self-monitored home quarantine",1
-"Neighbouring countries","L3-L4","With Austria",2
-"Neighbouring countries","L3-L4","With France",1
-"Neighbouring countries","L3-L4","With Romania",1
-"Neighbouring countries","L3-L4","With Serbia",1
-"Neighbouring countries","L3-L4","With Slovakia",1
+"Neighbouring countries","L3-L4","Romania",1
+"Neighbouring countries","L3-L4","Serbia",1
+"Neighbouring countries","L3-L4","Slovakia",1
 "Non-essential shops and/or businesses","L3-L4","Can open if respect social distancing measures",1
 "Non-essential shops and/or businesses","L3-L4","Can open if respect social distancing measures and opening hours reduced",3
 "Non-essential shops and/or businesses","L3-L4","Can open if respect social distancing measures and personal protective measures",3
@@ -3148,11 +3034,12 @@
 "Non-essential travels abroad/out-of-state forbidden","L3-L4","To France",1
 "Non-essential travels abroad/out-of-state forbidden","L3-L4","Travel to Tennessee forbidden",1
 "Non-essential travels abroad/out-of-state forbidden","L3-L4","Travelling ban for state employees",1
-"Non-EU/EEA countries","L3-L4","For specific personal or professional reasons",2
 "Obligation of reporting data on COVID-19 patients","L3-L4","",1
 "Obligation of reporting data on COVID-19 patients","L3-L4","Data on patients and materials in long-term facilites",1
 "Obligation of reporting data on COVID-19 patients","L3-L4","Data on patients and materials on hospitals",1
 "Obligation of reporting data on COVID-19 patients","L3-L4","Regulation for national register of COVID-19 patients",1
+"On two-wheels vehicule","L3-L4","Limit up to 1 household",2
+"On two-wheels vehicule","L3-L4","Limit up to 1 persons",2
 "One city","L3-L4","",10
 "One city","L3-L4","Metapan city",1
 "One city","L3-L4","Partial",1
@@ -3168,6 +3055,24 @@
 "One region","L3-L4","Ship in quarantaine for 14 days +",1
 "One state","L3-L4","",8
 "Organize notification","L3-L4","",1
+"Organized events","L3-L4","Limit up to 10 persons",1
+"Organized events","L3-L4","Limit up to 100 persons",16
+"Organized events","L3-L4","Limit up to 1000 persons",16
+"Organized events","L3-L4","Limit up to 15 persons",1
+"Organized events","L3-L4","Limit up to 150 persons",2
+"Organized events","L3-L4","Limit up to 20 persons",1
+"Organized events","L3-L4","Limit up to 200 persons",1
+"Organized events","L3-L4","Limit up to 250 persons",5
+"Organized events","L3-L4","Limit up to 30 persons",1
+"Organized events","L3-L4","Limit up to 300 persons",1
+"Organized events","L3-L4","Limit up to 50 persons",9
+"Organized events","L3-L4","Limit up to 500 persons",12
+"Organized events","L3-L4","Limit up to 5000 persons",6
+"Organized events","L3-L4","Limit up to 75 persons",1
+"Organized events","L3-L4","Limit up to 750 persons",1
+"Organized events and private meetings without seat allocation","L3-L4","Limit up to 12 persons",1
+"Organized events and private meetings without seat allocation","L3-L4","Limit up to 6 persons",1
+"Organized events without assigned and marked seats","L3-L4","Limit up to 100 persons",1
 "Outdoor outdoor sport and leisure facilities","L3-L4","Overnight in parks prohibited",1
 "Packages for personal hygiene and disinfection for low-income families","L3-L4","",1
 "Packages for personal hygiene and disinfection for low-income families","L3-L4","The government provides hygiene kits for women",1
@@ -3190,6 +3095,7 @@
 "Partial restriction on movements","L3-L4","Prohibtion of movement between permanent home and student home during the term",1
 "Partial restriction on movements","L3-L4","Travel for professional activities allowed",1
 "Partial restriction on movements","L3-L4","Visits to quarantined household forbidden",1
+"Partial: non-essential mass gatherings","L3-L4","Limit up to 100 persons",1
 "Patients with need of hospital care","L3-L4","",1
 "Patients with need of hospital care and healthcare staff","L3-L4","",2
 "Patients with need of hospital care and healthcare staff","L3-L4","With symptoms",1
@@ -3263,6 +3169,7 @@
 "PPE other than face masks","L3-L4","Purchase",1
 "PPE other than face masks","L3-L4","Purchase from China",1
 "PPE other than face masks","L3-L4","Purchase of full-body PPE",2
+"Practice of groups sports","L3-L4","Limit up to 6 persons",1
 "Prevalence estimation in the general population","L3-L4","",3
 "Prevalence estimation in the general population","L3-L4","At public transport stations",1
 "Prevalence estimation in the general population","L3-L4","Children under 10 year old",1
@@ -3289,6 +3196,8 @@
 "Prisons and youth detention centers","L3-L4","Suspend certain regulatory statutes",1
 "Prisons and youth detention centers","L3-L4","Virtual prison visits",1
 "Prisons and youth detention centers","L3-L4","Visit restriction in prisons and youth detention centers",8
+"Private and public events ","L3-L4","Limit up to 1000 persons",3
+"Private and public events ","L3-L4","Limit up to 300 persons",2
 "Private transports allowed","L3-L4","Intraprovincial",1
 "Private transports allowed","L3-L4","Limit up to 2 persons ",1
 "Private transports allowed","L3-L4","No limit on the number of passenger in private transport",1
@@ -3301,11 +3210,11 @@
 "Prohibition of export of protective personal equipment","L3-L4","Face masks and hand sanitizer",1
 "Prohibition of export of protective personal equipment","L3-L4","Outside European Union",1
 "Prohibition of export of protective personal equipment","L3-L4","PPE other than face masks",1
-"Prohibition of large gatherings","L3-L4","Unspecified",3
-"Prohibition of moving out the municipality of residence","L3-L4","ban on moving outside the municipality of permanent or temporary residence",2
-"Prohibition of moving out the municipality of residence","L3-L4","Ban on moving outside the municipality of permanent or temporary residence",2
+"Prohibition of large gatherings","L3-L4","Unspecified",4
+"Prohibition of moving out the municipality of residence","L3-L4","Ban on moving outside the municipality of permanent or temporary residence",1
 "Prohibition of moving out the municipality of residence","L3-L4","Ban on staying in cabins outside home municipality",1
 "Prohibition of moving out the municipality of residence","L3-L4","Ban on staying overnight at a holiday property in a municipality other than where they are registered as residing",1
+"Prohibition of moving out the municipality of residence","L3-L4","Ban on traveling outside the municipality of permanent or temporary residence",3
 "Prohibition of overnight stays away from place of residence","L3-L4","Exemption for bubble",1
 "Prohibition of overnight stays away from place of residence","L3-L4","Total",1
 "Prohibition of the hoarding of goods","L3-L4","",1
@@ -3671,6 +3580,7 @@
 "Re-opening of workplaces","L3-L4","Resume production and market of office supplies and stationery (home delivery only)",1
 "Reassure on food security","L3-L4","",1
 "Recommend the use of tracking app","L3-L4","In restaurants",2
+"Recreational places","L3-L4","Limit up to 10 persons",1
 "Reduce close physical contact in workplaces","L3-L4","",1
 "Reduce close physical contact in workplaces","L3-L4","Reduce close physical contact in for notary functions",2
 "Reduce duration of isolation for contact cases","L3-L4","Reduced to 7 days",1
@@ -3770,10 +3680,12 @@
 "Restriction on private and familial events","L3-L4","Limit up to 10 persons",3
 "Restriction on private and familial events","L3-L4","Limit up to 10 persons from two households",1
 "Restriction on private and familial events","L3-L4","Limit up to 15 persons sitting",1
+"Restriction on private and familial events","L3-L4","Limit up to 20 persons",1
 "Restriction on private and familial events","L3-L4","Limit up to 5 persons",2
 "Restriction on private and familial events","L3-L4","Limit up to 6 different households",2
-"Restriction on private and familial events","L3-L4","Limit up to 6 persons",2
+"Restriction on private and familial events","L3-L4","Limit up to 6 persons",4
 "Restriction on private and familial events","L3-L4","Limit up to 6 persons from two different households",1
+"Restriction on private and familial events","L3-L4","Limit up to 6 persons, except same household and support bubble",1
 "Restriction on private and familial events","L3-L4","Limit up to 8 persons",1
 "Restriction on private and familial events","L3-L4","Prohibition of burial at sea or cremation",1
 "Restriction on private and familial events","L3-L4","Prohibition of family celebrations",3
@@ -3789,6 +3701,13 @@
 "Restriction on private and familial events","L3-L4","Weddings: Limit up to 50 persons",1
 "Restriction on private and familial events","L3-L4","Weddings: Limit up to 6 persons",1
 "Restriction on the weekly number of social contacts","L3-L4","Limit up to 10 persons",1
+"Restriction on visa delivery or validity","L3-L4","Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden and Switzerland, Andorra, Bulgaria, Croatia, Cyprus, Egypt, Iran, Ireland, Monaco, Romania, San Marino, the United Kingdom, and Vatican",1
+"Restriction on visa delivery or validity","L3-L4","China",3
+"Restriction on visa delivery or validity","L3-L4","France, Germany and Spain",1
+"Restriction on visa delivery or validity","L3-L4","High-risk regions",1
+"Restriction on visa delivery or validity","L3-L4","Iran",1
+"Restriction on visa delivery or validity","L3-L4","Italy, Iran, South Korea, and Japan",1
+"Restriction on visa delivery or validity","L3-L4","Republic of Korea, Islamic Republic of Iran, Italy and Japan",1
 "Restrictions for private vehicles","L3-L4","70% of vehicles allowed",1
 "Restrictions for private vehicles","L3-L4","Mon - Fri: 2 days a week allowed",1
 "Restrictions for private vehicles","L3-L4","Mon - Sat: Traffic segmentation by license plate number",1
@@ -3839,19 +3758,19 @@
 "Resume international flights","L3-L4","",3
 "Resume international flights","L3-L4","All seats can be occupied + must respect hygiene measures",1
 "Resume international flights","L3-L4","Charter flights allowed to other states for Romanian seasonal workkers",1
+"Resume international flights","L3-L4","Countries considered at low risk",1
+"Resume international flights","L3-L4","EFTA, UE, Switzerland (except Sweden and Portugal)",1
+"Resume international flights","L3-L4","Finland, Italy, Estonia, Ireland, France",1
 "Resume international flights","L3-L4","From and to UK",1
 "Resume international flights","L3-L4","Lift the transit ban",2
 "Resume international flights","L3-L4","Mandatory locator form upon arrival",1
+"Resume international flights","L3-L4","Montenegro, Georgia, Japan, Canada, the Republic of Albania, the Republic of Korea, Ukraine",1
 "Resume international flights","L3-L4","Negative PCR test",1
 "Resume international flights","L3-L4","Negative PCR test < 5 days",1
 "Resume international flights","L3-L4","Negative PCR test < 7 days",1
 "Resume international flights","L3-L4","Negative PCR test < 72h",1
 "Resume international flights","L3-L4","Negative PCR test < 72h (depending on the country of origin)",1
 "Resume international flights","L3-L4","Negative PCR test < 96h",1
-"Resume international flights","L3-L4","Passengers from countries considered at low risk",1
-"Resume international flights","L3-L4","Passengers from EFTA, UE, Switzerland allowed (appart from Sweeden and Portugal",1
-"Resume international flights","L3-L4","Passengers from Finland, Italy, Estonia, Ireland, and France allowed",1
-"Resume international flights","L3-L4","Passengers from Montenegro, Georgia, Japan, Canada, the Republic of Albania, the Republic of Korea and Ukraine allowed",1
 "Resume international flights","L3-L4","With a defined health protocol",2
 "Resume one-to-one courses","L3-L4","Re-opening of driving schools",11
 "Resume one-to-one courses","L3-L4","Resume driver testing for buses, tractors",1
@@ -3913,7 +3832,7 @@
 "Return operation of nationals","L3-L4","Return operation of nationals in North Korea",1
 "Return operation of nationals","L3-L4","Return operation of nationals in Pakistan",2
 "Return operation of nationals","L3-L4","Return operation of nationals in Peru, Colombia",1
-"Return operation of nationals","L3-L4","Return operation of nationals in Philppines",1
+"Return operation of nationals","L3-L4","Return operation of nationals in Philippines",1
 "Return operation of nationals","L3-L4","Return operation of nationals in regions at risk:  Italy, Spain, Poland, Germany, Morocco, Iraq, Northern Macedonia, Urkraine",1
 "Return operation of nationals","L3-L4","Return operation of nationals in Serbia",1
 "Return operation of nationals","L3-L4","Return operation of nationals in Shanghai",2
@@ -4025,6 +3944,7 @@
 "Specific measures to avoid congestion","L3-L4","Reduce number of passengers",11
 "Specific measures to avoid congestion","L3-L4","Reduce number of passengers in buses",1
 "Specific measures to avoid congestion","L3-L4","Reduce number of passengers in trains",1
+"Specified hygienic conditions","L3-L4","Limit up to 100 persons",1
 "Speed notification","L3-L4","",1
 "Sport competitors can resume training","L3-L4","",2
 "Sport competitors can resume training","L3-L4","Allow outdoor training for elite athletes",1
@@ -4038,9 +3958,9 @@
 "Sport competitors can resume training","L3-L4","Resume professional sport training indoors",1
 "Sport competitors can resume training","L3-L4","Testing all people involved",1
 "Sport competitors can resume training ","L3-L4","Swimming pools",2
-"Sport events","L3-L4","",30
+"Sport events","L3-L4","",31
+"Sport events","L3-L4","All",2
 "Sport events","L3-L4","All public events prohibited",1
-"Sport events","L3-L4","All, indoor and outdoor",2
 "Sport events","L3-L4","Ban on competitions of sports with close physical contact",1
 "Sport events","L3-L4","Ban rallies",1
 "Sport events","L3-L4","Boxing tournament",2
@@ -4048,7 +3968,6 @@
 "Sport events","L3-L4","Football games: spectators excluded",1
 "Sport events","L3-L4","Gulf women futsal championship postponed",1
 "Sport events","L3-L4","Ice hockey",1
-"Sport events","L3-L4","Indoor cancelled",1
 "Sport events","L3-L4","Judo Olympic qualifying",1
 "Sport events","L3-L4","Limit up to 10 persons",1
 "Sport events","L3-L4","Limit up to 50 persons",1
@@ -4144,7 +4063,7 @@
 "Strengthen communication capacities","L3-L4","Training of the communication actors",1
 "Support e-learning for children in vulnerable environment","L3-L4","",3
 "Support e-learning for children in vulnerable environment","L3-L4","Computer donation platform",1
-"Support groups ","L3-L4","Limit up to 15 persons",1
+"Support groups","L3-L4","Limit up to 15 persons",2
 "Support production of medical equipment for developing countries","L3-L4","Production of simple and inexpensive respirators",1
 "Suspected cases","L3-L4","",4
 "Suspected cases","L3-L4","All tested for Covid-19 until the test results",1
@@ -4172,7 +4091,7 @@
 "Suspend indoor social and leisure activities","L3-L4","Sport indoor and spa",5
 "Suspend transit services at the airport","L3-L4","",2
 "Swabs","L3-L4","Increase domestic production",1
-"Symptomatic incomings from Wuhan","L3-L4","",1
+"Symptomatic travellers","L3-L4","Wuhan",1
 "Syndromic surveillance","L3-L4","Activation of the global health monitoring system",1
 "Syndromic surveillance","L3-L4","Health screening of the population via phone call or app",5
 "Syndromic surveillance","L3-L4","Via an app",2
@@ -4196,6 +4115,8 @@
 "Targeted testing","L3-L4","Test security officers",1
 "Targeted testing","L3-L4","Tighten testing requirement for crew members",2
 "Targeted testing","L3-L4","Vulnerable people",3
+"Taxis and taxi-like operations","L3-L4","Limit up to 2 persons per row of seats",1
+"Taxis and taxi-like operations","L3-L4","Limit up to 3 persons",3
 "Temperature screening at airport","L3-L4","< 5 countries/regions",1
 "Temperature screening at airport","L3-L4","All incomings",7
 "Temperature screening at airport","L3-L4","Incomings from China",14
@@ -4391,9 +4312,21 @@
 "Travel ban to high-risk areas","L3-L4","To and from Austria",1
 "Travel ban to high-risk areas","L3-L4","Tour group departure",1
 "Travel outside infected areas forbidden","L3-L4","Except for essential services",2
-"travellers coming from outside state/country","L3-L4","Respect 2m distance",1
+"Travellers coming from outside state/country","L3-L4","Respect 2m distance",1
 "Triage system for tests","L3-L4","",1
 "United Nations Development Program","L3-L4","Economic support to small and medium enterprises",1
+"Unspecified","L3-L4","Limit up to 10 different households",2
+"Unspecified","L3-L4","Limit up to 10 persons",11
+"Unspecified","L3-L4","Limit up to 100 persons",6
+"Unspecified","L3-L4","Limit up to 1000 persons",1
+"Unspecified","L3-L4","Limit up to 15 persons",1
+"Unspecified","L3-L4","Limit up to 2 persons",1
+"Unspecified","L3-L4","Limit up to 250 persons",4
+"Unspecified","L3-L4","Limit up to 5 persons",1
+"Unspecified","L3-L4","Limit up to 50 persons",12
+"Unspecified","L3-L4","Limit up to 500 persons",2
+"Unspecified","L3-L4","Limit up to 6 persons",2
+"Unspecified","L3-L4","Limit up to 75 persons",1
 "US and NATO","L3-L4","",1
 "Use existing respiratory disease surveillance systems","L3-L4","",4
 "Use of PPE at workplace","L3-L4","Mandatory gloves for employees, access to hand sanitizers, and 1.5 m distance",1
@@ -4414,4 +4347,6 @@
 "Voluntary lockdown of affected cities and provinces","L3-L4","",1
 "Vulnerable people can resume work activity","L3-L4","When teleworking is not possible",1
 "With medical doctors","L3-L4","Give them a role in the protection of workers at workplace",1
+"Work place","L3-L4","Limit up to 10 persons",1
+"Work place","L3-L4","Limit up to 5 persons",1
 "World Bank","L3-L4","",2
