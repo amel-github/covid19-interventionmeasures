@@ -3,7 +3,7 @@ CCCSL: Complexity Science Hub COVID-19 Control Strategies List
 Update 2021-03-01
 
 [Context](#Context)  
-[Objectives of the Project](#Objective)  
+[Objective of the Project](#Objective)  
 [Methods](#Methods)  
 [Note on the Data](#Note%20on%20the%20Data)  
 [Data Sources](#Data%20Sources)  
@@ -36,7 +36,7 @@ crisis is crucial to understand the progression of the epidemic and its
 impacts, e.g. on the society, the economy, public health, or human
 rights.
 
-## Objectives of the Project <a name="Objective"></a>
+## Objective of the Project <a name="Objective"></a>
 
 Started in mid-March 2020, our project aims to generate a comprehensive
 structured dataset on government responses to COVID-19, including the
