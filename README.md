@@ -176,17 +176,11 @@ Austria](https://www.csh.ac.at). <br> This work is supported by the
 [University of Veterinary Medicine Vienna,
 Austria](https://www.vetmeduni.ac.at/).
 
-![](Vetmed_Logo3.png)             ![](CSH_Logo3.png)
-
- 
-
 ## Funding <a name="Funding"></a>
 
 EOSCsecretariat.eu has received funding from the European Union’s
 Horizon Programme call H2020-INFRAEOSC-05-2018-2019, grant Agreement
 number 831644.
-
-![Screenshot](eosc_logo2.png)  
 
 ## Contact <a name="Contact"></a>
 
